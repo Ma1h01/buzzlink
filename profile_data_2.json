@@ -1,0 +1,1434 @@
+[
+    {
+        "educations": [
+            {
+                "school": "Georgia Institute of Technology",
+                "degree": "Bachelor of Science - BS",
+                "major": "Computer Science",
+                "start_date": "Aug 2021",
+                "end_date": "May 2026",
+                "description": "Grade: 3.87/4.00\nConcentration: Artificial Intelligence & Modeling/Simulation\nMinor in Robotics\nSkills: Data Science \u00b7 PyTorch \u00b7 Scikit-Learn \u00b7 Jira \u00b7 NumPy \u00b7 Agile Project Management \u00b7 Python (Programming Language) \u00b7 Git \u00b7 Java \u00b7 C (Programming Language) \u00b7 Machine Learning \u00b7 Software Development \u00b7 Algorithms \u00b7 Version Control"
+            },
+            {
+                "school": "Georgia Institute of Technology",
+                "degree": "Bachelor of Science - BS",
+                "major": "Biomedical Engineering",
+                "start_date": "Aug 2021",
+                "end_date": "May 2026",
+                "description": "Core courses: Medical Image Processing, Biomechanics, Physiology, BME Design, Circuits\nSkills: Computational Neuroscience \u00b7 Wet Lab \u00b7 Signal Processing \u00b7 Instrumentation \u00b7 Manufacturing \u00b7 Medical Devices \u00b7 Research \u00b7 MATLAB \u00b7 Prototyping \u00b7 Arduino \u00b7 Autodesk Fusion 360"
+            },
+            {
+                "school": "Georgia Institute of Technology",
+                "degree": "Minor",
+                "major": "Robotics",
+                "start_date": null,
+                "end_date": "May 2026",
+                "description": "Skills: Mechanical Engineering \u00b7 Sensors \u00b7 Image Processing \u00b7 Robotics"
+            }
+        ],
+        "projects": [
+            {
+                "project_name": "Skin Cancer Detection Using YOLOv8",
+                "start_date": "Nov 2024",
+                "end_date": "Dec 2024",
+                "description": "\u2022Trained a deep learning model based on YOLOv8 for skin cancer detection, segmentation, and classification.\n\u2022Fine-tuned the model on a public dataset, achieving 86% mAP50, 82% precision, and 83% recall for segmentation.\n\u2022Implemented visualization scripts using Matplotlib to evaluate results and assess model performance.\n\u2022Designed a Python-based workflow in Jupyter Notebook with Pandas for efficient data processing."
+            },
+            {
+                "project_name": "Algorithms for Warehouse Robot",
+                "start_date": "Dec 2023",
+                "end_date": "Dec 2023",
+                "description": "\u2022Developed various algorithms in Python for automated mapping and package retrieval in a warehouse setting\n\u2022Implemented frontier exploration and RRT for efficient mapping and landmark detection using an occupancy grid\n\u2022Improved package handling precision by integrating PID controller to manage wheel velocity noise\n\u2022Applied Scikit-learn, developed an image classifier using HOG/SIFT for feature extraction and SVM for object recognition\n\u2022Implemented RANSAC for precise edge detection, ensuring perpendicular camera alignment for better imagery"
+            },
+            {
+                "project_name": "Android Game Development",
+                "start_date": "Aug 2023",
+                "end_date": "Nov 2023",
+                "description": "\u2022Developed an Android game using Java and XML with 5 team members, employing OOD and Agile methodologies\n\u2022Led the implementation of obstacles, collision and attack functionalities using Factory, Strategy, and Observer patterns\n\u2022Managed version control through GitHub, orchestrated sprint activities via Jira, created UML diagrams such as SD and DCD for clear system visualization, conducted 30+ unit testings within Android Studio to ensure application stability"
+            },
+            {
+                "project_name": "Diagnostic device for Parkinson\u2019s Disease",
+                "start_date": "Aug 2022",
+                "end_date": "Dec 2022",
+                "description": "\u00b7 Worked in a team of 5 to design and prototype a Parkinson's diagnostic glove for rural communities\n\u00b7 Analyzed 30+ research studies to understand why rural populations are more affected by Parkinson's disease\n\u00b7 Proposed 5 design concepts addressing such disparity and selected the optimal one for prototyping\n\u00b7 Implemented an Arduino program to process raw IMU signals and trained a machine learning model in MATLAB to evaluate the risk of Parkinson\u2019s"
+            },
+            {
+                "project_name": "Deep Network for Semantic Segmentation",
+                "start_date": null,
+                "end_date": null,
+                "description": "\u00b7 Implemented and trained semantic segmentation models (PSPNet, ResNet) using PyTorch, achieving mIoU of 0.683 on the CamVid dataset\n\u00b7 Optimized model performance with ImageNet-pretrained backbones, data augmentation, auxiliary loss, and Pyramid Pooling Modules (PPM).\n\u00b7 Implemented a scalable training and evaluation pipeline in Python on Google Colab with GPU acceleration."
+            },
+            {
+                "project_name": "Multithreaded Scheduling Simulation in C",
+                "start_date": null,
+                "end_date": null,
+                "description": "Developed a CPU scheduling simulation for multithreaded systems in C as a systems programming course project.\nImplemented thread-safe scheduling algorithms with pthread mutexes for process synchronization and dynamic priority handling in multi-core environments.\nLeveraged GDB for debugging and executed simulations on Ubuntu within a Docker container."
+            },
+            {
+                "project_name": "Pet Emotion Recognition AI",
+                "start_date": null,
+                "end_date": null,
+                "description": "\u2022Developed a pet\u2019s facial expression classifier with 4 teammates to help pet parents better understand their pets' emotions\n\u2022Fine-tuned 3 pre-trained models (ResNet50, EfficientNetB5 and DenseNet121); leveraged Keras for deep learning pipeline implementation\n\u2022Implemented PCA preprocessing to normalize the diverse dataset, analyzed classifier performance using confusion matrix and ROC curve\n\u2022Achieved above 90% accuracy in classifying complex emotional expressions"
+            },
+            {
+                "project_name": "Stereo Vision Feature Matching",
+                "start_date": null,
+                "end_date": null,
+                "description": "\u00b7 Developed a computer vision pipeline to match features across stereo images and calibrate camera views.\n\u00b7 Implemented Harris corner detection to locate interest points and crafted SIFT-like descriptors with a nearest-neighbor ratio test for reliable feature matching.\n\u00b7 Applied SVD and normalization to calculate projection and fundamental matrices, ensuring accurate camera alignment.\n\u00b7 Achieved 80% feature matching accuracy with precise 3D-to-2D mapping."
+            },
+            {
+                "project_name": "Traffic Simulation with Cellular Automata",
+                "start_date": null,
+                "end_date": null,
+                "description": "\u2022Developed a two-lane traffic simulation using stochastic cellular automata to model traffic dynamics, incorporating randomization to reflect real-world driving behavior\n\u2022Implemented lane-specific behaviors such as acceleration, cautious lane changing with safety checks, and deceleration; used Python for simulation and Matplotlib for visualization to analyze traffic flow over time\n\u2022Enhanced understanding of traffic flow dynamics, providing insights for traffic congestions"
+            },
+            {
+                "project_name": "VEX Competition Robot",
+                "start_date": null,
+                "end_date": null,
+                "description": "\u00b7 Achieved the First Prize and Best Engineering Notes Award at the VEX Robotic Competition Asian Open 2019\n\u00b7 Worked in a team of 5 to design and construct an autonomous robot to navigate the game field and compete against other robots through a series of point-scoring actions\n\u00b7 Developed an autopilot program that integrates various sensor inputs to facilitate maneuvering and game decisions"
+            }
+        ],
+        "name": "Minkun Lei",
+        "profile_pic": "https://media.licdn.com/dms/image/v2/D4E35AQFup-lQc6vRGQ/profile-framedphoto-shrink_100_100/profile-framedphoto-shrink_100_100/0/1738879957987?e=1743127200&amp;v=beta&amp;t=zertoFCmDi4vbl2PqUXGPwUMQIeg19xDXHbTc2sIK6Y",
+        "headline": "CS &amp; BME @ Georgia Tech | Medical Robotics &amp; AI Enthusiast | 2025 Spring Co-op @ Intuitive Surgical",
+        "location": "Atlanta, Georgia, United States",
+        "about": "- Broad interdisciplinary experience spanning medical devices, robotics, software development, and biotech.\n- Proficient in programming languages including Python, Java, C/C++, MATLAB, Shell Scripts, XML, and Assembly.\n- Thrive in dynamic environments that require adaptability, self-directed learning, and cross-functional team collaboration.\n- Passionate about innovation, continuously advancing skills in computer vision, deep learning, and data science",
+        "experiences": [
+            {
+                "title": "Robotic System Test Engineer Co-op",
+                "company": "Intuitive",
+                "work_type": "Internship",
+                "start_date": "Jan 2025",
+                "end_date": "Present",
+                "location": "Raleigh-Durham-Chapel Hill Area",
+                "description": "Creating automated tests in Python, hunting bugs and investigating test failures for the da Vinci robotic surgical system; wide exposure to various testing (UI, system, reliability, exploratory)."
+            },
+            {
+                "title": "Robotic System Test Engineer Co-op",
+                "company": "Intuitive",
+                "work_type": "Internship",
+                "start_date": "May 2024",
+                "end_date": "Aug 2024",
+                "location": "Raleigh-Durham-Chapel Hill Area",
+                "description": "Developed a process-automation tool using Python to track changes in design docs &amp; test protocols and configured a Jenkins script to run the tool daily, automating the following tasks:\n\u2022 Parsing data fields from hundreds of Jira tickets using regex and the Jira API\n\u2022 Filtering, cleaning, and integrating data into pivot tables using Pandas\n\u2022 Generating test plan summaries and tables with hyperlinked content on Confluence\nPerformed manual &amp; automated testing on software update releases for the da Vinci robotic surgical system:\n\u2022 Executed 100+ test cases (focusing on system setup, error handling, SW installation, and UI features)\n\u2022 Debugged faulted automated test scripts in Python, committed software updates via Bitbucket, SVN and GIT"
+            },
+            {
+                "title": "Robotic Software R&amp;D Intern",
+                "company": "SAITE Intelligence",
+                "work_type": "Internship",
+                "start_date": "Jun 2023",
+                "end_date": "Jul 2023",
+                "location": "On-site",
+                "description": "\u2022 Developed a real-time C++ algorithm to determine the floor level of robots by integrating data from 2 barometers; created a Python script to evaluate and visualize algorithm performance using Matplotlib\n\u2022 Tested the performance of a 3D-Lidar under various environments using ROS command line tools and composed testing reports for the Lidar company to improve the product (reduce noise in point cloud)\n\u2022 Implemented a MATLAB program to process signals collected by robot accelerometers on various terrains, extracting key kinematic parameters for mechanical engineers to use in simulated vibration testing"
+            },
+            {
+                "title": "Undergraduate Researcher at Dr. Krish Roy's Lab",
+                "company": "The Wallace H. Coulter Department of Biomedical Engineering at Georgia Tech and Emory University",
+                "work_type": "Part-time",
+                "start_date": "May 2022",
+                "end_date": "Dec 2022",
+                "location": "Atlanta, Georgia, United States",
+                "description": "The project focuses on developing a multi-layer human lung-on-chip (microfluidics) device to study lung immune dysfunction including fibrosis and cancer. The device consists of a 3D microvasculature network and an epithelial layer at air-liquid interface separated by a membrane.\nMy work mainly involves creating this membrane through electrospinning biocompatible materials as well as optimizing the process parameters through SEM imaging and data analysis; manufactured the airway-vasculature structure through PDMS molding and plasma bonding for testing and experimentation."
+            }
+        ],
+        "certifications": [
+            {
+                "certificate_name": "Group 1 Biomedical research Investigators and Key Personnel",
+                "issued_by": "CITI Program",
+                "issue_date": null,
+                "exp_date": null
+            },
+            {
+                "certificate_name": "Modern C++ for Programmers",
+                "issued_by": "Udemy",
+                "issue_date": null,
+                "exp_date": null
+            }
+        ],
+        "id": "https://www.linkedin.com/in/minkun-lei-a145b6220"
+    },
+    {
+        "projects": [
+            {
+                "project_name": "Network Monitoring and Scanning Project",
+                "start_date": "May 2024",
+                "end_date": "Jul 2024",
+                "description": "The goal of this project was to develop and execute a network monitoring and scanning system to analyze network traffic, identify devices, and assess network security. In this project, I installed and configured Wireshark and Nmap to monitor and analyze network traffic and perform network scans. I also captured and analyzed network packets using Wireshark to observe traffic patterns, identify protocols, and detect anomalies. To conclude, I executed network scans with Nmap to discover active devices, open ports, and services, assessing network exposure and vulnerabilities, and documented the findings into a comprehensive report."
+            },
+            {
+                "project_name": "Reverse Engineering Malware",
+                "start_date": "Feb 2023",
+                "end_date": "Apr 2024",
+                "description": "The aim of this project was to gain hands-on experience in reverse engineering and analyzing a variety of malware samples to understand their behavior, attack mechanisms, and potential impact on systems. Throughout this project I reverse-engineered and analyzed a diverse set of malware samples, including Michelangelo.1, DOS-7, SQLSlammer, Lucius, and Harulf to understand their code, structure, and functionality. I also utilized tools such as IDA Pro and OllyDbg to dissect and interpret the behavior of each malware sample."
+            },
+            {
+                "project_name": "Laser Reflection Challenge Kit",
+                "start_date": "Aug 2023",
+                "end_date": "Dec 2023",
+                "description": "Led a multi-disciplinary team in developing an interactive educational kit engaging 4th graders in STEM. Orchestrated software architecture and risk-reduction plans, contributing to software functionalities and debugging. Coordinated power system analysis and design, ensuring seamless integration with electrical components. Collaborated on mechanical design using CAD for precision parts. Successfully managed project phases, culminating in a functional prototype. Led the software sub-system of the kit which involved the user interface, mirror module, and the main file."
+            },
+            {
+                "project_name": "Analyzation of a Denial-of-Service attack using Wireshark | Google Cybersecurity",
+                "start_date": "May 2023",
+                "end_date": "Aug 2023",
+                "description": "The goal of this individual project was to simulate a Denial-of-Service attack and evaluate the logs using Wireshark to depict where the attack is. This was done by looking at the Info section of the Wireshark Log. Afterwards an Incident report was constructed. In this projejct I edited the log to be color coded for attack activity and normal activity. The Log was completed by running a Wireshark search temporarily and stopping it after 50 seconds. When reading the logs, the red area indicates the attack activity and where to search for the DoS attack."
+            },
+            {
+                "project_name": "Neopixel Peripheral Design Project",
+                "start_date": "Jan 2022",
+                "end_date": "May 2022",
+                "description": "The goal of this team project was to implement a multitude of functionalities including having the neopixel controller controlling a design of the Tech Tower building of Georgia Tech, implementing a multitude of functionalities. These functionalities were decided on by meeting with the customer multiple times. As a member of the group I presented half of the total numbers of functionalities included in the project. I also implemented the functionality of controlling 256 pixels and setting a 24-bit color to any pixel, and presented the blueprint of the controller to the consumer."
+            }
+        ],
+        "certifications": [
+            {
+                "certificate_name": "CompTIA Security+",
+                "issued_by": "CompTIA",
+                "issue_date": "Jul 2024",
+                "exp_date": "Jul 2027"
+            },
+            {
+                "certificate_name": "Google Cybersecurity Certificate",
+                "issued_by": "Google",
+                "issue_date": "Aug 2023",
+                "exp_date": null
+            },
+            {
+                "certificate_name": "Google Cybersecurity Certificate",
+                "issued_by": "Coursera",
+                "issue_date": "Aug 2023",
+                "exp_date": null
+            }
+        ],
+        "name": "Yimaj Ahmed",
+        "profile_pic": "https://media.licdn.com/dms/image/v2/D4E03AQEestmC84AkIA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1711113409478?e=1747872000&v=beta&t=T41gOg9Gg7DS03jv5fy2oWxwdzFO01Ha-kjxdIgqctk",
+        "headline": "Cybersecurity Analyst @ Naval Nuclear Laboratory | Georgia Tech CompE Grad |",
+        "location": "Atlanta, Georgia, United States",
+        "about": "Cybersecurity Analyst at Naval Nuclear Laboratory and Georgia Tech CompE graduate with expertise in network security, threat detection, and risk management. Passionate about securing critical systems and staying ahead of evolving cyber threats. Skilled in embedded systems, cryptography, and secure software development, with a problem-solving mindset. Always open to connecting and collaborating on cybersecurity and tech innovations.\n\n\ud83d\udce9 Let\u2019s connect!",
+        "experiences": [
+            {
+                "title": "Cybersecurity Analyst",
+                "company": "Naval Nuclear Laboratory (FMP)",
+                "work_type": "Full-time",
+                "start_date": "Feb 2025",
+                "end_date": "Present",
+                "location": "Pittsburgh, Pennsylvania, United States",
+                "description": "Mastercard is a global technology company in the payments industry, providing secure and innovative payment solutions for consumers worldwide. As a Cyber Security Analyst, I analyzed and identified areas of the business that needed more robust security training and implemented those procedures. I also aided in identifying and reporting security threats such as phishing."
+            },
+            {
+                "title": "Cyber Security Analyst",
+                "company": "Mastercard",
+                "work_type": "Internship",
+                "start_date": "Jun 2023",
+                "end_date": "Aug 2023",
+                "location": "Remote",
+                "description": "Mastercard is a global technology company in the payments industry, providing secure and innovative payment solutions for consumers worldwide. As a Cyber Security Analyst, I analyzed and identified areas of the business that needed more robust security training and implemented those procedures. I also aided in identifying and reporting security threats such as phishing."
+            },
+            {
+                "title": "Cyber Security Intern",
+                "company": "Clifford Chance",
+                "work_type": "Internship",
+                "start_date": "Jan 2023",
+                "end_date": "Jun 2023",
+                "location": "Remote",
+                "description": "Clifford Chance Law Firm is a prominent multinational law firm known for its expertise in providing comprehensive legal services globally. As a Cyber Security Intern, I assisted various clients with legal issues relating to cyber breaches, and Notified stakeholders about data breaches. I also provided guidance on responding to an ICO Dawn Raid to the managing partner of online travel companies and formulated defensive strategies for a client with data center operations to respond to data breaches."
+            }
+        ],
+        "educations": [
+            {
+                "school": "Georgia Institute of Technology",
+                "degree": "Bachelor of Engineering - BE, Computer Engineering",
+                "major": "Computer Engineering",
+                "start_date": "Aug 2019",
+                "end_date": "May 2024",
+                "description": "Computer Engineering Major with concentrations in Cybersecurity and Distributed System &amp; Software Design."
+            }
+        ],
+        "id": "https://www.linkedin.com/in/yimaj-ahmed-ba795b251"
+    },
+    {
+        "name": "Emanuel Goldin",
+        "profile_pic": "https://media.licdn.com/dms/image/v2/D4E03AQFK3-WR6BDXLQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1721758564304?e=1747872000&v=beta&t=GYW7gvECEM9msDVMbgsFx9fAe95Kx-QaeuqSN9HbbKg",
+        "headline": "3rd Year BSMS in Computer Science at Georgia Tech",
+        "location": "Atlanta, Georgia, United States",
+        "about": null,
+        "experiences": [
+            {
+                "title": "Machine Learning TA",
+                "company": "Georgia Institute of Technology",
+                "work_type": null,
+                "start_date": "Aug 2024",
+                "end_date": "Present",
+                "location": "Atlanta, Georgia, United States",
+                "description": null
+            },
+            {
+                "title": "Co-Founder of USCCO",
+                "company": "United States Collegiate Calisthenics Organization",
+                "work_type": null,
+                "start_date": "Jul 2024",
+                "end_date": "Present",
+                "location": null,
+                "description": null
+            }
+        ],
+        "educations": [
+            {
+                "school": "Georgia Institute of Technology",
+                "degree": null,
+                "major": null,
+                "start_date": "2022",
+                "end_date": "2026",
+                "description": null
+            }
+        ],
+        "projects": [],
+        "certifications": [],
+        "id": "https://www.linkedin.com/in/emanuel-goldin-8a9920250"
+    },
+    {
+        "experiences": [
+            {
+                "title": "Research Assistant",
+                "company": "Georgia Institute of Technology",
+                "work_type": "Part-time",
+                "start_date": "Jan 2025",
+                "end_date": "Present",
+                "location": "Atlanta, Georgia, United States",
+                "description": "Develop and optimize a flexible expert parallelism framework for MoE-structured LLMs under the guidance of Ph.D. Cheng Wan and Prof. Celine Lin."
+            },
+            {
+                "title": "Graduate Teaching Assistant",
+                "company": "Georgia Institute of Technology",
+                "work_type": "Part-time",
+                "start_date": "Aug 2023",
+                "end_date": "Present",
+                "location": "Atlanta, Georgia, United States",
+                "description": "GTA for CS 4220/6230 Real-Time Embedded Systems(2023 Fall)\nGTA for CS 4365/6365 Introduction to Enterprise Computing(2024 Spring, 2025 Spring)"
+            },
+            {
+                "title": "Research Engineer Intern",
+                "company": "ByteDance",
+                "work_type": "Internship",
+                "start_date": "Sep 2024",
+                "end_date": "Dec 2024",
+                "location": "Bellevue, Washington, United States",
+                "description": "MLSys Research Intern at Seed-Foundation team, building systems for LLM pre-training."
+            },
+            {
+                "title": "Software Engineer Intern",
+                "company": "Google",
+                "work_type": "Internship",
+                "start_date": "May 2024",
+                "end_date": "Aug 2024",
+                "location": "Sunnyvale, California, United States",
+                "description": "Worked in Borglet Accelerator team under Core ML to apply Nvidia virtual GPU into Borg to allow fractional GPU allocation and vGPU-attached VM live migration."
+            },
+            {
+                "title": "Research Engineer Intern",
+                "company": "ByteDance",
+                "work_type": "Internship",
+                "start_date": "May 2023",
+                "end_date": "Aug 2023",
+                "location": "Beijing, China",
+                "description": "MLSys Intern at the AML(Applied Machine Learning) team, accelerating LLM pre-training.\nSkills:PyTorch \u00b7 CUDA \u00b7 Cutlass"
+            },
+            {
+                "title": "Undergraduate Research Assistant",
+                "company": "Northeastern University",
+                "work_type": "Internship",
+                "start_date": "Sep 2022",
+                "end_date": "May 2023",
+                "location": "Boston, Massachusetts, United States",
+                "description": "Worked with Prof. Cheng Tan on an ML serving system that leverages Multi-Instance GPU(MIG) to boost GPU utilization on the cloud. Our work has been published on the 2024 ACM International Systems and Storage Conference.\nSkills:Google Cloud Platform (GCP) \u00b7 PyTorch \u00b7 Kubernetes Operator \u00b7 Kubernetes"
+            },
+            {
+                "title": "Undergraduate Research Program Leader",
+                "company": "Shanghai Jiao Tong University",
+                "work_type": "Internship",
+                "start_date": "Sep 2021",
+                "end_date": "Sep 2022",
+                "location": "Shanghai, China",
+                "description": "A PRP project advised by Prof. Yubin Xia and Ph.D. Mingyu Li from the institute of parallel and distributed systems(IPADS).\nLed a team to implement a personal data analysis and storage system on Hikey960 using OPTEE and AOSP.\nDesigned and developed an app to generate SJTU students\u2019 personal annual reports."
+            },
+            {
+                "title": "Database System R&amp;D Intern",
+                "company": "RisingWave Labs",
+                "work_type": "Internship",
+                "start_date": "Feb 2022",
+                "end_date": "Jun 2022",
+                "location": "Shanghai, China",
+                "description": "Skills:Stream Processing \u00b7 Rust \u00b7 Database Design\nGitHub - risingwavelabs/risingwave: \ud83d\ude80SQL stream processing with Postgres-like experience. \ud83e\ude84More than a modern alternative to Apache Flink.\nGitHub - risinglightdb/risinglight: An OLAP database system for educational purpose"
+            }
+        ],
+        "educations": [
+            {
+                "school": "Georgia Institute of Technology",
+                "degree": "Master of Science - MS",
+                "major": "Computer Science",
+                "start_date": "Aug 2023",
+                "end_date": "May 2025",
+                "description": "Grade: 4.0\nComputing Systems Track"
+            },
+            {
+                "school": "Shanghai Jiao Tong University",
+                "degree": "Bachelor of Engineering - BE",
+                "major": "Software Engineering",
+                "start_date": "Sep 2019",
+                "end_date": "Jun 2023",
+                "description": "Grade: 3.96 (91.18/100) Top 3%\nSystems Software Track\nNational Scholarship, Outstanding Graduate"
+            },
+            {
+                "school": "Hangzhou Xuejun High School",
+                "degree": "High School Diploma",
+                "major": null,
+                "start_date": "Sep 2016",
+                "end_date": "Jun 2019",
+                "description": "Activities and societies: Chinese Physics Olympiad"
+            }
+        ],
+        "name": "Xinpeng Wei",
+        "profile_pic": "https://media.licdn.com/dms/image/v2/D4E35AQHcILyLC487aA/profile-framedphoto-shrink_200_200/profile-framedphoto-shrink_200_200/0/1724063531331?e=1743127200&v=beta&t=lS-yEHfDxXi1OtS2IdrREdKMVj_7YL31eeKFljXYmes",
+        "headline": "Building Systems for LLM | ex-@Google Core ML, @ByteDance Seed MLSys, @Microsoft Cloud+AI | M.S. CS @Georgia Tech | B.E. SE @SJTU",
+        "location": "Atlanta Metropolitan Area",
+        "about": "As a computer systems enthusiast, my current focus centers on building scalable and robust systems for large-scale machine learning workloads like large language models(LLMs). Specifically, I'm dedicated to high-performance/parallel computing(e.g. CUDA), distributed training(e.g. EP, DP, PP, TP), machine learning frameworks(e.g. PyTorch), and other fancy technologies in this emerging field.Additionally, I also have extensive experience developing operating systems, cloud infrastructure(Kubernetes), and database systems(Cloud-Native Streaming Database).",
+        "projects": [
+            {
+                "project_name": "GitHub - volcengine/veScale: A PyTorch Native LLM Training Framework",
+                "start_date": null,
+                "end_date": null,
+                "description": "A PyTorch Native LLM Training Framework"
+            }
+        ],
+        "certifications": [
+            {
+                "certificate_name": "Microsoft Global Hackathon 2022",
+                "issued_by": "Microsoft",
+                "issue_date": "Aug 2022",
+                "exp_date": null
+            }
+        ],
+        "id": "https://www.linkedin.com/in/william-xp-wei"
+    },
+    {
+        "name": "Narain Singaram",
+        "profile_pic": "https://media.licdn.com/dms/image/v2/D4D03AQGwXyc2kUZkTQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1697569396506?e=1747872000&v=beta&t=sE2R8jRZNp1iS2JkkH4T0jS6_9s9GVxGzRayw9pj-uY",
+        "headline": "Gen AI SWE Intern @ VDart | CS Student @ West Forsyth HS",
+        "location": "Cumming, Georgia, United States",
+        "about": null,
+        "experiences": [
+            {
+                "title": "AI/Data Science Intern",
+                "company": "VDart",
+                "work_type": "Part-time",
+                "start_date": "Jun 2024",
+                "end_date": "Sep 2024",
+                "location": "Remote",
+                "description": "- Accompanied with a 6-intern team in the development of a sophisticated multimodal AI chatbot using advanced technologies, including Python, Streamlit, and the Gemini API. Achieved an impressive 98% accuracy on a comprehensive dataset exceeding 5000+ rows\n- Engineered the chatbot to adeptly process and filter data from over 3,500 individual records, leveraging Natural Language Processing (NLP) to enhance user interactions and manage diverse datasets efficiently.\n- Utilized Matplotlib and SQL Workbench to rigorously test and validate more than 150 SQL queries, ensuring exceptional data integrity and reliability.\n- Conducted performance evaluations and optimizations on over 10 leading AI models (HuggingFace, OpenAI, Gemini, Llama), significantly improving model efficiency and accuracy.\n- Enhanced data management processes and automated workflows, leading to a marked reduction workload and increased operational efficiency through intelligent data query streamlining."
+            },
+            {
+                "title": "Full Stack Developer",
+                "company": "iVue Robotics",
+                "work_type": "Internship",
+                "start_date": "Mar 2024",
+                "end_date": "Jun 2024",
+                "location": "Cumming, Georgia, United States \u00b7 Remote",
+                "description": "- Contributed to advanced autonomous drone programming and routing software using Vue.js and Node.js, enabling real-time tracking and updates for over 200 drones with intervals as short as 100ms.\n- Integrated Microsoft Maps API into a web application, delivering interactive, Google Earth-like visualizations of drone routes with dynamic waypoint management and live updates every 200 milliseconds (real-time).\n- Enhanced user interface responsiveness by optimizing frontend features with Vue.js, leading to faster page load times and a more seamless user experience.\n- Developed backend services with Node.js to ensure high-efficiency data processing and real-time performance, supporting numerous concurrent users seamlessly.\n- Coordinated with a team of 20+ developers using Git, streamlining version control and integration processes to maintain project momentum and code quality.\nAt iVue Robotics, I learned instrumental developing of sophisticated solutions for autonomous drone operations and real-time data visualization. This role assisted my proficiency in full-stack development and my capacity to deliver innovative, high-performance solutions within a collaborative team environment."
+            },
+            {
+                "title": "Article Writer",
+                "company": "Foni",
+                "work_type": "Internship",
+                "start_date": "Jan 2024",
+                "end_date": "Mar 2024",
+                "location": "Remote",
+                "description": null
+            }
+        ],
+        "educations": [
+            {
+                "school": "West Forsyth High School",
+                "degree": null,
+                "major": null,
+                "start_date": "2021",
+                "end_date": "2025",
+                "description": null
+            },
+            {
+                "school": "Georgia Institute of Technology",
+                "degree": "Dual Enrollment",
+                "major": "Computer Science",
+                "start_date": "Aug 2024",
+                "end_date": null,
+                "description": "CS 1301\nPython (Programming Language) and Research Skills"
+            }
+        ],
+        "projects": [],
+        "certifications": [
+            {
+                "certificate_name": "University of Georgia (UGA) Certificate of Merit",
+                "issued_by": "University of Georgia",
+                "issue_date": "Aug 2024",
+                "exp_date": null
+            },
+            {
+                "certificate_name": "7th place Nationals - Coding and Programming 2024",
+                "issued_by": "Future Business Leaders of America",
+                "issue_date": "Jul 2024",
+                "exp_date": null
+            }
+        ],
+        "id": "https://www.linkedin.com/in/narain-singaram"
+    },
+    {
+        "experiences": [
+            {
+                "title": "Undergraduate Research Ambassador",
+                "company": "Georgia Institute of Technology",
+                "work_type": null,
+                "start_date": "Aug 2024",
+                "end_date": "Present",
+                "location": null,
+                "description": "- Collaborated with faculty and student organizations to promote undergraduate research opportunities across campus, increasing student engagement in research activities.\n- Planned and executed outreach events, including workshops and panel discussions, to connect students with research mentors and resources.\n-Served as a peer mentor to guide students through the research process, offering advice on finding research opportunities and developing proposals."
+            },
+            {
+                "title": "Research Assistant - Coskun Laboratory",
+                "company": "Georgia Institute of Technology",
+                "work_type": "On-site",
+                "start_date": "May 2023",
+                "end_date": "Present",
+                "location": "Atlanta, Georgia, United States",
+                "description": "- Developed computational algorithms and data models to cluster Alzheimer\u2019s patients based on gene expression, using deterioration criteria and statistical learning techniques for precise subgroup identification and clinical insights.\n- Leveraged spatial proteomics, single-cell technologies, and RNA hybridization with advanced machine learning techniques to analyze volumetric muscle loss in mice, driving high-throughput sample preparation and data analysis.\n- Developed and optimized image segmentation workflows using CellPose, automating RNA spatial expression analysis and significantly improving the scalability, accuracy, and reproducibility of spatial data interpretation.\nSkills: Communication \u00b7 Design Research \u00b7 Bioinformatics \u00b7 Research and Development (R&D) \u00b7 Project Management \u00b7 Customer Relations"
+            },
+            {
+                "title": "Peripartum Cardiomyopathy Diagnostic Device",
+                "company": "Georgia Institute of Technology",
+                "work_type": "On-site",
+                "start_date": "Aug 2023",
+                "end_date": "Dec 2023",
+                "location": null,
+                "description": "- Researched causes of cardiomyopathy in peri-partum women and designed a computational model with\narduino-compatible physical model to monitor and evaluate EKG status within a patient using electrode-collected data.\n- Worked in a multidisciplinary team to create protocols for computational testing using MATLAB and other processing tools to train an algorithm to detect variances in EKG outputs.\nSkills: Teamwork \u00b7 Circuit \u00b7 Interviewing \u00b7 Computer Simulations \u00b7 Collaborative Problem Solving \u00b7 MATLAB \u00b7 Customer Service"
+            },
+            {
+                "title": "Research Assistant - Roy Laboratory",
+                "company": "Georgia Tech",
+                "work_type": "On-site",
+                "start_date": "Aug 2022",
+                "end_date": "May 2023",
+                "location": null,
+                "description": "-Designed and fabricated organ on-chip microfluidic devices mimicking the lung interstitial region connecting to the lymphatic system.\n-Worked towards creating a functional vasculature within the Lung/Lymphatic microsystem by using Lymphatic Endothelial cells and Fibroblast cells.\n-Conducted flow experiments through the lung/lymphatics system to properly mimic the conditions within the human body during lung infections.\nSkills: Design Research \u00b7 Teamwork \u00b7 Computer-Aided Design (CAD) \u00b7 Microfluidics \u00b7 Research and Development (R&D) \u00b7 Collaborative Problem Solving \u00b7 Mammalian Cell Culture \u00b7 Customer Relations"
+            },
+            {
+                "title": "Computational Biology Intern",
+                "company": "Weill Cornell Medicine",
+                "work_type": "Full-time",
+                "start_date": "Jun 2024",
+                "end_date": "Present",
+                "location": "New York, New York, United States",
+                "description": "- Engineered and optimized ETL pipelines in Python and R to preprocess and analyze single-cell RNA-seq datasets, enabling the scalable classification of chromosomal instability (CIN) in colorectal cancer samples.\n- Designed and implemented machine learning models and statistical frameworks using Scanpy and scvi-tools, improving tumor stratification workflows and increasing predictive accuracy to 87% in CIN classification.\n- Built and automated data visualization workflows with Matplotlib and Seaborn to illustrate CIN-driven changes in the tumor microenvironment, enhancing the interpretability of computational findings for biological insights.\nSkills: Biological Engineering \u00b7 Data Analysis \u00b7 Bioinformatics \u00b7 Machine Learning \u00b7 Artificial Intelligence (AI) \u00b7 Communication \u00b7 Collaborative Problem Solving \u00b7 Python (Programming Language)"
+            },
+            {
+                "title": "Summer Internship in Bioinformatics",
+                "company": "STEM-Away",
+                "work_type": "Remote",
+                "start_date": "Jun 2020",
+                "end_date": "Aug 2020",
+                "location": null,
+                "description": "Completed online course in R Studio and R programming on Udemy and Python with EdX, as prerequisite for internship.\n\u2022 Implemented standard bioinformatics pipeline for gene array and differential expression analysis of various cancer-related high-throughput data sets. Here, I used the relevant Bioconductor packages for transcriptomics/statistical analysis, and also to assess large-scale data collection metrics and quality control.\n\u2022 Worked as a team with 1st and 2nd year undergraduate college students to make weekly presentations and progress reports.\n\u2022 My final project was related to \"Differential Gene Expression Analysis of Lung Cancer Datasets\".\nSkills: Bioinformatics \u00b7 Customer Relations"
+            }
+        ],
+        "certifications": [
+            {
+                "certificate_name": "Amazon Web Services Cloud Practitioner",
+                "issued_by": "Amazon Web Services (AWS)",
+                "issue_date": "Jan 2025",
+                "exp_date": "Jan 2029"
+            },
+            {
+                "certificate_name": "InfiniBand Essentials - Course Completion Certificate",
+                "issued_by": "NVIDIA",
+                "issue_date": "Jan 2025",
+                "exp_date": null
+            },
+            {
+                "certificate_name": "Investigators, Staff and Students",
+                "issued_by": "CITI Program",
+                "issue_date": "Sep 2024",
+                "exp_date": "Sep 2027"
+            }
+        ],
+        "name": "Anirudh Sriram",
+        "profile_pic": "https://media.licdn.com/dms/image/v2/D4E03AQFwhhU5_lNsCA/profile-displayphoto-shrink_100_100/B4EZUFOv41HcAU-/0/1739549507487?e=1747872000&v=beta&t=JO6P3wbFcewy9l9JBmFwfXYw0Z8NdY48p3rXJuvDWWQ",
+        "headline": "CS + BME @ Georgia Tech",
+        "location": "Atlanta, Georgia, United States",
+        "about": null,
+        "educations": [
+            {
+                "school": "Georgia Institute of Technology",
+                "degree": "Bachelor of Science - BS",
+                "major": "Bioengineering and Biomedical Engineering",
+                "start_date": "Aug 2022",
+                "end_date": "May 2026",
+                "description": null
+            },
+            {
+                "school": "Williamsville North High School",
+                "degree": "High School Diploma",
+                "major": null,
+                "start_date": "2018",
+                "end_date": "2022",
+                "description": null
+            }
+        ],
+        "projects": [
+            {
+                "project_name": "Peripartum Cardiomyopathy Diagnostic Device",
+                "start_date": "Aug 2023",
+                "end_date": "Dec 2023",
+                "description": "- Researched causes of cardiomyopathy in peri-partum women and designed a computational model with\narduino-compatible physical model to monitor and evaluate EKG status within a patient using electrode-collected data.\n- Worked in a multidisciplinary team to create protocols for computational testing using MATLAB and other processing tools to train an algorithm to detect variances in EKG outputs."
+            },
+            {
+                "project_name": "CBSP Final Poster Anirudh S.",
+                "start_date": null,
+                "end_date": null,
+                "description": null
+            }
+        ],
+        "id": "https://www.linkedin.com/in/anirudh-sriram-b106291b0"
+    },
+    {
+        "educations": [
+            {
+                "school": "Georgia Institute of Technology",
+                "degree": "Bachelor of Science - BS",
+                "major": "Computer Science",
+                "start_date": "Aug 2023",
+                "end_date": null,
+                "description": "Grade: 4.0\nActivities and societies: - VIP: AI Makerspace Nexus, Intelligent Tutoring\n- Product @ GT\n- Google Developer's Student Club\n- HackGT, ImpactHack, AI ATL participant\n- Tikkun Olam Maker Club"
+            },
+            {
+                "school": "University of Illinois at Chicago",
+                "degree": "Bachelor of Computer Science",
+                "major": "Computer Software Engineering",
+                "start_date": "Aug 2022",
+                "end_date": "May 2023",
+                "description": "Grade: 4.0\nSkills: Computer Science \u00b7 Code Review \u00b7 Coding Standards \u00b7 Software Development \u00b7 Programming"
+            },
+            {
+                "school": "Plainfield High School",
+                "degree": null,
+                "major": null,
+                "start_date": "2018",
+                "end_date": "2022",
+                "description": "Activities and societies: Competitive Math Team Leader\nAsian American Cultural Club Co-Leader\nVarsity Tennis Co-Captain\nSalutatorian in class of 550\n3.984 UW / 4.688 W GPA"
+            }
+        ],
+        "projects": [
+            {
+                "project_name": "AI Personalized Tutor for Data Structures and Algorithms",
+                "start_date": "Jan 2024",
+                "end_date": "Present",
+                "description": "- Developed an AI Personalized tutor for Data Structures and Algorithms as part of the Meta LlaMa subgroup at Georgia Tech over 4 months.\n- Integrated features such as informational content, a Java compiler for coding tests with LlaMa feedback, conceptual questions with personalized evaluation, and a chatbot sidebar for direct interaction.\n- Contributed to ideation, feature design, planning, task delegation, and coding, ensuring a seamless user experience and comprehensive learning materials."
+            },
+            {
+                "project_name": "Better Spotify Wrapped",
+                "start_date": "Feb 2024",
+                "end_date": "May 2024",
+                "description": "Developed an enhanced Spotify Wrapped app for CS2340 Class, focusing on custom features and user engagement over a 3-month period.\n- Implemented user authentication, seamless Spotify integration, and insightful reports on top tracks, artists, and genres.\n- Facilitated social interaction with a dedicated page for adding friends and sending requests within the app.\n- Led as Scrum Master and Tech Support, overseeing development, UI design, task delegation, testing, and code collaboration."
+            },
+            {
+                "project_name": "TikTok Filters",
+                "start_date": "Jan 2024",
+                "end_date": "Mar 2024",
+                "description": "- Explored augmented reality and content creation on TikTok, focusing on filter-making to delve into AR, 3D tracking, visual scripting, and generative AI.\n- Achieved 1 Million views on videos featuring created filters, reaching the top 5% of all filter creators on TikTok within two months.\n- Leveraged trend analysis to tailor content to popular hashtags, boosting engagement with bilingual titles and strategic filter naming.\n- Mastered specific filter types, iterated with variations, and navigated algorithmic unpredictability, gaining insights into digital content marketing and honing technical skills."
+            },
+            {
+                "project_name": "BabyFace",
+                "start_date": null,
+                "end_date": null,
+                "description": "Developed BabyFace, an innovative AI-driven solution at the AI ATL hackathon, collaboratively engineered with a team of 3 others, aimed at analyzing baby emotions, detecting potential dangers, and providing insightful reports to parents via SMS.\nAllows parents to receive text messages about the status of their baby and the parents can text back to ask questions and BabyFace conversational AI will respond accordingly.\nUtilized Python, Google Vertex AI for image Q&A and conversational AI, Twilio for text communication, Git for version control, and Redis for data storage, implementing CV2 for video capturing and flask with ngrok for server operations.\nDemonstrated a strong focus on ethical considerations in AI development"
+            },
+            {
+                "project_name": "Mock Database",
+                "start_date": null,
+                "end_date": null,
+                "description": "Developed a student database system in C for managing student information, using linked lists for efficient data storage and retrieval while preventing memory leaks\nImplemented functions for inserting in order, searching, and deleting student records based on ID, name, and GPA, ensuring accurate and fast data manipulation\nImplemented choice menus to provide users with clear options for inserting, searching, and deleting student records, along with a read menu to facilitate easy navigation within the database system."
+            },
+            {
+                "project_name": "Roblox Game",
+                "start_date": null,
+                "end_date": null,
+                "description": "Developed an obstacle course from scratch as a challenge to implement many of the features found in other common Roblox games\nIncorporates Lua scripting as well as the general Roblox Studio game builder"
+            },
+            {
+                "project_name": "Virtual Twenty-Four Game",
+                "start_date": null,
+                "end_date": null,
+                "description": "Programmed a text-based, interactive version of the board game Twenty-Four in the language C with a focus on order of operations with parenthesis, stack implementation, run-time, and memory leaks\nImplemented a debug mode and designed an algorithm that found all possible solutions to the game"
+            },
+            {
+                "project_name": "Weaver Clone",
+                "start_date": null,
+                "end_date": null,
+                "description": "Text-based version of the online game Weaver, allowing users to find a path from a starting word to an ending word by changing one letter at a time.\nImplemented a dynamic array to store words of a specific user-selected length by reading and copying from a \"dictionary\" file, ensuring efficient runtime performance.\nCreated functions for word validation, checking length and dictionary inclusion, as well as game input verification, ensuring the user's word is of the correct length and differs by only one character.\nProvided an intuitive user experience by offering options to play again, play with a different word length, or exit the game, with a strong emphasis on memory management to prevent any memory leaks."
+            }
+        ],
+        "name": "Luke Hartzell",
+        "profile_pic": "https://media.licdn.com/dms/image/v2/D5603AQFoGrVksRMkZw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1719012532024?e=1747872000&v=beta&t=6yUd4fTusL41VeEt2t5mgJKLpWB8ga_-eC7wz7AJ9sQ",
+        "headline": "CS @ Georgia Tech | prev SWE @ Chamberlain Group | 5+ Billion views on TikTok Filters",
+        "location": "Chicago, Illinois, United States",
+        "about": "AI-focused PM/SWE with a passion for connecting people through tech. Experienced in automation, backend, and viral digital content, including achieving 1 billion views on TikTok filters. Driven to create accessible, personalized technology that empowers and inspires.\n\nCurrently working towards democratizing access to the Georgia Tech x NVIDIA AI Makerspace.",
+        "experiences": [
+            {
+                "title": "AI Makerspace Nexus - Software Engineer",
+                "company": "Georgia Tech VIP Program",
+                "work_type": "Present",
+                "start_date": "Aug 2024",
+                "end_date": "Present",
+                "location": null,
+                "description": "Initiating efforts to democratize access to the Georgia Tech x NVIDIA AI Makerspace, the first AI supercomputer hub for students, by developing tools and interfaces that enable all students and instructors to engage with it"
+            },
+            {
+                "title": "TikTok Filter Creator",
+                "company": "@lukes.filters",
+                "work_type": "Present",
+                "start_date": "Jan 2024",
+                "end_date": "Present",
+                "location": null,
+                "description": "- Achieved 5+ Billion views and 20+ million posts by creating innovative TikTok filters using AR, Visual\nScripting, and marketing techniques\n- Ranked in the top 1% of TikTok effect creators by leveraging market analysis and advertising trends"
+            },
+            {
+                "title": "Software Engineer Intern",
+                "company": "Chamberlain Group",
+                "work_type": "Internship",
+                "start_date": "May 2024",
+                "end_date": "Aug 2024",
+                "location": "Oak Brook, Illinois, United States",
+                "description": "SWE in Test &amp; QE"
+            },
+            {
+                "title": "CS1331 Teaching Assistant - Object Oriented Programming",
+                "company": "College of Computing at Georgia Tech",
+                "work_type": "Part-time",
+                "start_date": "Jan 2024",
+                "end_date": "May 2024",
+                "location": "Atlanta, Georgia, United States",
+                "description": "Evaluate student performance through grading assignments, conducting recitations, and holding office hours\nAdminister tests, as well as develop homework assignments\nProvide assistance to students in understanding course material"
+            }
+        ],
+        "certifications": [],
+        "id": "https://www.linkedin.com/in/luke-hartzell"
+    },
+    {
+        "experiences": [
+            {
+                "title": "Strategy Intern",
+                "company": "Accenture",
+                "work_type": "Internship",
+                "start_date": "Apr 2024",
+                "end_date": "Present",
+                "location": "Bangkok Metropolitan Area",
+                "description": null
+            },
+            {
+                "title": "Operations Management Intern",
+                "company": "Enovis",
+                "work_type": "Internship",
+                "start_date": "Jan 2024",
+                "end_date": "Present",
+                "location": "Atlanta Metropolitan Area",
+                "description": "\u25aa Enhanced product quality with Six Sigma and Value Stream Mapping, resulting in over $200,000 in cost savings;Utilized Pareto Analysis to improve operational performance by addressing key production quality and efficiency.\n\u25aa Process Automation: Engineered VBA automation solutions to automate critical processes cutting time KPIs by 98%."
+            },
+            {
+                "title": "Southern Regional President",
+                "company": "Association of Thai Students in the United States of America (ATSA)",
+                "work_type": "Full-time",
+                "start_date": "Aug 2024",
+                "end_date": "Present",
+                "location": "Washington DC-Baltimore Area",
+                "description": null
+            },
+            {
+                "title": "Georgia Tech: Institute of Industrial and Systems Engineers (IISE)",
+                "company": "Georgia Tech: Institute of Industrial and Systems Engineers (IISE)",
+                "work_type": "Full-time",
+                "start_date": "Nov 2024",
+                "end_date": "Present",
+                "location": "Atlanta Metropolitan Area",
+                "description": null
+            },
+            {
+                "title": "Development Officer",
+                "company": "Georgia Tech: Institute of Industrial and Systems Engineers (IISE)",
+                "work_type": "Full-time",
+                "start_date": "Jan 2023",
+                "end_date": "Dec 2023",
+                "location": "Georgia, United States",
+                "description": "\u25aa Organized IISE Career Fair by contacting Multinational Companies and facilitated scheduling and booth booking\n\u25aa Hosted 2 Excel and Excel VBA workshops and contacted faculty to teach the basics of Excel and Excel VBA to students\n\u25aa Gathered prerequisite knowledge on Tableau, Excel VBA, Networking, Lean & Six Sigma, R, SciPy, ScikitLearn"
+            },
+            {
+                "title": "Senior Consultant",
+                "company": "Epic Intentions Consulting",
+                "work_type": "Part-time",
+                "start_date": "Aug 2023",
+                "end_date": "Present",
+                "location": "Atlanta, Georgia, United States",
+                "description": "Client: Atlanta Mission\n\u25aa Optimized Operations: Led a strategic project to enhance program efficiency and service delivery for individuals facing homelessness. Conducted a detailed analysis of current capacity assessments (beds, staff) and service metrics."
+            },
+            {
+                "title": "Captain",
+                "company": "Georgia Tech Debate Team",
+                "work_type": "Full-time",
+                "start_date": "Jan 2023",
+                "end_date": "Present",
+                "location": "Georgia, United States",
+                "description": "\u25aa\tRepresented Georgia Tech in IPDA nationals, Phi Kappa Delta, and other statewide and national championships\n\u25aa\tManaged GT Debate Team\u2019s financials including bill filling, invoice requests, bill hearings, and dues collection\n\u25aa\tHosted weekly debates with challenging motions and mentored members in brainstorming and argumentation"
+            },
+            {
+                "title": "President",
+                "company": "Thai Student Organization at Georgia Tech",
+                "work_type": "Full-time",
+                "start_date": "Aug 2023",
+                "end_date": "Sep 2024",
+                "location": "Georgia, United States",
+                "description": null
+            },
+            {
+                "title": "BCG Launch Candidate",
+                "company": "Boston Consulting Group (BCG)",
+                "work_type": "Full-time",
+                "start_date": "Dec 2023",
+                "end_date": "Aug 2024",
+                "location": "United States",
+                "description": null
+            },
+            {
+                "title": "Undergraduate Researcher",
+                "company": "Georgia Institute of Technology",
+                "work_type": "Part-time",
+                "start_date": "Jan 2023",
+                "end_date": "Apr 2024",
+                "location": "Atlanta, Georgia, United States",
+                "description": "Undergraduate Researcher on Explainable AI Multivariate Time-Series Anomaly Detection\n-Researched Machine Learning, Deep Learning, and Statical models with Dr. Sakis Meliopoulos\n-Visualized Data of the SWaT dataset with over 500,000 entries using Pandas, Matplotlib, Python, Numpy, and Seaborn\n-Developing explainable AI to do unsupervised multivariate time-series anomaly detection and diagnostics."
+            },
+            {
+                "title": "Computer Aided Design Design Engineer",
+                "company": "RoboJackets",
+                "work_type": "Full-time",
+                "start_date": "Aug 2022",
+                "end_date": "Nov 2023",
+                "location": "Georgia, United States",
+                "description": "\u25aa CAD in Autodesk Inventor the world's first 3lb shell spinner with a shuffler (non-traditional movement system based on feet and cams instead of wheels), a self-righting mechanism (based on a dead shaft), and directional navigation.\n\u25aa Machining the robot using the Water Jet Machine, Mill, Bench Grinder, Industrial Shears, and Circular Saw."
+            },
+            {
+                "title": "Intern",
+                "company": "Parliament of Thailand",
+                "work_type": "Internship",
+                "start_date": "Jun 2020",
+                "end_date": "Aug 2020",
+                "location": "Bangkok City, Thailand",
+                "description": "\u25aa\tAssisted Mr. Kiat Sittheeamorn (MP &amp; Deputy Leader of Democrat Party) in political research into government procurement, e-commerce tax, GDP forecast through the GTAP model using the Computable General Equilibrium Analysis, Civil Partnership Bill, technology transfer, fluctuating oil prices, and foreign investment.\n\u25aa\tExamined Thailand\u2019s decision to join CPTPP by attending weekly ad-hoc committees within the National Assembly."
+            },
+            {
+                "title": "President",
+                "company": "Ekamai International School Student Council",
+                "work_type": "Part-time",
+                "start_date": "Dec 2019",
+                "end_date": "Jun 2020",
+                "location": "Bangkok Metropolitan Area",
+                "description": "\u25aa\tDirected 20+ activities on campus and online, such as Spirit Week and Class Sports Tournament\n\u25aa\tOrganized and oversaw events involving up to 1,000 participants such as online talent show and Sports Day"
+            }
+        ],
+        "educations": [
+            {
+                "school": "Georgia Institute of Technology",
+                "degree": "Bachelor of Science - BS",
+                "major": "Industrial Engineering",
+                "start_date": "Aug 2022",
+                "end_date": "May 2026",
+                "description": "Grade: 3.88\nActivities and societies: IISE, RoboJackets: BattleBots (Nasti), First Year Leadership Organization: Connect, Global Leadership LLC, Learning Community Council Chair of Academic and Professional Development, GT Debate Team\nSkills:Computerized System Validation (CSV) \u00b7 Data Science \u00b7 Data Analysis \u00b7 Data Visualization \u00b7 Computer Science \u00b7 English \u00b7 Communication \u00b7 Microsoft Office \u00b7 Problem Solving \u00b7 Python (Programming Language) \u00b7 Thai"
+            },
+            {
+                "school": "University of Oxford",
+                "degree": "Oxford Summer Program at Mansfield College, University of Oxford",
+                "major": null,
+                "start_date": "May 2023",
+                "end_date": "Aug 2023",
+                "description": null
+            },
+            {
+                "school": "Ekamai International School",
+                "degree": "Engineer's degree",
+                "major": "Engineering",
+                "start_date": "2007",
+                "end_date": "2022",
+                "description": "Activities and societies: Student Council: President (12), Secretary (11), Member (10)\nModel United Nations Club: Vice President (11-12), General Manager (10)\nDebate Club/Team: Co-Captain / Vice President (11-12), Second Speaker\nEngineering Club: Vice President / Co-Founder\nEIS Flames JV Table Tennis Team\nSkills:Microsoft Applications \u00b7 English \u00b7 Communication \u00b7 Microsoft Office \u00b7 Problem Solving \u00b7 Thai"
+            }
+        ],
+        "name": "Nano Suresettakul",
+        "profile_pic": "https://media.licdn.com/dms/image/v2/D4D03AQEx1AFQ97_K8A/profile-displayphoto-shrink_200_200/B4DZSPkmivHkAY-/0/1737575524884?e=1747872000&v=beta&t=Ar60-BAHUcfXugzdQaDr8aXM8CKhlTO3Ecn8lS4Govw",
+        "headline": "Incoming TSMC |\nEx-Accenture | \nEx-Enovis | \nISyE @ Georgia Tech | \nConsulting, Data Analysis, Manufacturing",
+        "location": "Atlanta, Georgia, United States",
+        "about": "Hey there! I\u2019m Nano, an Industrial Engineering student at Georgia Tech who\u2019s passionate about solving problems and making things run smoother.Whether it\u2019s tech, business, or operations, I enjoy finding smarter ways to get things done.Right now, I\u2019m diving into tech consulting at Accenture, where I help clients turn our ideas into reality. It\u2019s fast-paced, it\u2019s challenging, and I love every second of it. I\u2019ve also tackled process improvements at Enovis, leading projects that actually move the needle.When I\u2019m not working, you\u2019ll find me perfecting my swing on golf course and badminton court, or exploring seas and cultures at the same time!Looking ahead, I\u2019m gearing up for a career that lets me keep innovating, whether that\u2019s in consulting, project management, or supply chain.I\u2019m here to shake things up, learn like crazy, and make a difference wherever I land. Let\u2019s connect\u2014I\u2019m always up for a chat about big ideas, cool projects, or anything in between!",
+        "projects": [],
+        "certifications": [
+            {
+                "certificate_name": "Lean Six Sigma Green Belt",
+                "issued_by": "Institute of Industrial and Systems Engineers",
+                "issue_date": "Sep 2024",
+                "exp_date": "Sep 2027"
+            }
+        ],
+        "id": "https://www.linkedin.com/in/nano-suresettakul"
+    },
+    {
+        "name": "Nahom Fikreselassie",
+        "profile_pic": "https://media.licdn.com/dms/image/v2/D5603AQERjJq9f_uimA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1694125378654?e=1747872000&v=beta&t=Rk6mHymmFKenCVu59vzZ_pClPJUx9rpyyKR9qWlJxz0",
+        "headline": "Co-Op @ Collins Aerospace || Rising Junior CS Undergrad Student @ Georgia Tech || Georgia Tech Provost Scholar",
+        "location": "Iowa City-Cedar Rapids Area",
+        "about": "Experienced in leadership, time management, and cooperation. In addition to strong academic performance, I\u2019ve involved myself in activities and volunteering.Linn-Mar Class of 2022 Alumnus. Earned a cumulative GPA of 4.46 with involvement in many advanced courses (including 10 AP courses) and multiple extra-curricular activities.College junior at Georgia Tech majoring in Computer Science.",
+        "experiences": [
+            {
+                "title": "Systems Engineering Co-Op",
+                "company": "Collins Aerospace",
+                "work_type": "Co-Op",
+                "start_date": "Jun 2024",
+                "end_date": "Dec 2024",
+                "location": "Cedar Rapids, Iowa, United States",
+                "description": "I'm happy to announce that I'll be starting my Systems Engineering Co-Op with Collins Aerospace this month.I'm grateful for this opportunity and for all those involved in the interviewing and hiring process, includingTapuwa Tavaziva, whose team I'll be working with.Looking forward to it!"
+            }
+        ],
+        "educations": [
+            {
+                "school": "Georgia Institute of Technology",
+                "degree": "Computer Science",
+                "major": "Computer Science",
+                "start_date": "Aug 2022",
+                "end_date": "May 2026",
+                "description": "Grade: Junior"
+            },
+            {
+                "school": "Linn-Mar High School",
+                "degree": "High School Diploma",
+                "major": null,
+                "start_date": "Aug 2018",
+                "end_date": "May 2022",
+                "description": "Activities and Societies: Activities and Societies: Student Council Representative; Track and Field; School News Anchor; National Honor Society (NHS) Member; Contest Speech Radio Broadcast Team Member and TV News Team Member; Student Advisory Council Member; Math Team Member; Debate Club Member"
+            }
+        ],
+        "projects": [],
+        "certifications": [],
+        "id": "https://www.linkedin.com/in/nahom-fikreselassie-22604a241"
+    },
+    {
+        "projects": [
+            {
+                "project_name": "Georgia Tech Startup Lab Refrigerator App Project: LeftOvers App",
+                "start_date": "Jan 2023",
+                "end_date": "Present",
+                "description": "- Led a startup project for a mobile application that inputs 60+ foods through words/pictures, tracks the days contents have been fridge, sends customized notifications, and identifies up to 5 neighboring food banks and local shelters\n- Conducted interviews of 20 potential customers per week for 15+ weeks and found 30% of interviewees often forget to eat, while 25% found value in having a shared account between roommates for communal fridges, delineating market for food conservation apps\n- Mastered the basics of startups including value proposition, MVPs, startup metrics, pivoting, BMCs, and pitching in a Evidence-based Entrepreneurship course at Georgia Tech's Startup Lab"
+            },
+            {
+                "project_name": "Georgia Tech Objects and Design Game Dev Project: Camping Adventure Game",
+                "start_date": "Jan 2023",
+                "end_date": "Jun 2023",
+                "description": "- Produced a mobile game on Android Studio using Java/XML with 3 character options based on the number of lives and 3 difficulty levels resulting in different gaming experience for 15+ weeks while utilizing the Agile methodology\n- Designed a camping-themed environment, where players navigate a character across a path in a forest in a Crossy Road-like format, with differing difficulties including 3 speeds and 4 obstacle variations"
+            },
+            {
+                "project_name": "Georgia Tech Innovation to Prototype Security Project: Iris Obfuscation Platform",
+                "start_date": "Mar 2022",
+                "end_date": "May 2023",
+                "description": "- Developed a biometric data protection platform advised by Dr. Wenke Lee that obfuscates iris patterns and ensuring user privacy and security in a 5-step process by preventing malicious AI from stealing iris patterns from photos\n- Modified 1200 model images by manipulating Python libraries including Matplotlib, NumPy, and OpenCV through machine learning that destroys readable iris data for privacy and biometric security that are available photos online\n- Pitched the project at the Innovation-2-Prototype showcase to 65+ attendees while competing against 20+ teams"
+            },
+            {
+                "project_name": "Georgia Tech Usable Privacy and Security Phishing Project: Research",
+                "start_date": "Jan 2022",
+                "end_date": "May 2022",
+                "description": "- Led a group research project titled \"How Phishing Affects College Students\u2019 Cybersecurity Behavior\" as part of CS4803 course on usable privacy and security which explored the effects of phishing attacks on college students' cybersecurity behavior\n- Demonstrated strong research capabilities by producing a final paper based on the group's research findings while developing interdisciplinary skills by combining core concepts in cybersecurity with HCI research methods to investigate the research topic effectively\n- Gained a comprehensive understanding of the importance and challenges of usable privacy and security in the real world applications"
+            }
+        ],
+        "name": "Yujin Hwang",
+        "profile_pic": "https://media.licdn.com/dms/image/v2/D4E03AQGbmn2-xMRFRA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1718661908449?e=1747872000&v=beta&t=UU5zoye3iwN5JUZEGPDfzK12MLKxpIKtmSFgo_Yhabo",
+        "headline": "CS Student at Georgia Institute of Technology",
+        "location": "Atlanta, Georgia, United States",
+        "about": "Hi! I\u2019m a Computer Science student at Georgia Tech, diving deep into the world of AI and machine learning. I\u2019ve worked on some pretty cool projects, like teaching a neural network to tell apart human and AI-created art, and leading a team to build a platform that keeps your iris data safe from sneaky AI. I\u2019ve also dabbled in making Pac-Man smarter with AI and giving a fresh look to a company\u2019s website. I love playing around with Python, Java, TensorFlow, and all sorts of techy stuff. Right now, I\u2019m helping Georgia Tech\u2019s OIT integrate AI into their systems, making life easier for everyone. When I\u2019m not coding, you\u2019ll probably find me hanging out at security events or brainstorming new ways to make tech more user-friendly. Looking to connect with others who are passionate about tech, AI, and making cool things happen!",
+        "experiences": [
+            {
+                "title": "Researcher",
+                "company": "Georgia Tech Office of Information Technology",
+                "work_type": "Part-time",
+                "start_date": "Dec 2023",
+                "end_date": "Present",
+                "location": "Atlanta, Georgia, United States",
+                "description": "- Led and supervised a group of approximately 30 students within the KIDS Club program tailored to students in grades K-12, with a particular emphasis on STEM (Science, Technology, Engineering, and Mathematics)\n- Promoted hands-on learning experiences to enhance students' understanding of complex STEM concepts and collaborated with fellow educators to develop innovative teaching methods and materials\n- Evaluated and assessed students' progress and adjusted teaching strategies accordingly while demonstrating effective classroom management skills to ensure a safe and productive learning environment"
+            },
+            {
+                "title": "STEM Workshop Program/ K.I.D.S Club Group Leader",
+                "company": "Center for Education Integrating Science, Mathematics, and Computing (CEISMC)",
+                "work_type": "Part-time",
+                "start_date": "Sep 2023",
+                "end_date": "Dec 2023",
+                "location": "Atlanta, Georgia, United States",
+                "description": "- Led and supervised a group of approximately 30 students within the KIDS Club program tailored to students in grades K-12, with a particular emphasis on STEM (Science, Technology, Engineering, and Mathematics)\n- Promoted hands-on learning experiences to enhance students' understanding of complex STEM concepts and collaborated with fellow educators to develop innovative teaching methods and materials\n- Evaluated and assessed students' progress and adjusted teaching strategies accordingly while demonstrating effective classroom management skills to ensure a safe and productive learning environment"
+            },
+            {
+                "title": "UX Designer",
+                "company": "Daniel International USA",
+                "work_type": "Full-time",
+                "start_date": "Jun 2023",
+                "end_date": "Aug 2023",
+                "location": "Duluth, Georgia, United States",
+                "description": "- Revamped company's website through HTML and BigCommerce platform, significantly enhancing the readability and driving a 5% increase in conversion rate from the company\u2019s other e-commerce platforms\n- Gained a comprehensive understanding of the industry trends and the ecosystem to optimize user experience by collaborating closely with seniors in different expertise, including website administrator, product manager, and the CEO"
+            },
+            {
+                "title": "Research Assistant",
+                "company": "Georgia Tech Center for Deliberate Innovation",
+                "work_type": "Part-time",
+                "start_date": "Jan 2022",
+                "end_date": "Jul 2022",
+                "location": "Atlanta, Georgia, United States",
+                "description": "- Orchestrated cognitive research in 2 stages under Dr. Chrissy Spencer to foster a greater sense of community among 17,000+ students in College of Sciences and received $30,000 fund to promote interface between research and education within school\n- Oversaw 250 Peer-facilitated Documented Interaction interviews that implements an unstructured approach to a more insightful student response without the interference of authoritative figures, such as professors or administrators\n- Created a team of 5 to construct an unbiased questionnaire made up of 40 questions about reasoning behind student perspectives on Georgia Tech\u2019s BS-MS programs, future career options, and relationships with professors\n- Analyzed 200+ interview information by sorting them into 3 categories and drawing out statistics that emphasized a need for more efficient communication and cooperation among students and staff on campus"
+            }
+        ],
+        "educations": [
+            {
+                "school": "Georgia Institute of Technology",
+                "degree": "Bachelor's degree",
+                "major": "Computer Science",
+                "start_date": "Aug 2021",
+                "end_date": "May 2025",
+                "description": "Activities and societies: GreyHat, Public Outreach Administrator:\n- Elevated the importance of cybersecurity on campus by overseeing the club\u2019s digital presence and organizing CTF and social events"
+            }
+        ],
+        "certifications": [],
+        "id": "https://www.linkedin.com/in/yuujinhwng"
+    },
+    {
+        "experiences": [
+            {
+                "title": "Tutor",
+                "company": "Roadmap Education",
+                "work_type": "Part-time",
+                "start_date": "Sep 2024",
+                "end_date": "Present",
+                "location": "Remote",
+                "description": "Plan 2 hour tutoring sessions 2 times a week for SAT math and reading courses\nTeach SAT curriculum and study methods for students"
+            },
+            {
+                "title": "Social Media Manager",
+                "company": "Georgia Institute of Technology: Center for Microbial Dynamics and Infection",
+                "work_type": "Part-time",
+                "start_date": "Apr 2024",
+                "end_date": "Aug 2024",
+                "location": "Atlanta, Georgia, United States",
+                "description": "Created engaging social content that showcase Georgia Tech CMDI's program and researchers\nManaged several social media platforms with over 2000 followings"
+            },
+            {
+                "title": "Team Leader",
+                "company": "Center for Education Integrating Science, Mathematics, and Computing (CEISMC)",
+                "work_type": "Seasonal",
+                "start_date": "Jun 2024",
+                "end_date": "Jun 2024",
+                "location": "Atlanta, Georgia, United States",
+                "description": "Engage and guide a diverse group of 8-12th grade students who will be considered first-generation college students"
+            },
+            {
+                "title": "Student Ambassador",
+                "company": "Samsung",
+                "work_type": "Contract",
+                "start_date": "Sep 2023",
+                "end_date": "Jun 2024",
+                "location": "Remote",
+                "description": "Created engaging social content that showcase Samsung devices to over 1200 followers\nEducated fellow students about Samsung products and encourage them to try them\nCaptured photos/videos and provide recaps of ambassador activities"
+            },
+            {
+                "title": "Student Assistant",
+                "company": "Robert C. Williams Museum of Papermaking",
+                "work_type": "Part-time",
+                "start_date": "Aug 2023",
+                "end_date": "Dec 2023",
+                "location": "Atlanta, Georgia, United States",
+                "description": "Produced over 100 cellulose nanofiber paper lace gifts for international paper conference\nAssisted in teaching Tech\u2019s Tactile Thursday workshops, averaging 15-20 people\nLead school tour groups of 15-20 children and assisted in paper making techniques\nMaintained museum\u2019s collection of thousands of documents through cataloging, preservation, and digitization"
+            },
+            {
+                "title": "Food Service Worker",
+                "company": "Life Time Inc.",
+                "work_type": "Part-time",
+                "start_date": "Apr 2023",
+                "end_date": "Aug 2023",
+                "location": "Lawrenceville, Georgia, United States",
+                "description": "Executed food, shakes, and beverage orders in a fast and efficient manner\nEnsured cleanliness in a fast-paced customer-focused environment"
+            },
+            {
+                "title": "Intern",
+                "company": "Suwanee Medicine",
+                "work_type": "Internship",
+                "start_date": "Jun 2022",
+                "end_date": "Jul 2022",
+                "location": "Suwanee, Georgia, United States",
+                "description": "Filed paperwork and updated over 500 patient charts\nMaintained patient confidentiality\nOrganized and cleaned patient\u2019s room"
+            }
+        ],
+        "name": "Esther Kim",
+        "profile_pic": "https://media.licdn.com/dms/image/v2/D4E03AQHv8qbrmY8JCA/profile-displayphoto-shrink_200_200/B4EZPm95xaGYAc-/0/1734746807981?e=1747872000&v=beta&t=Gt1gl_JwZnRxCOpcouGaXlRv7NXTV-Ag8N3JKBswZ6g",
+        "headline": "Incoming Technical Operations Co-Op @ Delta | Computer Science Student at Georgia Institute of Technology",
+        "location": "Suwanee, Georgia, United States",
+        "about": "I\u2019m a student at the Georgia Institute of Technology pursuing a major in computer science with the concentration in people and artificial intelligence.",
+        "educations": [
+            {
+                "school": "Georgia Institute of Technology",
+                "degree": "Bachelor's degree",
+                "major": "Computer Science",
+                "start_date": "Aug 2023",
+                "end_date": "Dec 2027",
+                "description": "Activities and societies: Little Einstein Organization, First Generation College Institute Leader, Residence Hall Association, Society of Women Engineers"
+            },
+            {
+                "school": "Collins Hill High School",
+                "degree": "High School Diploma",
+                "major": null,
+                "start_date": "Aug 2019",
+                "end_date": "May 2023",
+                "description": "Wind Symphony Band (Principal Clarinetist '20 - '23), Marching Band (Drum major '20 - '22), Key Club (Vice President '21 - '22, Co-president '22 - '23), National Beta Club (Internal Affairs '22 - '23), National Honors Society, Science National Honors Society, Mu Alpha Theta, Varsity Tennis, Junior Varsity Tennis, Student Government Association, Indoor Drumline"
+            }
+        ],
+        "projects": [],
+        "certifications": [
+            {
+                "certificate_name": "ServSafe\u00ae Food Handler Certification",
+                "issued_by": "ServSafe Certified",
+                "issue_date": "Apr 2023",
+                "exp_date": "Apr 2028"
+            }
+        ],
+        "id": "https://www.linkedin.com/in/estherkim618"
+    },
+    {
+        "projects": [
+            {
+                "project_name": "Junior Design - Robson Insights",
+                "start_date": "Aug 2024",
+                "end_date": "Nov 2024",
+                "description": "Collaborated with a team of five to develop a web application for managing and analyzing data related to the Robson Classification System, which categorizes cesarean section deliveries. Worked closely with a medical professional from Rwanda and a professor at Emory University to ensure clinical accuracy and relevance.\n\nKey Features:\n\nUser Authentication: Implemented secure registration and login with token-based authentication.\nSurvey Management: Developed endpoints to process and store survey results, capturing user inputs and Robson Classification groups.\nData Analysis: Enabled custom data filtering and analysis through robust API support.\nAccess Control: Established group-based permissions for effective user role management."
+            },
+            {
+                "project_name": "Neural Nets in Pacman",
+                "start_date": "Feb 2024",
+                "end_date": "Feb 2024",
+                "description": "Implemented feedforward processing and backpropagation algorithms in Python. This involved creating a Perceptron and a multi-layer NeuralNet class, focusing on functions for feedforward input processing and weight adjustment through backpropagation. The project enhanced my skills in machine learning algorithms and Python programming."
+            },
+            {
+                "project_name": "Dungeon Crawler Mobile game",
+                "start_date": "Aug 2023",
+                "end_date": "Dec 2023",
+                "description": "Collaborated in a 5-member team to develop a 2D Dungeon Crawler game using Java and Android Studio, focusing on gameplay and UI improvements.\n\nImplemented Singleton, Strategy, Observer, Factory, and Decorator patterns to enhance code quality and maintainability.\n\nIntegrated a dynamic scoring system and complex game mechanics, enhancing player engagement; conducted unit tests to ensure functionality."
+            }
+        ],
+        "name": "Ashutosh Chaudhari",
+        "profile_pic": "https://media.licdn.com/dms/image/v2/D4E35AQGXfhTpaTWl3A/profile-framedphoto-shrink_200_200/profile-framedphoto-shrink_200_200/0/1735358268001?e=1743127200&v=beta&t=AvzgBrG3ic1akw6PXVT5rCq3wW1wNUaaWlBfNBbOSwY",
+        "headline": "Computer Science student at Georgia Institute of Technology",
+        "location": "Marietta, Georgia, United States",
+        "about": null,
+        "experiences": [
+            {
+                "title": "Junior Design",
+                "company": "Robson Insights",
+                "work_type": null,
+                "start_date": "Aug 2024",
+                "end_date": "Nov 2024",
+                "location": null,
+                "description": "Collaborated with a team of five to develop a web application for managing and analyzing data related to the Robson Classification System, which categorizes cesarean section deliveries. Worked closely with a medical professional from Rwanda and a professor at Emory University to ensure clinical accuracy and relevance.\n\nKey Features:\n\nUser Authentication: Implemented secure registration and login with token-based authentication.\nSurvey Management: Developed endpoints to process and store survey results, capturing user inputs and Robson Classification groups.\nData Analysis: Enabled custom data filtering and analysis through robust API support.\nAccess Control: Established group-based permissions for effective user role management."
+            }
+        ],
+        "educations": [
+            {
+                "school": "Georgia Institute of Technology",
+                "degree": "Bachelor's degree",
+                "major": "Computer Science",
+                "start_date": "Jan 2023",
+                "end_date": "Aug 2025",
+                "description": "Grade: Senior"
+            },
+            {
+                "school": "Georgia Southern University",
+                "degree": "Bachelor's degree",
+                "major": "Computer Science",
+                "start_date": "Aug 2020",
+                "end_date": "Dec 2022",
+                "description": null
+            }
+        ],
+        "certifications": [],
+        "id": "https://www.linkedin.com/in/achaudhari43"
+    },
+    {
+        "name": "Levi Roe",
+        "profile_pic": "https://media.licdn.com/dms/image/v2/D4E03AQHa5X5mCurq-A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1722804813223?e=1747872000&v=beta&t=9GxmPa_0Ab9oSqXRh36vVcbJYsmvyLcSDhRCO4NZLmo",
+        "headline": "3rd Year Mathematics Major @ GaTech (Prob & Stats) - 3.95 GPA | Private Tutoring Entrepreneur - 300+ Hours | FT Resident Assistant - 1+ Years | Seasonal Construction Engineer - 3+ Years | Musician - Pianist & Saxophonist",
+        "location": "Atlanta, Georgia, United States",
+        "about": "OBJECTIVE\nTo obtain an actuarial position and provide my hard work ethic and profound growth mindset towards improving the profitability and efficiency of all involved companies and services.\n\nProfessional Competencies\nSociety of Actuaries: Probability (P) Exam Completion (November 2024)\nComputer Science Capabilities: Ability to code in Java and Python and nuanced knowledge for all of microsoft office and outlook (Including Powerpoint & Excel)\nExperience in Leadership and Project Lead: Accountable for hundreds of residents along RA experience, Lead coordinator for numerous academic projects, and Lead of numerous large social events as an RA.\nData Analysis & Interpretation: High Proficiency in disciplines related to probability and statistics, particularly in an actuarial setting (GT Actuarial Club)\nSelf-motivated: A quick learner with a willingness to continually expand knowledge, skills, and experiences\n\nWork Experience\n2023 to Current \tResident Assistant - Georgia Institute of Technology\n\t\t\tLeadership, communication, organizational skills, and exposure to a\n\t\t\tprofessional/corporate workplace.\n2020 to Current\tPrivate STEM Tutor - Self Employed (Roe Tutoring Services)\n\t\t\t300+ Hours of Tutoring for Mathematics, Physics, and Economics\n2019 to 2023\t\tSeasonal Construction Engineer - Construction 360 Services\n\t\t\tExercised skills in project management, structural analysis, material\n\t\t\tscience, and construction technologies.\n\nEducation\n2025\t\t\tBachelor of Science in Mathematics\n\t\t\tGeorgia Institute of Technology - Atlanta, Ga  |  3.95 GPA  |  94/126 Credits\n\t\t\tConcentration: Probability & Statistics with the Business Option\n2022\t\t\tHigh School Diploma\n\t\t\tUnion Grove High School - McDonough, Ga  |  4.5 GPA",
+        "experiences": [
+            {
+                "title": "Resident Assistant",
+                "company": "Georgia Institute of Technology",
+                "work_type": "Full-time",
+                "start_date": "Aug 2023",
+                "end_date": "Present",
+                "location": "Atlanta, Georgia, United States",
+                "description": "In my position as a Resident Assistant, I developed the following capabilities and achievements...\n- Highly proficient ability to work with a co-dependent team (high threshold for teamwork and collaboration)\n- Hosted many social and cultural events (25+ events) with high attendance and necessary financial budgeting (Ex: Hosted 200+ attendees @ picnic movie night w/ $650 budget allocated between necessary hardware and food; Led/delegated multiple RA teams to set up and gather necessary resources and to advertise)\n- Unbiased/Objective, concise, and detailed report writing (Incident, Maintenance, Policy Violation, Information, and etc. reports).\n- Peer guidance, conflict mediation, support systems, mentorship, and other vital interpersonal communication disciplines.\n- Extensive time management and calendaring along with a high threshold of organizational requirement (Balancing administrative duty with academic responsibility)\nOverall: Necessity for leadership, requirement of efficient communication, flexing of organizational and technical skills, and most importantly intense exposure to a professional/corporate workplace."
+            },
+            {
+                "title": "Private STEM Tutor",
+                "company": "Roe Tutoring Services",
+                "work_type": "Self-employed",
+                "start_date": "Aug 2020",
+                "end_date": "Present",
+                "location": "Georgia, United States",
+                "description": "In my position as a private Mathematics and Physics Tutor, I developed the following capabilities and achievements...\n- Academic interaction with hundreds of peers and coworkers (High School Freshman -> Adult Students)\n- 300+ hours of combined paid and unpaid tutoring hours (primarily mathematics, physics, and Computer Science)\n- Simplified complex concepts for students, leading to higher/passing final grades, furthered understanding, achievement of GED's, a breakthrough in projects, etc.\n- Exceptional communication skills and the uncommon ability to adapt approaches to teaching/leading according to the uniqueness of diverse individuals.\n- Impromptu/In-the-moment critical thinking skills and depth of understanding. This also comes with an understanding of the volume of preparation needed for a true understanding of any subject matter.\n- Much deeper understanding for customer service, general business/advertising strategies, and financial/resource/time delegation in a business context\nOverall: Developed the ability to simplify complex problems and utilize critical thinking in stressful-situations, and, most importantly, discover the importance of the basic fundamentals of a business model and advertisement strategy."
+            },
+            {
+                "title": "Construction Engineer",
+                "company": "Construction 360 Services",
+                "work_type": "Seasonal",
+                "start_date": "May 2019",
+                "end_date": "Aug 2022",
+                "location": "Georgia, United States",
+                "description": "In Construction Engineering, I developed the following capabilities and achievements...\n- Efficient project management and oversight over vital aspects of a project or build, including complex coordination with other teams.\n- Critical thinking and daily troubleshooting with strong emphasis on safe practice and proper protocol.\n- Eye for fine detail and quality craftsmanship/work, especially in terms of a project's sustainability or effectiveness or longevity.\n- Take a blueprint (plan of action) on paper and materialize it efficiently into action (Ex: A wraparound cornered residential porch (abnormal porch build) required a double band support and custom column support positioning and custom floor joist spacing with a border composite board to diagonal decking pattern with Trex railings and column covers).\n- Effective collaboration in a team of project partners (Ex: A large project required installation of both new cabinetry and new countertops and flooring, so the job required objective cross-collaboration and time management to avoid conflicting workspaces and any unnecessary timeframe extensions).\n- Proficient use of power equipment (both common and advanced machinery).\nOverall: Strategic Planning, Creative Ingenuity, and Effective Intra-Departmental Collaboration Practices."
+            }
+        ],
+        "educations": [
+            {
+                "school": "Georgia Institute of Technology",
+                "degree": "Bachelor's degree",
+                "major": "Mathematics and Computer Science",
+                "start_date": "Aug 2022",
+                "end_date": "May 2026",
+                "description": "3.95 GPA; Studies in Applied Mathematics;\n- Advanced Mathematics (Real Analysis, Abstract Algebra, Combinatorics, 2nd Linear Algebra, Number Theory, etc.)\n- Computer Science (Proficiency in Python and Java)\n- Microsoft Office (Proficiency in Word, Excel, Powerpoint, and Outlook)\n- Critical Thinking (Problem Solving Skills developed for Statistical Analysis\\Actuarial Sciences, Software/Programming, and the Corporate Environment)\n- Public Speaking, Group Project Dynamics/Efficiency, and Intrapersonal Skills\nOverall: Substantial increase in academic and career capability, developed corporate-level skill in data analysis/actuarial analysis and software coding/programming, and developed the work ethic necessary for a prestigious academic/career performance."
+            },
+            {
+                "school": "Union Grove High School",
+                "degree": "High School Diploma",
+                "major": null,
+                "start_date": "2022",
+                "end_date": null,
+                "description": "4.5 GPA"
+            }
+        ],
+        "projects": [],
+        "certifications": [],
+        "id": "https://www.linkedin.com/in/levi-roe-0a8700289"
+    },
+    {
+        "experiences": [
+            {
+                "title": "Software Engineer Intern",
+                "company": "MathWorks",
+                "work_type": "Internship",
+                "start_date": "Feb 2025",
+                "end_date": "Present",
+                "location": "Natick, Massachusetts, United States",
+                "description": "Summer 2025"
+            },
+            {
+                "title": "Founder | CREATE-X S24 Cohort",
+                "company": "VigilTech",
+                "work_type": "Self-employed",
+                "start_date": "Jan 2024",
+                "end_date": "Present",
+                "location": "Atlanta, Georgia, United States",
+                "description": "Simplifying police documentation.\n\nWebsite"
+            },
+            {
+                "title": "Software Engineer",
+                "company": "Fintech @ Georgia Tech",
+                "work_type": "Part-time",
+                "start_date": "Jan 2024",
+                "end_date": "Oct 2024",
+                "location": "Atlanta, Georgia, United States",
+                "description": "\u2022 Helped develop React Native Publix store checkout app and payment pipeline using OpenAI\u2019s CLIP, GPT Vision API, and Supabase to recognize items from an inventory database.\n\u2022 Trained CLIP model on augmented versions of Publix inventory images to recognize live-scanned merchandise."
+            },
+            {
+                "title": "Software Engineer Intern",
+                "company": "MFactor Consultancy",
+                "work_type": "Internship",
+                "start_date": "May 2024",
+                "end_date": "Aug 2024",
+                "location": "United States",
+                "description": "\u2022 Curated 20-page report comparing eight popular dashboarding frameworks and 4 open-source libraries. Designed 7-factor grading schema, produced detailed strength + weakness analysis.\n\u2022 Built responsive React TypeScript signal visualization dashboard. Pulled data from Amazon S3 buckets, built complex visualizations using D3 and ApexCharts.js, and integrated application with PostgreSQL database. Implemented JWT authentication using AWS Cognito, deployed Vite app onto S3 using Amazon Amplify.\n\u2022 Built real-time business intelligence dashboard for admin, saved 20 hours/week in sales workflow.\n\u2022 Preformed convolutions and digital filtering on multi-channel signal data using Python SciPy.\n\u2022 Implemented and evaluated digital filters, including FIR and IIR filters, utilized custom filtering coefficients to enhance signal output. Visualized filtered signals using Matplotlib and Plotly."
+            },
+            {
+                "title": "Information Technology Intern",
+                "company": "Mohanji Global Platform",
+                "work_type": "Internship",
+                "start_date": "Jun 2022",
+                "end_date": "Aug 2022",
+                "location": "Remote",
+                "description": "\u2022 Developed and optimized website teens.earlybirdsclub.org for the Early Birds Club \u2013 Teens.\n\u2022 Designed web page layouts, posters, aided in modeling of UI for the \u201cHealers Without Boundaries\u201d initiative."
+            }
+        ],
+        "educations": [
+            {
+                "school": "Georgia Institute of Technology",
+                "degree": "Bachelor of Science - BS",
+                "major": "Computer Science",
+                "start_date": "Aug 2023",
+                "end_date": "May 2026",
+                "description": "Grade: 4.0\nActivities and societies: Startup Exchange, Fintech Club, Quant Club, RoboJackets, Aarohi (Indian Classical Music Club).\nFaculty Honors: Spring 2024, Fall 2023.\nSkills:Python (Programming Language) \u00b7 Java \u00b7 C++ \u00b7 JavaScript \u00b7 React.js \u00b7 TypeScript"
+            },
+            {
+                "school": "buildspace",
+                "degree": "nights & weekends s5",
+                "major": null,
+                "start_date": "Jun 2024",
+                "end_date": "Jul 2024",
+                "description": null
+            },
+            {
+                "school": "Wesleyan University",
+                "degree": "Dual Enrollment Student",
+                "major": null,
+                "start_date": "Sep 2021",
+                "end_date": "Dec 2022",
+                "description": "Grade: 4.0\n\u2022 Took Introduction to (Geo)Spatial Data Analysis and Visualization as a dual enrollment student.\n\u2022 Achieved a 4.0 GPA."
+            },
+            {
+                "school": "Middletown High School",
+                "degree": null,
+                "major": null,
+                "start_date": null,
+                "end_date": null,
+                "description": "Activities and societies: Captain of MHS VEX Robotics Team 9909Y, founder of the MHS Science Bowl Club, Mathletes state quarterfinalist, National Honors Society, International Robotics Honors Society\nValedictorian, 4.0 GPA\nSkills:Leadership \u00b7 Research Skills \u00b7 Digital Media Design \u00b7 Presentations \u00b7 Marketing \u00b7 User Interface Design"
+            },
+            {
+                "school": "Middlesex Community College",
+                "degree": "Dual Enrollment Student",
+                "major": null,
+                "start_date": "Sep 2021",
+                "end_date": "May 2022",
+                "description": "Grade: 4.0\n\u2022 Took General Chemistry I &amp; II as a dual enrollment student.\n\u2022 Achieved a 4.0 GPA."
+            },
+            {
+                "school": "Samskrita Bharati USA",
+                "degree": "Sanskrit",
+                "major": null,
+                "start_date": "Jan 2018",
+                "end_date": "Jun 2021",
+                "description": "Grade: A+\n\u2022 Completed a 3-year course formally learning Sanskrit as a Foreign Language (SAFL) with fluency in reading, writing and speaking.\n\u2022 Course is accredited by the Accrediting Commission for Schools, Western Association of Schools &amp; National Collegiate Athletic Association (NCAA).   \n\u2022  Graduating GPA: 97%"
+            }
+        ],
+        "projects": [
+            {
+                "project_name": "Therapute | International Top 10, 2024 Google Student Developer Challenge | Winner, Regeneron HealthTech Innovators | PitchRX Finalist",
+                "start_date": "Feb 2024",
+                "end_date": "Present",
+                "description": "\u2022 Developed MERN application that provides physical therapy patients real-time pose correction feedback for their at-home exercises.\n\u2022 Utilized dynamic time warping to compare exercise form, and developed a Neural Radiance Field with an Intel Developer Cloud CUDA environment to generate 3D scans of any given user to illustrate the impact of their body type on the style of performance for their assigned exercises.\n\u2022 Integrated application with an LLM to gain user insight into their exercise experience, which was then summarized into a report for therapists.\n\u2022 Built a dashboard for physical therapists to read our LLM-summary reports, filter through patient video analysis, provide their own comments, and use provided metrics to assign exercises dynamically between physical therapy sessions."
+            },
+            {
+                "project_name": "VigilAI | Winner, Home Depot: Securing and Validating Large Language Models",
+                "start_date": "Nov 2023",
+                "end_date": "Present",
+                "description": "\u2022 Utilized Google Cloud Speech + Video Intelligence to analyze 20+ hours of police bodycam footage and compare officer actions with established protocols, achieving high accuracy in adherence detection.\n\u2022 Engineered MERN application to deliver real-time incident reports with AI-generated summaries to station managers.\n\u2022 Implemented LLM-driven personalized training quizzes to enhance officer response."
+            },
+            {
+                "project_name": "Personal Blog | ishrikar.com",
+                "start_date": "Sep 2022",
+                "end_date": "Present",
+                "description": "\u2022 Created personal personal blog for cinema reviews and sports analysis.\n\u2022 Designed layout on Figma, implemented it using WordPress, Elementor, HTML, and CSS for a seamless user experience.\n\u2022 Created visually engaging posters and media using Canva to complement the blog's content.\n\u2022 Authored and published in-depth blog posts featuring movie reviews and statistical evaluations of international cricket matches."
+            },
+            {
+                "project_name": "Tenzies Game",
+                "start_date": "Dec 2023",
+                "end_date": "Jan 2024",
+                "description": "\u2022 Developed and deployed a Tenzies game using React.js, with a GitHub repository showcasing numerous commits and a codebase achieving a high maintainability score.\n\u2022 Implemented Firebase for robust two-factor authentication.\n\u2022 Leveraged Firebase for efficient storage of user-specific data, including lowest time and number of tries."
+            }
+        ],
+        "name": "Shrikar Seshadri",
+        "profile_pic": "https://media.licdn.com/dms/image/v2/D4E03AQGKKhdRCCVQQw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1718241313045?e=1747872000&v=beta&t=gi-TVl5ikGNcv-RU0Qm42ewNQZCIQlfoxkdkU1E58h4",
+        "headline": "Founder, VigilTech | Honors CS @ Georgia Tech | Google Solution Challenge Winner",
+        "location": "Atlanta, Georgia, United States",
+        "about": "I like to optimize technology for a better tomorrow.\u2022 International Top 10, 2024 Google Student Developer Challenge\u2022 Junior Honors CS major at Georgia Tech\u2022 3x SWE Intern @ Home Depot & MFactor Consultancy\u2022 Founder, VigilAI at GT CREATE-X\u2022 3x Hackathon WinnerLet's connect! Contact me at rangarajanshrikar@gmail.com for any inquires.",
+        "certifications": [
+            {
+                "certificate_name": "International Finalist, Google Student Developer Challenge",
+                "issued_by": "Google",
+                "issue_date": "May 2024",
+                "exp_date": null
+            }
+        ],
+        "id": "https://www.linkedin.com/in/shrikar-seshadri"
+    },
+    {
+        "projects": [
+            {
+                "project_name": "Distributed System for Information Management",
+                "start_date": null,
+                "end_date": null,
+                "description": "- Scalable distributed system (Go, gRPC)\n- MySQL for data persistence\n- Redis for caching\n- Kafka for message queuing"
+            },
+            {
+                "project_name": "MapReduce Framework Development",
+                "start_date": null,
+                "end_date": null,
+                "description": "Multi-threaded MapReduce framework (C++)\n\nSkills: C++"
+            },
+            {
+                "project_name": "Multi-Model Credit Card Approval Prediction System",
+                "start_date": null,
+                "end_date": null,
+                "description": "- Random Forest\n- Extra Trees\n- LGBM"
+            },
+            {
+                "project_name": "Pi-Powered SmartCar",
+                "start_date": null,
+                "end_date": null,
+                "description": "- Self-driving car with Raspberry Pi and Python\n- Obstacle detection and real-time route planning\n- Flask REST API for vehicle control\n- Cloud infrastructure on AWS\n- Raspberry Pi OS security measures\n\nSkills: Python (Programming Language) \u00b7 API \u00b7 Amazon Web Services (AWS)"
+            }
+        ],
+        "name": "Ivy K.",
+        "profile_pic": "https://media.licdn.com/dms/image/v2/D4E35AQHQxvYpn3LbZA/profile-framedphoto-shrink_200_200/profile-framedphoto-shrink_200_200/0/1720937691391?e=1743127200&v=beta&t=o8JKOPry18uYFGU487nLy2P8KToV3ea1jT7lUrDkNnE",
+        "headline": "SDE intern @ Nvidia | GHC '24 | MSCS @ Georgia Tech | Ex-intern @ Tesla",
+        "location": "Atlanta, Georgia, United States",
+        "about": "Hi everyone - I\u2019m looking for a new role and would really appreciate your support. I\u2019m eager to bring my expertise, skills, and experience to a new challenge.\n\nAbout me:\n\n\ud83d\udcbc I\u2019m seeking Software Engineer Internship opportunities for the summer of 2025.\n\n\ud83c\udf0e I\u2019m open to opportunities in any location.\n\n\u2b50 I\u2019ve previously worked at DiDi, Georgia Institute of Technology, and Tesla.\n\nI\u2019d love to reconnect with you, share my experience, and catch up on what\u2019s new in your world. If you hear of any opportunities that you think are worth looking into, or are open to chatting, send me a message or comment below!",
+        "experiences": [
+            {
+                "title": "Head Teaching Assistant",
+                "company": "Georgia Institute of Technology",
+                "work_type": "Full-time",
+                "start_date": "May 2024",
+                "end_date": "Present",
+                "location": "On-site",
+                "description": null
+            },
+            {
+                "title": "Research Assistant",
+                "company": "Georgia Institute of Technology",
+                "work_type": "Part-time",
+                "start_date": "Feb 2024",
+                "end_date": "May 2024",
+                "location": null,
+                "description": "- GPU Acceleration\n- CUDA Optimization\n- Quadratic Assignment Problem (QAP)\n- High Performance Computing"
+            },
+            {
+                "title": "Software Engineer Intern",
+                "company": "DiDi",
+                "work_type": "Full-time",
+                "start_date": "May 2024",
+                "end_date": "Aug 2024",
+                "location": null,
+                "description": "Generative AI Team\n- Chatbot\n- RAG"
+            }
+        ],
+        "educations": [
+            {
+                "school": "Georgia Institute of Technology",
+                "degree": "Master's degree",
+                "major": "Computer Science",
+                "start_date": "2023",
+                "end_date": "Dec 2025",
+                "description": "Grade: 4.0"
+            }
+        ],
+        "certifications": [],
+        "id": "https://www.linkedin.com/in/ivykuang7"
+    }
+]

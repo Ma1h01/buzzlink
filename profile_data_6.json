@@ -1,0 +1,987 @@
+[
+    {
+        "name": "Sehwan (Steve) Joo",
+        "profile_pic": "https://media.licdn.com/dms/image/v2/C5603AQGyyV6slTM8kQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1652465080393?e=1749081600&v=beta&t=Epb_vGTQ5tvGmIDwe8moKQNJNj0qI-2YoJ6AOwV3Ywo",
+        "headline": "CS Student at the Georgia Tech",
+        "location": "Atlanta, Georgia, United States",
+        "about": "My name is Steve Joo, and I am a student at Georgia Tech. I am majoring in computer science. I take pride in my determination and steadiness, and I will always do a job with the best of my ability. I am always up for new challenges and I love learning new skills.",
+        "experiences": [
+            {
+                "title": "Squad Leader & HR Managing at the 10th Battalion HQ",
+                "company": "Republic of Korea Army",
+                "work_type": "On-site",
+                "start_date": "Nov 2022",
+                "end_date": "May 2024",
+                "location": "Incheon, South Korea",
+                "description": "o\tLead squad members at the Republic of Korea Army.\no\tContributed to a personnel management using Excel."
+            },
+            {
+                "title": "Software Engineering Intern",
+                "company": "B-square Lab",
+                "work_type": "On-site",
+                "start_date": "Jul 2022",
+                "end_date": "Nov 2022",
+                "location": "Seoul, South Korea",
+                "description": "o\tImproved a mobile application by testing it on iOS and Android OS from a user perspective.\no\tContributed to ongoing learning and application development by actively seeking feedback and asking questions."
+            }
+        ],
+        "educations": [
+            {
+                "school": "Georgia Institute of Technology",
+                "degree": "Bachelor of Science - BS",
+                "major": "Computer Science",
+                "start_date": "2020",
+                "end_date": "2025",
+                "description": null
+            }
+        ],
+        "projects": [],
+        "certifications": [],
+        "id": "https://www.linkedin.com/in/sehwan-joo-861113236"
+    },
+    {
+        "name": "Allen Falayi",
+        "profile_pic": "https://media.licdn.com/dms/image/v2/D5603AQGr3PvkE7QU7g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1690908124886?e=1749081600&v=beta&t=5kSq1yErcC3BcKsnptPNrX-TTGJuIVuTtwkZVYrjCfw",
+        "headline": "Computer Engineering Student @ Georgia Tech",
+        "location": "Marietta, Georgia, United States",
+        "about": "I am a third year student at the Georgia Institute of Technology. Currently I am pursuing a Bachelor's degree in Computer Engineering with a minor in Spanish, maintaining a GPA of 3.6. I possess deep understanding of both hardware and software principles, and my hands-on projects have honed my skills in digital design and programming. Whether it's developing efficient algorithms in Python, crafting robust applications in Java, or diving into high-level MIPS Assembly code, I thrive on the challenge of solving complex problems and bringing creative solutions to life. In addition to my technical skills, I bring strong analytical abilities, effective communication, and a collaborative mindset. My proficiency in Spanish has provided me with a global perspective and the ability to communicate effectively with diverse groups.",
+        "experiences": [
+            {
+                "title": "Tech Consultant",
+                "company": "Black Culture Innovation and Technology",
+                "work_type": "Present",
+                "start_date": "Sep 2024",
+                "end_date": null,
+                "location": null,
+                "description": "Management of event support, technical troubleshooting, and customer service, ensuring smooth operations for students, staff, and visitors.\nCollaboration with teams to integrate new technologies, support system upgrades, and advocating for diversity in technology spaces."
+            },
+            {
+                "title": "Social Media Manager/Developer",
+                "company": "The Hybrid Leadership Institute",
+                "work_type": "Jan 2022 - Jul 2023",
+                "start_date": "Jan 2022",
+                "end_date": "Jul 2023",
+                "location": null,
+                "description": "Designed and developed web applications using Javascript framework to increase target audience engagement by 6%. Sustenance of social media channels and company websites.\nConsulted with sales, product management, and web development teams to create specific marketing campaigns across multiple platforms."
+            }
+        ],
+        "educations": [
+            {
+                "school": "Georgia Institute of Technology",
+                "degree": "Bachelor of Science, Computer Engineering",
+                "major": "Computer Engineering",
+                "start_date": "Aug 2023",
+                "end_date": "May 2026",
+                "description": null
+            },
+            {
+                "school": "Walton High School",
+                "degree": "High School Diploma",
+                "major": null,
+                "start_date": "2018",
+                "end_date": "2022",
+                "description": "Activities and societies: National Society of High School Scholars\nNational Honors Society\nVarsity Basketball"
+            }
+        ],
+        "projects": [],
+        "certifications": [],
+        "id": "https://www.linkedin.com/in/allen-falayi-6777831a8"
+    },
+    {
+        "name": "Abhishek Swaminathan",
+        "profile_pic": "https://media.licdn.com/dms/image/v2/D5603AQFsqarCpaNbJQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1684698655598?e=1749081600&v=beta&t=Q3TlBq3DGIBZS5aidiWl7CaUVZZOckXe3vr_XGJHU0o",
+        "headline": "BME @ Georgia Tech",
+        "location": "Lawrenceville, Georgia, United States",
+        "about": "A biomedical engineering student at the Georgia Institute of Technology with a robotics minor. Very interested in bioelectronics, AI, ML, and hope to gain experience in the R&amp;D industry.\n\nContact me at Aswaminathan45@gatech.edu",
+        "experiences": [
+            {
+                "title": "Research And Development Intern",
+                "company": "Chemence Medical, Inc.",
+                "work_type": "Internship",
+                "start_date": "Jun 2024",
+                "end_date": "Present",
+                "location": "Alpharetta, Georgia, United States",
+                "description": "\u2022 Created and tested adhesive formulations using tensile testing (Instron), rheometry, viscometry, and UV-Vis/XRF spectrometers.\n\u2022 Collected data on adhesive cure speeds, adhesive bond strength, dynamic/kinematic viscosity, thixotropic index, glass transition temperature, absorbance, and hardness.\n\u2022 Researched cyanoacrylate adhesives, photoinitators, conductive polymer composites, and hydrogel adhesives."
+            },
+            {
+                "title": "Research Assistant - Bioelectronics, Wireless and Nanotechnology Systems (BioWiNS) Laboratory",
+                "company": "Georgia Institute of Technology",
+                "work_type": "Part-time",
+                "start_date": "Aug 2024",
+                "end_date": "Jan 2025",
+                "location": "Atlanta, Georgia, United States",
+                "description": "- Investigated power output and energy capacity of galvanic cells under varying load resistances for ingestible devices.\n- Researched and contributed to the development of novel energy harvesting techniques/biofuels for bioelectronic devices.\n- Conducted independent experiments in a wet lab environment and helped develop experimental procedures."
+            },
+            {
+                "title": "Research Assistant - Human Neuromuscular Physiology Laboratory",
+                "company": "Georgia Institute of Technology",
+                "work_type": "Part-time",
+                "start_date": "Aug 2023",
+                "end_date": "May 2024",
+                "location": "Atlanta, Georgia, United States",
+                "description": "- Conducted research using transcutaneous vagus nerve stimulation (tVNS) and high-density EMG (HD-EMG) to enhance\nmemory retention in muscle activation.\n- Analyzed motor unit decomposition with MUedit, I-Spin, and OTBiolab to study relationships between motor units and\nsurface HD-EMG signals.\n- Optimized Matlab code to generate visual representations of stimulation data, and enhanced usability via prompts."
+            },
+            {
+                "title": "Product Design Engineer",
+                "company": "ULTRAVIEW Archery",
+                "work_type": "Internship",
+                "start_date": "Jun 2022",
+                "end_date": "Apr 2023",
+                "location": "Georgia, United States",
+                "description": "- Designed a board using Fusion360 and Cura to display shop items with separate mounts fitted to the products being shown.\n- Worked with my mentor to create an acrylic laser engraved template for shelf dividers using LightBurn (laser engraving software).\n- Created a magnetic quick disconnect mechanism for stabilizers with Fusion360 and Cura."
+            }
+        ],
+        "educations": [
+            {
+                "school": "Georgia Institute of Technology",
+                "degree": "Bachelor of Science - BS",
+                "major": "Biomedical/Medical Engineering",
+                "start_date": "Aug 2022",
+                "end_date": "May 2025",
+                "description": "Grade: Junior\nActivities and societies: Medical Robotics Club, Archery Club, Dean's List/Faculty Honors\nGPA: 4.0"
+            },
+            {
+                "school": "The Gwinnett School of Mathematics, Science, and Technology (GSMST)",
+                "degree": "High School Diploma",
+                "major": null,
+                "start_date": "Aug 2018",
+                "end_date": "May 2022",
+                "description": null
+            }
+        ],
+        "projects": [],
+        "certifications": [
+            {
+                "certificate_name": "Biomedical Research Investigators and Key Personnel",
+                "issued_by": "CITI Program",
+                "issue_date": "Nov 2023",
+                "exp_date": "Nov 2026"
+            }
+        ],
+        "id": "https://www.linkedin.com/in/abhiswami"
+    },
+    {
+        "name": "Namit Agrawal",
+        "profile_pic": "https://media.licdn.com/dms/image/v2/D4E03AQF5TUFJUiOnow/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1725854061435?e=1749081600&v=beta&t=4T7sqoJAX9ZyMcgJ6nHtDx9GrhGmH97ii_FJhYGGnGc",
+        "headline": "CS @ Georgia Tech",
+        "location": "Sayreville, New Jersey, United States",
+        "about": "Hello! I'm a student at Georgia Tech with a passion for everything related to the world of computer science. I hope to explore the field of CS by working on innovative projects that allow me to use my full array of software development skills. Programming makes things easier and more efficient, and I plan on using its power to solve problems with real world impact. I am currently looking for Summer 2025 internship opportunities related to software engineering, robotics, or artificial intelligence.",
+        "experiences": [
+            {
+                "title": "LLM Researcher",
+                "company": "Algoverse",
+                "work_type": "Internship",
+                "start_date": "Nov 2024",
+                "end_date": "Jan 2025",
+                "location": "Remote",
+                "description": "Researched LLM data loss (lost-in-the-middle issue) with long-context inputs using needle-in-a-haystack test.\nTested new technique using artificial pause tokens to improve information processing and redistribute attention.\nIdentified a ~10% improvement in data retention, potentially expanding LLM utility for long-context use cases.\nAccepted to NAACL Student Research Workshop 2025."
+            },
+            {
+                "title": "Computer Science Research Intern",
+                "company": "New Jersey Institute of Technology",
+                "work_type": "Internship",
+                "start_date": "Nov 2023",
+                "end_date": "Apr 2024",
+                "location": "Remote",
+                "description": "Researched public sentiment about global war and current events.\nAnalyzed millions of posts on Instagram, X, and Reddit using clustering and classification techniques including TF-IDF and Zero-Shot.\nCollected and classified posts into categories of events and biases, using the post's text as well as metadata including date and location of post."
+            },
+            {
+                "title": "Software Engineer Intern",
+                "company": "Navitas Partners, LLC",
+                "work_type": "Internship",
+                "start_date": "Jun 2023",
+                "end_date": "Jul 2023",
+                "location": "North Brunswick, New Jersey, United States",
+                "description": "Automated database backup and merge processes in MySQL and MongoDB using Python APIs.\nResolved known issues in employee portal using JavaScript and Web Development skills.\nUsed Python's BeautifulSoup and Requests modules to scrape detailed Wikipedia data."
+            }
+        ],
+        "educations": [
+            {
+                "school": "Georgia Institute of Technology",
+                "degree": "Bachelor of Science - BS",
+                "major": "Computer Science",
+                "start_date": null,
+                "end_date": null,
+                "description": "Year: Junior\nGPA: 4.0\nRelevant Coursework: Data Structures and Algorithms, Design and Analysis of Algorithms, Probability and Statistics, Perception and Robotics, Artificial Intelligence, Computer Organization and Programming, Objects and Design, Linear Algebra, Discrete Mathematics"
+            },
+            {
+                "school": "Middlesex County Magnet Schools",
+                "degree": "Edison Academy Magnet School",
+                "major": null,
+                "start_date": null,
+                "end_date": null,
+                "description": "Relevant Coursework: Electrical/Computer Engineering, Intro to Computer Science, AP Computer Science A, Introduction to Machine Learning, Introduction to Quantum Computing, Linear Algebra, Discrete Mathematics, AP Statistics\nLeadership and Community Engagement: Science League President and Captain of Physics Team, Math League Secretary, Computer Science Teaching Assistant, National Honor Society, Varsity Tennis (State Championship Winning Team)"
+            }
+        ],
+        "projects": [
+            {
+                "project_name": "Pause-Tuning for Long-Context Comprehension: A Lightweight Approach to LLM Attention Recalibration",
+                "start_date": null,
+                "end_date": null,
+                "description": null
+            }
+        ],
+        "certifications": [],
+        "id": "https://www.linkedin.com/in/namitagrawal7"
+    },
+    {
+        "name": "Peter Aimasiko",
+        "profile_pic": "https://media.licdn.com/dms/image/v2/D5603AQH20i1O8C2ytw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1696017206638?e=1749081600&v=beta&t=pXi_2CnLBPKIG6T9aYy6sXGPqsnYhR0MxxufHlOkbF4",
+        "headline": "CS @ Georgia Institute of Technology",
+        "location": "Atlanta Metropolitan Area",
+        "about": "Hello! I\u2019m a third year at Georgia Institute of Technology studying Computer Science with Intelligence and Information Internetworks as my concentration. I\u2019m currently looking for a SWE internship or co-op for 2025. I want to use my passion for tech to help solve problems and uplift disadvantaged members in my local community.",
+        "experiences": [
+            {
+                "title": "Software Engineer Intern",
+                "company": "Givelify",
+                "work_type": "Internship",
+                "start_date": "May 2024",
+                "end_date": "Aug 2024",
+                "location": "Atlanta, Georgia, United States \u00b7 Remote",
+                "description": "\u2022\tLed a team to implement a back-end service built with PHP to store domain events that will greatly improve troubleshooting time for payment issues\n\u2022\tDesigned new production databases in MySQL to help facilitate the creation of new microservices for the payment team."
+            },
+            {
+                "title": "Undergraduate Teaching Assistant for Object-Oriented Programming",
+                "company": "College of Computing at Georgia Tech",
+                "work_type": "Part-time",
+                "start_date": "Aug 2023",
+                "end_date": "May 2024",
+                "location": "Atlanta, Georgia, United States \u00b7 Hybrid",
+                "description": "\u2022\tAssisted students with assignments or questions about the course using my prior knowledge during Office Hours 2 days a week to give students another resource to ensure their success.\n\u2022\tProctored exams along with fellow teaching assistants where I made sure students upheld the Georgia Tech Honor Code, answering questions, and collecting exam papers.\n\u2022\tGraded homework and exams and gave feedback on time complexity and efficiency of source code for a section of over 400+ students where students demonstrated their knowledge by creating and tracing code based on OOP principles."
+            },
+            {
+                "title": "Report Developer / Data Analyst Intern",
+                "company": "PISHON TECHNOLOGIES INC",
+                "work_type": "Internship",
+                "start_date": "Feb 2017",
+                "end_date": "Aug 2023",
+                "location": "Austell, Georgia, United States \u00b7 On-site",
+                "description": "\u2022\tGenerated periodic reports based on the statistical analysis of the data from various time frames and divisions using SQL Server Reporting Services (SSRS)\n\u2022\tMoved data from multiple data sources using Export/Import utility (SSIS) to including Flat files, Excel spreadsheets, and Linked-Server to Oracle and MYSQL databases.\n\u2022\tCreated database objects in DEV/TEST databases by working with Database Administrators."
+            }
+        ],
+        "educations": [
+            {
+                "school": "Georgia Institute of Technology",
+                "degree": "Bachelor of Science - BS",
+                "major": "Computer Science",
+                "start_date": "Aug 2022",
+                "end_date": "May 2026",
+                "description": null
+            },
+            {
+                "school": "East Paulding High School",
+                "degree": "High School Diploma",
+                "major": null,
+                "start_date": "2018",
+                "end_date": "2022",
+                "description": "Activities and societies: National Honor Society\nSkillsUSA"
+            }
+        ],
+        "projects": [],
+        "certifications": [],
+        "id": "https://www.linkedin.com/in/peter-aimasiko"
+    },
+    {
+        "educations": [
+            {
+                "school": "Georgia Institute of Technology",
+                "degree": "Bachelor's degree",
+                "major": "Computer Science",
+                "start_date": "Aug 2023",
+                "end_date": "May 2027",
+                "description": "Grade: 4.0\n\nSkills:Java \u00b7 Linear Algebra"
+            },
+            {
+                "school": "Lakeside High School",
+                "degree": null,
+                "major": null,
+                "start_date": "2019",
+                "end_date": "2023",
+                "description": "Grade: 4.49 GPA\n\nActivities and societies: Varsity Swim\nMu Alpha Theta Tutoring Coordinator\nNational Honor Society\nBeta Club\nComputer Science President\nTechnology Student Association\nRobotics\nLatin Club\n\nSkills:Project Management \u00b7 Communication \u00b7 Leadership \u00b7 Java \u00b7 Engineering"
+            },
+            {
+                "school": "Georgia State University",
+                "degree": null,
+                "major": null,
+                "start_date": "Aug 2022",
+                "end_date": "May 2033",
+                "description": null
+            }
+        ],
+        "name": "Bryan Shook",
+        "profile_pic": "https://media.licdn.com/dms/image/v2/D4E03AQH3jij8iAFgKw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1718259492661?e=1749081600&v=beta&t=_IS9Ty0QZKVY2x4og9JonqQf3OUHsy7osVj7iBMFqJk",
+        "headline": "CS Student at Georgia Tech",
+        "location": "Atlanta, Georgia, United States",
+        "about": "A computer science student with concentrations in intelligence and systems architecture at Georgia Tech. Recently hired as an SDE intern for an internal facing team at Amazon.",
+        "experiences": [
+            {
+                "title": "Undergraduate Teaching Assistant",
+                "company": "College of Computing at Georgia Tech",
+                "work_type": "Part-time",
+                "start_date": "Jan 2025",
+                "end_date": "Present",
+                "location": "Atlanta, Georgia, United States",
+                "description": "\u2022 Teaching Assistant for CS2110:\n\u2022 Directly led two weekly labs for 50 students involving lecture topics, software setup, and review\n   sessions.\n\u2022 Supported 800 students by holding 3 hours of weekly office hours and answering forum posts."
+            },
+            {
+                "title": "SDE Intern",
+                "company": "Amazon",
+                "work_type": "Internship",
+                "start_date": "May 2024",
+                "end_date": "Aug 2024",
+                "location": "Palo Alto, California, United States",
+                "description": "\u2022 Leveraged AWS and Amazon internal technologies to improve developer and customer experience on a Search Internal product.\n\u2022 Provided continuous integration and continuous development by facilitating automatic deployments to production.\n\u2022 Rewrote legacy front-end code to utilize recommended React and CSS practices.\n\u2022 Migrated front-end to a standardized internal hosting platform."
+            },
+            {
+                "title": "Library Intern",
+                "company": "Lakeside High School",
+                "work_type": "Internship",
+                "start_date": "Aug 2022",
+                "end_date": "May 2023",
+                "location": "Atlanta, Georgia, United States",
+                "description": "Aided students by providing resources to references materials, organizing books, and fixing chromebook issues."
+            }
+        ],
+        "projects": [],
+        "certifications": [],
+        "id": "https://www.linkedin.com/in/bryan-shook-7125a9272"
+    },
+    {
+        "experiences": [
+            {
+                "title": "Systems and Infrastructure Engineer III, Information Security",
+                "company": "Walmart Global Tech",
+                "work_type": "Full-time",
+                "start_date": "Jun 2024",
+                "end_date": "Present",
+                "location": "United States",
+                "description": null
+            },
+            {
+                "title": "Graduate Teaching Assistant",
+                "company": "Georgia Institute of Technology",
+                "work_type": "Part-time",
+                "start_date": "Jan 2024",
+                "end_date": "Present",
+                "location": "Atlanta, Georgia, United States",
+                "description": "Course : Introduction to Information Security"
+            },
+            {
+                "title": "IAM Intern",
+                "company": "First Advantage",
+                "work_type": "Internship",
+                "start_date": "May 2023",
+                "end_date": "Dec 2023",
+                "location": "United States",
+                "description": "- Onboarding applications that are connected/partially connected/disconnected to IGA tool Saviynt.\n- Focusing on maturing the metrics for the ISMS process."
+            },
+            {
+                "title": "Graduate Teaching Assistant",
+                "company": "Georgia Institute of Technology",
+                "work_type": "Part-time",
+                "start_date": "Jan 2023",
+                "end_date": "May 2023",
+                "location": "Atlanta, Georgia, United States",
+                "description": null
+            },
+            {
+                "title": "VMware",
+                "company": "VMware",
+                "work_type": "Full-time",
+                "start_date": "Jan 2022",
+                "end_date": "Jul 2022",
+                "location": "Bengaluru, Karnataka, India",
+                "description": "- Onboarding applications that are connected/partially connected/disconnected to IGA tool Saviynt."
+            },
+            {
+                "title": "Information Security Analyst",
+                "company": "VMware",
+                "work_type": "Full-time",
+                "start_date": "Sep 2021",
+                "end_date": "Jan 2022",
+                "location": "Bengaluru, Karnataka, India",
+                "description": "- Carrying out the ISMS process (Scope and Spec, RA-RT and MRM) for various cloud offerings aiming to be ISO certified.\n- Focusing on maturing the metrics for the ISMS process."
+            },
+            {
+                "title": "Cloud Security Engineer",
+                "company": "VMware",
+                "work_type": "Full-time",
+                "start_date": "Nov 2020",
+                "end_date": "Sep 2021",
+                "location": "Bengaluru, Karnataka, India",
+                "description": "\u2022\tEnsure cloud best practices are in place to support Information Security and Compliance requirements for all service offerings.\n\u2022\tLead cross-functional projects to ensure cloud offerings implement necessary security controls.\n\u2022\tConduct ongoing cloud security assessments to evaluate the design and operational effectiveness of policies, standards, and internal control framework.\n\u2022Conduct ISMS reviews as a part of ISO 27001 for cloud delivered services aiming for ISO certification."
+            },
+            {
+                "title": "Cloud Security Analyst",
+                "company": "VMware",
+                "work_type": "Full-time",
+                "start_date": "Jul 2018",
+                "end_date": "Oct 2020",
+                "location": "Bengaluru Area, India",
+                "description": "\u2022\tEnsure cloud best practices are in place to support Information Security and Compliance requirements for all service offerings.\n\u2022\tLead cross-functional projects to ensure cloud offerings implement necessary security controls.\n\u2022\tConduct ongoing cloud security assessments to evaluate the design and operational effectiveness of policies, standards, and internal control framework.\n\u2022\tGather, create, and update security requirements and specifications for projects to enhance the overall program."
+            },
+            {
+                "title": "Internship",
+                "company": "VMware",
+                "work_type": "Internship",
+                "start_date": "Jan 2018",
+                "end_date": "Jul 2018",
+                "location": "Bangalore, India",
+                "description": "\u2022\tPerformed Risk Assessment for over 60 cloud applications and carried out threat mapping.\n\u2022\tValidate Information Security key controls to identify control risks, analyze root causes, and trends in potential control weaknesses; suggest new controls to meet cloud security standards where applicable."
+            }
+        ],
+        "certifications": [
+            {
+                "certificate_name": "AWS Certified Cloud Practitioner",
+                "issued_by": "Amazon Web Services (AWS)",
+                "issue_date": "May 2022",
+                "exp_date": "May 2025"
+            },
+            {
+                "certificate_name": "Systems Security Certified Practitioner (SSCP)",
+                "issued_by": "ISC2",
+                "issue_date": "Mar 2020",
+                "exp_date": "Mar 2026"
+            },
+            {
+                "certificate_name": "Certified Identity and Access Manager\u00ae",
+                "issued_by": "Identity Management Institute",
+                "issue_date": "Apr 2022",
+                "exp_date": "Dec 2024"
+            }
+        ],
+        "name": "Shraddha Bhat",
+        "profile_pic": "https://media.licdn.com/dms/image/v2/C5103AQEe7ng-7SftPA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1575731052198?e=1749081600&v=beta&t=h8XhKmYECllp4HmfpmeXHqw52syxh8g0YGzP05Ex9rI",
+        "headline": "Systems and Infrastructure Engineer III, Information Security @ Walmart Inc.",
+        "location": "Atlanta, Georgia, United States",
+        "about": "As a Graduate Teaching Assistant at Georgia Tech, I support the delivery of the Secure Computer Systems course, where I assist students with assignments, lecture content, and projects. I am also pursuing a master's degree in Cybersecurity, with a focus on Cloud Security, Network Security, and SOC/IR.\n\nPreviously, I worked as an IAM intern at First Advantage, where I performed access reviews, implemented identity governance policies, and automated IAM processes using PowerShell, Microsoft Entra and Saviynt. I also gained valuable experience in Cloud Security and Compliance, as I helped migrate applications to AWS and ensured adherence to security standards and best practices. Additionally, I hold multiple certifications, including SSCP, CIAM, and AWS Cloud Practitioner, which demonstrate my knowledge and skills in various domains of Cybersecurity.\n\nWith four years of practical experience and academic excellence, I am passionate about learning and developing new skills in the field of Cybersecurity. I am driven by curiosity and innovation, and I aim to contribute effectively to cutting-edge security strategies, initiatives, and solutions.",
+        "educations": [
+            {
+                "school": "Georgia Institute of Technology",
+                "degree": "Master of Science - MS",
+                "major": "Cybersecurity",
+                "start_date": "Aug 2022",
+                "end_date": "Aug 2024",
+                "description": null
+            },
+            {
+                "school": "N M A M Institute of Technology, NITTE",
+                "degree": "Bachelor of Engineering",
+                "major": "Computer Science",
+                "start_date": "Aug 2014",
+                "end_date": "Jul 2018",
+                "description": null
+            }
+        ],
+        "projects": [],
+        "id": "https://www.linkedin.com/in/shraddha-bhat-49236015b"
+    },
+    {
+        "name": "Shirley Nguy\u1ec5n",
+        "profile_pic": "https://media.licdn.com/dms/image/v2/D4E03AQFFIiAO-AoLdw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1731605366395?e=1749081600&v=beta&t=fvD01ZlsKVNaCQaJLGMOAM1h_Jeqa961XZJeAOPXe6M",
+        "headline": "Industrial Design + Social Justice @ GA Tech",
+        "location": "Atlanta Metropolitan Area",
+        "about": "Portfolio: https://khiomrom.myportfolio.com\n\nHello, I'm Shirley! I'm an Industrial Design major and Social Justice minor at Georgia Tech, with goals to create designs that reflect a sense of genuine understanding of the communities they're made for. STEM and Humanities go hand-in-hand, and I hope to contribute to bridging the gap between them.\n\nHaving conversations is the first step... please feel free message me on LinkedIn!",
+        "experiences": [
+            {
+                "title": "Graphic Designer, Artist",
+                "company": "Khi Om Rom",
+                "work_type": "Self-employed",
+                "start_date": "May 2019",
+                "end_date": "Present",
+                "location": "Lawrenceville, Georgia, United States",
+                "description": "-Share AAPI culture and experiences through art and vending at local art markets\n-Create community event posters, t-shirt and logo designs, stickers, album covers, etc."
+            },
+            {
+                "title": "Intern",
+                "company": "CCS: Marketing & Technology",
+                "work_type": "Internship",
+                "start_date": "Jul 2024",
+                "end_date": "Aug 2024",
+                "location": null,
+                "description": null
+            },
+            {
+                "title": "Retail Associate",
+                "company": "Ross Stores, Inc.",
+                "work_type": "Part-time",
+                "start_date": "May 2024",
+                "end_date": "Jul 2024",
+                "location": null,
+                "description": null
+            },
+            {
+                "title": "Intern",
+                "company": "Asian Student Alliance",
+                "work_type": "Internship",
+                "start_date": "Sep 2021",
+                "end_date": "Jun 2022",
+                "location": null,
+                "description": "- Developed and lead workshops on AAPI history and identity\n- Planned annual leadership conference\n- Represented the organization at community events and school board meetings\n- Engaged with Asian youth and allies through social media"
+            },
+            {
+                "title": "Marketing Editor ",
+                "company": "Erato - literary arts magazine",
+                "work_type": null,
+                "start_date": "Aug 2022",
+                "end_date": "Present",
+                "location": null,
+                "description": "-Sort submissions and create layouts/spreads for the annual Erato magazine\n-Create stickers, table cloth design, and promotional flyers"
+            },
+            {
+                "title": "Design Director",
+                "company": "Vietnamese Student Association",
+                "work_type": null,
+                "start_date": "May 2023",
+                "end_date": "Present",
+                "location": null,
+                "description": "-Design mascot, stickers, posters, banners, and t-shirts\n-Express Vietnamese culture and traditions through graphic design"
+            }
+        ],
+        "educations": [
+            {
+                "school": "Georgia Institute of Technology",
+                "degree": "Bachelor of Industrial Design",
+                "major": "Industrial Design",
+                "start_date": "2022",
+                "end_date": "May 2026",
+                "description": null
+            },
+            {
+                "school": "Grayson High School",
+                "degree": null,
+                "major": null,
+                "start_date": "Aug 2018",
+                "end_date": "May 2022",
+                "description": null
+            }
+        ],
+        "projects": [
+            {
+                "project_name": "Labor of Love AAPI Maker\u2019s Market",
+                "start_date": null,
+                "end_date": null,
+                "description": null
+            },
+            {
+                "project_name": "AAPI Heritage Month 2023",
+                "start_date": null,
+                "end_date": null,
+                "description": null
+            },
+            {
+                "project_name": "Asian American student speaking at the school board meeting",
+                "start_date": null,
+                "end_date": null,
+                "description": null
+            }
+        ],
+        "certifications": [
+            {
+                "certificate_name": "Group 2 Social / Behavioral Research Investigators and Key Personnel",
+                "issued_by": "CITI Program",
+                "issue_date": "Mar 2025",
+                "exp_date": "Mar 2028"
+            },
+            {
+                "certificate_name": "RCR Basic Course",
+                "issued_by": "CITI Program",
+                "issue_date": "Feb 2025",
+                "exp_date": null
+            }
+        ],
+        "id": "https://www.linkedin.com/in/shirleykn"
+    },
+    {
+        "name": "Ian Rausch",
+        "profile_pic": "https://media.licdn.com/dms/image/v2/D4E03AQHuvln3i_6zGQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1702749940118?e=1749081600&v=beta&t=LQTqwGX4ek8XpUOyulHgpL7Aeyo-GNKEgZLWlNpM2Ug",
+        "headline": "CS @ Georgia Tech",
+        "location": "Atlanta, Georgia, United States",
+        "about": "I'm a 4rd-year Computer Science student at Georgia Tech specializing in People and Intelligence. I am experienced in Python/TypeScript/Java/Ruby development, and I am interested in machine learning research, human-centered artificial intelligence, and software development.",
+        "experiences": [
+            {
+                "title": "Lead Teaching Assistant",
+                "company": "College of Computing at Georgia Tech",
+                "work_type": "Part-time",
+                "start_date": "Aug 2023",
+                "end_date": "Present",
+                "location": "Atlanta, Georgia, United States",
+                "description": "CS2340"
+            },
+            {
+                "title": "Undergraduate Research Assistant",
+                "company": "Georgia Tech VIP Program",
+                "work_type": "Full-time",
+                "start_date": "Aug 2023",
+                "end_date": "Present",
+                "location": "Atlanta, Georgia, United States",
+                "description": "Unity, C#"
+            }
+        ],
+        "educations": [
+            {
+                "school": "Georgia Institute of Technology",
+                "degree": "Master of Science - MS",
+                "major": "Computer Science",
+                "start_date": "May 2026",
+                "end_date": null,
+                "description": null
+            },
+            {
+                "school": "Georgia Institute of Technology",
+                "degree": "Bachelor of Science - BS",
+                "major": "Computer Science",
+                "start_date": "Jun 2022",
+                "end_date": "May 2025",
+                "description": "Activities and societies: GT WebDev\nData Structures, Machine Learning"
+            }
+        ],
+        "projects": [],
+        "certifications": [],
+        "id": "https://www.linkedin.com/in/ianrausch"
+    },
+    {
+        "certifications": [
+            {
+                "certificate_name": "Infrastructure and Application Modernization with Google Cloud",
+                "issued_by": "Google Cloud Skills Boost",
+                "issue_date": "Feb 2022",
+                "exp_date": null
+            },
+            {
+                "certificate_name": "Innovating with Data and Google Cloud",
+                "issued_by": "Google Cloud Skills Boost",
+                "issue_date": "Feb 2022",
+                "exp_date": null
+            },
+            {
+                "certificate_name": "Introduction to Digital Transformation with Google Cloud",
+                "issued_by": "Google Cloud Skills Boost",
+                "issue_date": "Feb 2022",
+                "exp_date": null
+            },
+            {
+                "certificate_name": "Understanding Google Cloud Security and Operations",
+                "issued_by": "Google Cloud Skills Boost",
+                "issue_date": "Feb 2022",
+                "exp_date": null
+            },
+            {
+                "certificate_name": "Baseline: Data, ML, AI",
+                "issued_by": "Google Cloud Skills Boost",
+                "issue_date": "Jan 2022",
+                "exp_date": null
+            },
+            {
+                "certificate_name": "Baseline: Infrastructure",
+                "issued_by": "Google Cloud Skills Boost",
+                "issue_date": "Jan 2022",
+                "exp_date": null
+            },
+            {
+                "certificate_name": "BigQuery Basics for Data Analysts",
+                "issued_by": "Google Cloud Skills Boost",
+                "issue_date": "Jan 2022",
+                "exp_date": null
+            },
+            {
+                "certificate_name": "Build and Secure Networks in Google Cloud",
+                "issued_by": "Google Cloud Skills Boost",
+                "issue_date": "Jan 2022",
+                "exp_date": null
+            },
+            {
+                "certificate_name": "Cloud Engineering",
+                "issued_by": "Google Cloud Skills Boost",
+                "issue_date": "Jan 2022",
+                "exp_date": null
+            },
+            {
+                "certificate_name": "Deploy and Manage Cloud Environments with Google Cloud",
+                "issued_by": "Google Cloud Skills Boost",
+                "issue_date": "Jan 2022",
+                "exp_date": null
+            },
+            {
+                "certificate_name": "Ensure Access",
+                "issued_by": "Google Cloud Skills Boost",
+                "issue_date": "Jan 2022",
+                "exp_date": null
+            },
+            {
+                "certificate_name": "Insights from Data with BigQuery",
+                "issued_by": "Google Cloud Skills Boost",
+                "issue_date": "Jan 2022",
+                "exp_date": null
+            },
+            {
+                "certificate_name": "Intro to ML: Language Processing",
+                "issued_by": "Google Cloud Skills Boost",
+                "issue_date": "Jan 2022",
+                "exp_date": null
+            },
+            {
+                "certificate_name": "Kubernetes in Google Cloud",
+                "issued_by": "Google Cloud Skills Boost",
+                "issue_date": "Jan 2022",
+                "exp_date": null
+            },
+            {
+                "certificate_name": "Machine Learning APIs",
+                "issued_by": "Google Cloud Skills Boost",
+                "issue_date": "Jan 2022",
+                "exp_date": null
+            },
+            {
+                "certificate_name": "Networking in Google Cloud",
+                "issued_by": "Google Cloud Skills Boost",
+                "issue_date": "Jan 2022",
+                "exp_date": null
+            },
+            {
+                "certificate_name": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
+                "issued_by": "Google Cloud Skills Boost",
+                "issue_date": "Jan 2022",
+                "exp_date": null
+            },
+            {
+                "certificate_name": "Perform Foundational Infrastructure Tasks in Google Cloud",
+                "issued_by": "Google Cloud Skills Boost",
+                "issue_date": "Jan 2022",
+                "exp_date": null
+            }
+        ],
+        "name": "Sahaj Purohit",
+        "profile_pic": null,
+        "headline": "Student at Georgia Institute of Technology",
+        "location": "Atlanta, Georgia, United States",
+        "about": null,
+        "experiences": [
+            {
+                "title": "Teaching Assistant",
+                "company": "College of Computing at Georgia Tech",
+                "work_type": "On-site",
+                "start_date": "Aug 2023",
+                "end_date": "Present",
+                "location": "Atlanta, Georgia, United States",
+                "description": "\u2022 Teaching assistant for CS 4510: Automata and Complexity Theory\n\u2022 CS 4510 is an advanced upper-level course which aims to tackle some of the most difficult questions in computer science and mathematics\n\u2022 Manually graded homework assignments and exams, offering constructive feedback for student improvement\n\u2022 Organized weekly office hours, offering one-on-one and group assistance to students seeking additional help\n\u2022 Transcribed and formatted lectures into LATEX, a sophisticated markup language, ensuring clarity and consistency\n\u2022 Actively moderated the course discussion forum page, providing insightful responses to student inquiries\n\u2022 Actively participated in course coordination meetings to assess the overall effectiveness of the curriculum and contribute valuable insights and recommendations for enhancements"
+            },
+            {
+                "title": "Member of Data Acquisition Team",
+                "company": "HyTech Racing at Georgia Tech",
+                "work_type": null,
+                "start_date": "Sep 2022",
+                "end_date": "May 2023",
+                "location": "Atlanta, Georgia, United States",
+                "description": "\u2022 Set up communication from the inertial measurement unit in the race car using Serial Peripheral Interface in C++\n\u2022 Developed a Python script to streamline communication and data exchange among multiple ESP32 boards, enhancing their interoperability and functionality\n\u2022 Programmed a PID launch control system for the race car in C++, optimizing acceleration performance\n\u2022 Created tire simulation model in MATLAB to output longitudinal accel values for given tire slip and normal force"
+            },
+            {
+                "title": "Member of Software Team @ RoboRacing",
+                "company": "RoboJackets",
+                "work_type": null,
+                "start_date": "Sep 2022",
+                "end_date": "May 2023",
+                "location": "Atlanta, Georgia, United States",
+                "description": "\u2022 Performed coordinate frame transformations using C++ to accurately visualize the robot\u2019s position in real-time\n\u2022 Authored multiple Robot Operating System (ROS) launch files, streamlining system configurations\n\u2022 Integrated a Yost inertial measurement unit sensor into the robot, enhancing its sensory capabilities and precision"
+            }
+        ],
+        "educations": [
+            {
+                "school": "Georgia Institute of Technology",
+                "degree": "Bachelor of Science - BS, Computer Science",
+                "major": null,
+                "start_date": "Aug 2022",
+                "end_date": "May 2025",
+                "description": "Activities and societies: HyTech Racing, RoboRacing @ RoboJackets\nPython (Programming Language), Git and +3 skills"
+            }
+        ],
+        "projects": [],
+        "id": "https://www.linkedin.com/in/sahajpurohit"
+    },
+    {
+        "experiences": [
+            {
+                "title": "Product Development Engineer",
+                "company": "Johnson & Johnson MedTech",
+                "work_type": "Full-time",
+                "start_date": "Jan 2025",
+                "end_date": "Present",
+                "location": null,
+                "description": null
+            },
+            {
+                "title": "Professional Development Chair",
+                "company": "Johnson & Johnson MedTech",
+                "work_type": "Full-time",
+                "start_date": "Jan 2025",
+                "end_date": "Present",
+                "location": null,
+                "description": null
+            },
+            {
+                "title": "Machine Learning and Data Analyst Intern",
+                "company": "Cardiovascular Fluid Mechanics Laboratory",
+                "work_type": "Full-time",
+                "start_date": "Jun 2024",
+                "end_date": "Present",
+                "location": "On-site",
+                "description": "Utilized Python and ShapeWorks to build statistical shape models of the aortic root from CT scans, enhancing model accuracy by 28%, reducing costs by 12%, and boosting research efficiency and profitability."
+            },
+            {
+                "title": "Device Performance Analyst Intern",
+                "company": "Georgia Institute of Technology",
+                "work_type": "Full-time",
+                "start_date": "Jan 2023",
+                "end_date": "Present",
+                "location": "Atlanta, GA",
+                "description": "Analyzed TAVR performance under different HALT severities by implanting custom bioprosthetic valves into a flow loop, using Particle Image Velocimetry for functional and thrombus assessment, and conducting H&E staining for histopathological evaluation."
+            },
+            {
+                "title": "Cardiovascular Fluid Mechanics Researcher",
+                "company": "Georgia Institute of Technology",
+                "work_type": "Full-time",
+                "start_date": "Jan 2023",
+                "end_date": "Present",
+                "location": "Atlanta, Georgia, United States",
+                "description": "Led design, development, and testing of biodegradable tissue-engineered heart valve prototypes for transcatheter fetal pulmonary valve replacement, conducting fluid dynamics, hemodynamic, and accelerated degradation testing per FDA regulations."
+            },
+            {
+                "title": "Electronics Engineer Intern",
+                "company": "Georgia Institute of Technology",
+                "work_type": "Part-time",
+                "start_date": "Jan 2023",
+                "end_date": "Jan 2024",
+                "location": "Atlanta, GA",
+                "description": "Developed transducers for hybrid annuloplasty rings to mitigate suture dehiscence in Mitral Valve Regurgitation models and utilized MATLAB for in vivo cyclic force data analysis, demonstrating reduced posterior annulus forces."
+            },
+            {
+                "title": "Full Stack Developer",
+                "company": "mission:brain",
+                "work_type": null,
+                "start_date": "Jun 2024",
+                "end_date": "Aug 2024",
+                "location": null,
+                "description": "Developed a neurotrauma registry using Python, Django, and PostgreSQL, enhancing patient data management for over 7 million people, with 30% improved data access and 50% faster, more reliable deployment through Docker."
+            },
+            {
+                "title": "Biomedical Engineer Intern",
+                "company": "MiRus\u2122",
+                "work_type": "Full-time",
+                "start_date": "Nov 2023",
+                "end_date": "Aug 2024",
+                "location": "Marietta, Georgia, United States",
+                "description": "Designed and tested introducer sheaths in SolidWorks, improving procedural success by 25% and reducing complications by 15%, while coordinating with stakeholders, suppliers, and aligning strategies to boost revenue by 15%."
+            },
+            {
+                "title": "Computational Biomechanics Engineer",
+                "company": "The Wallace H. Coulter Department of Biomedical Engineering at Georgia Tech and Emory University",
+                "work_type": "Full-time",
+                "start_date": "Oct 2023",
+                "end_date": "Apr 2024",
+                "location": "Gleason Lab",
+                "description": "Extracted and validated 3D aortic models from CT scans to analyze dissection characteristics, optimized simulation processes with operations research, and collaborated on market analysis to drive a 15% increase in research investment."
+            },
+            {
+                "title": "Research And Development Intern",
+                "company": "Flow MedTech",
+                "work_type": "Part-time",
+                "start_date": "May 2023",
+                "end_date": "Aug 2023",
+                "location": "Atlanta, Georgia, United States",
+                "description": "Led a team in executing 3D modeling, finite element analysis, and process optimization, resulting in a 25% reduction in device failure rates and enhanced engineering productivity."
+            }
+        ],
+        "educations": [
+            {
+                "school": "Georgia Institute of Technology",
+                "degree": null,
+                "major": "Bioengineering and Biomedical Engineering, Biomedical/Medical Engineering",
+                "start_date": "Aug 2022",
+                "end_date": "May 2025",
+                "description": "Grade: 4.0/4.0 Faculty Honors\nActivities and societies: Tutoring and Academic Support, Undergraduate Student Researcher, Biomedical Engineering Society, Medical Robotics Club, HIndu Yuva Georgia Tech Chapter\nSkills:Sample management \u00b7 Tissue Engineering \u00b7 Lab procedures \u00b7 MATLAB \u00b7 Medical Devices \u00b7 Laboratory Safety\nMedical Gown Project.pdf"
+            },
+            {
+                "school": "Brown University",
+                "degree": null,
+                "major": "Biomedical/Medical Engineering",
+                "start_date": "Jul 2019",
+                "end_date": "Aug 2019",
+                "description": "Heart of the Matter\n- Literature reviews on existing medical conditions pertaining to the cardiovascular system\n- Re-engineered stents with a group of 4 individuals to reduce the risk of blood clotting posed by current stents"
+            },
+            {
+                "school": "The Johns Hopkins University",
+                "degree": null,
+                "major": "Mathematics",
+                "start_date": "Sep 2018",
+                "end_date": "Apr 2019",
+                "description": "CTY\nGrade: A\nActivities and societies: Honors Advanced Mathematics, Center for Talented Youth"
+            },
+            {
+                "school": "University of Oxford",
+                "degree": null,
+                "major": "Pre-Medicine/Pre-Medical Studies",
+                "start_date": "Jun 2018",
+                "end_date": "Aug 2018",
+                "description": "Introduction to Medicine\nGrade: Distinction - A\n- Medical simulations including cannulation, physical examinations, excisions\n- Awarded Distinction for continued excellence and proactive literature work"
+            }
+        ],
+        "certifications": [
+            {
+                "certificate_name": "CITI Health Information Privacy and Security (HIPS) for Biomedical Research Investigators",
+                "issued_by": "CITI Program",
+                "issue_date": "Jan 2023",
+                "exp_date": "Jan 2026"
+            },
+            {
+                "certificate_name": "Good Clinical Practice (GCP)",
+                "issued_by": "CITI Program",
+                "issue_date": "Jan 2023",
+                "exp_date": "Jan 2026"
+            },
+            {
+                "certificate_name": "Group 1 Biomedical research Investigators and Key Personnel",
+                "issued_by": "CITI Program",
+                "issue_date": "Jan 2023",
+                "exp_date": "Jan 2026"
+            },
+            {
+                "certificate_name": "RCR Basic Course (with Animal Research Module)",
+                "issued_by": "CITI Program",
+                "issue_date": "Jan 2023",
+                "exp_date": null
+            },
+            {
+                "certificate_name": "Duke of Edinburgh Silver",
+                "issued_by": "The Duke of Edinburgh's Award",
+                "issue_date": "Jul 2019",
+                "exp_date": null
+            },
+            {
+                "certificate_name": "Licensed CFP Judge",
+                "issued_by": "Society of Women Engineers",
+                "issue_date": null,
+                "exp_date": null
+            }
+        ],
+        "name": "Akshita Jha",
+        "profile_pic": "https://media.licdn.com/dms/image/v2/D4D03AQE-WCS5ir0VDw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1687756870262?e=1749081600&v=beta&t=EidOeAUB_5j8BUMX6a1oDka95K8suvWennXIz4aJxuQ",
+        "headline": "CS + BME @ Georgia Tech | ML + Fluid Mechanics Intern @ CFM Lab",
+        "location": "San Francisco Bay Area",
+        "about": "I am a Machine Learning Engineering and Data Analyst with a focus on using advanced technologies and financial systems to create impactful results in biomedical engineering.During my internships, I developed strong skills in machine learning, artificial intelligence, and biomedical engineering. At the Cardiovascular Fluid Mechanics Lab, I built machine learning models using Python that accurately predicted post-TAVR aortic arch stretch, reducing surgical planning time by 25%. My work with AI improved predictive model accuracy by 15%, boosting overall efficiency by 18%.As a Biomedical Engineer Intern at MiRus, I designed new medical devices using SolidWorks, which increased procedural success rates by 29%. I also coordinated with over 50 suppliers to ensure timely delivery and quality of materials, effectively managing project schedules and budgets.In my role at Flow MedTech, I led a team to run simulations that improved device reliability and reduced failure rates by 25%. This experience also helped me enhance financial strategies, resulting in a 20% increase in asset value.I have a passion for data science. One of my projects involved creating statistical shape models of the aortic root using ShapeWorks and Blender, which improved model accuracy by 28% and reduced costs by 12%.I am skilled in programming languages and software like Python, MATLAB, SolidWorks, and ShapeWorks. I also hold certifications in Good Clinical Practice (GCP) and various biomedical research areas.Connect with me via LinkedIn or Email (akshita.j1702@gmail.com) to see how my skills in machine learning, AI, financial systems, and biomedical engineering can benefit your projects.",
+        "projects": [
+            {
+                "project_name": "Statistical Shape Models of the Aortic Root",
+                "start_date": null,
+                "end_date": null,
+                "description": "Utilized Python and ShapeWorks to build statistical shape models of the aortic root from CT scans, enhancing model accuracy by 28%, reducing costs by 12%, and boosting research efficiency and profitability."
+            },
+            {
+                "project_name": "Neurotrauma Registry",
+                "start_date": null,
+                "end_date": null,
+                "description": "Developed a neurotrauma registry using Python, Django, and PostgreSQL, enhancing patient data management for over 7 million people, with 30% improved data access and 50% faster, more reliable deployment through Docker."
+            }
+        ],
+        "id": "https://www.linkedin.com/in/akshita-jha"
+    }
+]

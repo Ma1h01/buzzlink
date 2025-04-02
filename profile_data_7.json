@@ -1,0 +1,1215 @@
+[
+  {
+    "about": "My name is Nathan Papa and I am a third-year at Georgia Institute of Technology, studying Computer Science with the Intelligence and Information Internetworks threads.",
+    "educations": [
+      {
+        "school": "Georgia Institute of Technology",
+        "degree": "Bachelor's degree",
+        "major": "Computer Science",
+        "start_date": "Aug 2022",
+        "end_date": "May 2026",
+        "description": "Grade: Junior"
+      },
+      {
+        "school": "Cookeville High School",
+        "degree": "High School Diploma",
+        "major": null,
+        "start_date": "Aug 2018",
+        "end_date": "May 2022",
+        "description": "Activities and societies: CHS Marching Band, CHS CyberPatriot"
+      }
+    ],
+    "experiences": [
+      {
+        "title": "Incoming SDE Intern",
+        "company": "Amazon",
+        "work_type": "Internship",
+        "start_date": "Jan 2025",
+        "end_date": null,
+        "location": "Seattle, Washington, United States \u00b7 On-site",
+        "description": ""
+      },
+      {
+        "title": "Engineering Manager",
+        "company": "Bits of Good",
+        "work_type": null,
+        "start_date": "Dec 2024",
+        "end_date": null,
+        "location": null,
+        "description": "I\u2019m the engineering manager for the Design System team, which is an internal system that acts as a centralized hub for all of our designs and components."
+      },
+      {
+        "title": "Full-stack Developer",
+        "company": "Bits of Good",
+        "work_type": null,
+        "start_date": "Jan 2024",
+        "end_date": "Dec 2024",
+        "location": null,
+        "description": "Fall 2024:\nI am a developer on the Product Maintenance team that works to fix bugs and improve previously deployed applications through Bits of Good. I specifically worked primarily on our Healing4Heroes application where I:\n- Redesigned the onboarding process and User schema using our MongoDB and TypeScript backend to incorporate pet health information.\n- Designed and implemented several in-app reminders using Next.js to remind handlers to provide care to their pet.\n- Utilized internal email tools to send Healing4Heroes administrative emails and users reminders for important events.\n\nSpring 2024:\nI worked with a team to develop new features for GT Scheduler, a website that helps GT students manage their schedules and hosts over 40,000 users."
+      },
+      {
+        "title": "Developer Bootcamp",
+        "company": "Bits of Good",
+        "work_type": null,
+        "start_date": "Sep 2023",
+        "end_date": "Dec 2023",
+        "location": null,
+        "description": "I graduated at the top of my class from a bootcamp that teaches full-stack web development with an emphasis on applying it in philanthropic ways that produce lasting social good."
+      },
+      {
+        "title": "Application Engineer Co-op",
+        "company": "Waystar",
+        "work_type": "Internship",
+        "start_date": "May 2024",
+        "end_date": null,
+        "location": "Atlanta, Georgia, United States \u00b7 Hybrid",
+        "description": "Spring 2025:\nI am working with the Client Applications and Tooling team on the internal tools to render and create bills."
+      },
+      {
+        "title": "Full Stack Engineer",
+        "company": "Georgia Tech Student Government Association",
+        "work_type": "Freelance",
+        "start_date": "Sep 2024",
+        "end_date": "Dec 2024",
+        "location": "Atlanta, Georgia, United States \u00b7 On-site",
+        "description": "I worked on SGA\u2019s internal tools team working on a four year course planning tool."
+      },
+      {
+        "title": "Undergraduate Teaching Assistant",
+        "company": "College of Computing at Georgia Tech",
+        "work_type": null,
+        "start_date": "Aug 2024",
+        "end_date": "Dec 2024",
+        "location": null,
+        "description": "I was an undergraduate teaching assistant for CS 2110: Computer Organization and Programming."
+      },
+      {
+        "title": "Undergraduate Teaching Assistant",
+        "company": "College of Computing at Georgia Tech",
+        "work_type": null,
+        "start_date": "Aug 2023",
+        "end_date": "Jul 2024",
+        "location": null,
+        "description": "I was an undergraduate teaching assistant for CS 1331: Introduction to Object-Oriented Programming at Georgia Tech."
+      },
+      {
+        "title": "Student Researcher",
+        "company": "Georgia Tech VIP Program",
+        "work_type": "Part-time",
+        "start_date": "Aug 2023",
+        "end_date": "Dec 2023",
+        "location": "Atlanta, Georgia, United States \u00b7 On-site",
+        "description": "I collaborated with a small group of students on the Intelligent Tutoring System team to research ChatGPT and its use in the development of adaptive learning materials."
+      },
+      {
+        "title": "Back End Developer",
+        "company": "GT WebDev",
+        "work_type": "Part-time",
+        "start_date": "Feb 2023",
+        "end_date": "Apr 2023",
+        "location": "Atlanta, Georgia, United States \u00b7 On-site",
+        "description": "I worked as a backend web developer for GT WebDev's BeMeal project."
+      },
+      {
+        "title": "Team Lead",
+        "company": "AFA CyberPatriot",
+        "work_type": "Part-time",
+        "start_date": "Aug 2017",
+        "end_date": "Mar 2022",
+        "location": "Cookeville, Tennessee, United States \u00b7 Hybrid",
+        "description": "I competed on a CyberPatriot team from eighth grade all throughout high school."
+      },
+      {
+        "title": "Crew Member",
+        "company": "McDonald's",
+        "work_type": "Full-time",
+        "start_date": "Jun 2021",
+        "end_date": "Dec 2021",
+        "location": "Cookeville, Tennessee, United States",
+        "description": "- Maintained high standards of customer service during high-volume, fast-paced operations."
+      }
+    ],
+    "headline": "Incoming SDE Intern @ Amazon | Application Engineer Co-op @ Waystar | CS @ Georgia Tech | Engineering Manager @ Bits of Good",
+    "id": "https://www.linkedin.com/in/nathan-papa/",
+    "location": "Atlanta, Georgia, United States",
+    "name": "Nathan Papa",
+    "profile_pic": "https://media.licdn.com/dms/image/v2/D4E03AQFrBPsjlTIzMw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1715383156444?e=1749081600&v=beta&t=GiRd5MZvaftFf6rSLL5lwHfZW1z6X-phD7BWoFVOuUo"
+  },
+  {
+    "about": null,
+    "educations": [
+      {
+        "school": "Georgia Institute of Technology",
+        "degree": "Bachelor of Science - BS",
+        "major": "Computer Science",
+        "start_date": "2022",
+        "end_date": "2026",
+        "description": "Activities and societies: Kappa Alpha Psi Fraternity Incorporated \nMembership Chair for Black Students in Computing Organization (BSCO)\nResident Assistant \nGeorgia Tech Chapter of National Society of Black Engineers\nGeorgia Tech African-American Male Initiative\nGeorgia Tech Aftican-American Student Union"
+      },
+      {
+        "school": "North Cobb High School",
+        "degree": "International Studies Magnet Program",
+        "major": null,
+        "start_date": "Aug 2018",
+        "end_date": "May 2022",
+        "description": "Activities and societies: Black Student Union \nNational Honor Society\nVarsity Soccer Captain\nSoccer All State Honorable Mention\nScholar Athlete\nVarsity Track and Field"
+      }
+    ],
+    "experiences": [
+      {
+        "title": "Software Engineer Intern",
+        "company": "The Home Depot",
+        "work_type": "Internship",
+        "start_date": "May 2024",
+        "end_date": null,
+        "location": "Atlanta, Georgia, United States \u00b7 Hybrid",
+        "description": ""
+      },
+      {
+        "title": "Soccer Referee",
+        "company": "U.S. Soccer Federation",
+        "work_type": "Part-time",
+        "start_date": "Apr 2021",
+        "end_date": null,
+        "location": "Atlanta Metropolitan Area",
+        "description": ""
+      },
+      {
+        "title": "Software Engineering Intern",
+        "company": "The Home Depot",
+        "work_type": null,
+        "start_date": "May 2023",
+        "end_date": "Jul 2023",
+        "location": "Atlanta, Georgia, United States",
+        "description": ""
+      }
+    ],
+    "headline": "SWE intern @ Home Depot | GT CS",
+    "id": "https://www.linkedin.com/in/jordankarim938/",
+    "location": "Kennesaw, Georgia, United States",
+    "name": "Jordan Karim",
+    "profile_pic": "https://media.licdn.com/dms/image/v2/D4E03AQHbV4llw0HvkQ/profile-displayphoto-shrink_800_800/B4EZV5Ix8oHMAc-/0/1741494100627?e=1749081600&v=beta&t=KMS7xUzdnuauZDNfc700HtYzyF__LmAtFF0kRrQgq5Y"
+  },
+  {
+    "about": "Studying Industrial and Systems Engineering with a concentration in Analytics and Data Science.",
+    "educations": [
+      {
+        "school": "Georgia Institute of Technology",
+        "degree": "Bachelor of Science - BS",
+        "major": "Industrial Engineering",
+        "start_date": "Aug 2022",
+        "end_date": "May 2025",
+        "description": "Activities and societies: Sigma Chi"
+      }
+    ],
+    "experiences": [],
+    "headline": "Student at Georgia Institute of Technology",
+    "id": "https://www.linkedin.com/in/joseph-cornelius-701a8224a/",
+    "location": "Atlanta, Georgia, United States",
+    "name": "Joseph Cornelius",
+    "profile_pic": "https://media.licdn.com/dms/image/v2/D5603AQG_Nsi1GvD4hA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1704524498399?e=1749081600&v=beta&t=x-m6tRKWbDw5FXrz4rnuvU5Ct8zQY94IJNGEXb2jIKI"
+  },
+  {
+    "about": "I am a student majoring CS at Georgia Tech, building software solutions to solve modern problems.\nI specialize in NLP and Fullstack development, and love to dive into any opportunities I can learn and grow.",
+    "educations": [
+      {
+        "school": "Georgia Institute of Technology",
+        "degree": "Bachelor of Science - BS",
+        "major": "Computer Science",
+        "start_date": "2020",
+        "end_date": null,
+        "description": "Grade: 4.0"
+      }
+    ],
+    "experiences": [
+      {
+        "title": "Undergraduate Researcher",
+        "company": "Georgia Tech VIP Program",
+        "work_type": "Seasonal",
+        "start_date": "Jan 2024",
+        "end_date": "Present",
+        "location": "Atlanta, Georgia, United States · On-site",
+        "description": "∙ Analyzed NLP models such as StockNet from mid-2010s using Python and TensorFlow, evaluating if the models hold accuracy with modern data.\n\n∙ Implemented pipelines and filtration techniques to counter intentional mixed tone of central banks of countries such as the USA, South Korea, Turkey, etc.\n\n∙ Currently working on a new dataset format which could drastically improve classifications of hawkish/dovish stances of the Fed using pre-trained language models."
+      },
+      {
+        "title": "Software Engineer",
+        "company": "LG Innotek",
+        "work_type": "Internship",
+        "start_date": "Jul 2024",
+        "end_date": "Aug 2024",
+        "location": "Seoul, South Korea · On-site",
+        "description": "∙ Developed a trilateration localization system using BLE beacons from NXP, implemented in C and packaged with CMake, achieving 9-yard accuracy for Bluetooth device positioning.\n\n∙ Applied and trained the ECA-ResNet model using Python and TensorFlow on a RSSI localization system, improving vehicle tracking accuracy by 15% and identifying key error factors for further optimization.\n\n∙ Implemented a customized particle filter for UWB data, reducing location measurement error by 55% within an 8 meter range, enhancing mobile digital key functionality."
+      },
+      {
+        "title": "Software Engineer",
+        "company": "Dohnix",
+        "work_type": "Internship",
+        "start_date": "May 2024",
+        "end_date": "Jun 2024",
+        "location": "Atlanta, Georgia, United States · On-site",
+        "description": "∙ Developed the frontend and backend of Vita-X, a cross-platform e-commerce application using ReactJS and Node.js, enabling personalized nutritional supplement recommendations based on user data.\n\n∙ Designed and deployed a Microsoft Azure-based machine learning model to classify dietary supplements from images, extracting key product details (e.g., RDA, market data) with 97% Top-5 accuracy.\n\n∙ Engineered a recommendation algorithm that tailors supplement suggestions based on user attributes (age, gender, dietary restrictions, current intake) using Python, enhancing user experience and safety."
+      },
+      {
+        "title": "Sergeant, Software Developer",
+        "company": "Republic of Korea Air Force",
+        "work_type": "Full-time",
+        "start_date": "Sep 2021",
+        "end_date": "Mar 2023",
+        "location": "Gyeryong, South Chungcheong, South Korea · On-site",
+        "description": "∙ Built a computer vision model using PyTorch to track bullet marks on targets, replacing the manual evaluation process and accelerating rifle training assessments by 75%.\n\n∙ Launched a suite of features for 5+ military facility websites such as personnel management and room reservation using Vue and Spring Boot, improving operational efficiency.\n\n∙ Refined and maintained databases with 500,000+ entities using MySQL and MySQL Workbench, reducing query processing time by approximately 20% and enhancing nationwide workflow efficiency."
+      }
+    ],
+    "headline": "CS @ Georgia Tech",
+    "id": "https://www.linkedin.com/in/soung-min-lee/",
+    "location": "Atlanta, Georgia, United States",
+    "name": "Soungmin Lee",
+    "profile_pic": "https://media.licdn.com/dms/image/v2/D5603AQEnqSot0OvzkQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1691973821021?e=1749081600&v=beta&t=TbJXr35CGZ1Rx_YAs2ZjhNwjIrTvQLqLOqzq-kIhhcw"
+  },
+  {
+    "about": "As a Zell Miller Scholar and dedicated Pre-Law student pursuing a Bachelor’s degree in Business Administration with a concentration in Finance, I am passionate about the intersection of corporate finance and law. My academic journey is fueled by a keen interest in understanding complex financial instruments and their legal implications, with coursework that includes investments, derivative securities, and international finance.\n\nIn addition to my studies, I actively engage in leadership roles across various student organizations, where I deepen my skills in management, strategic thinking, and collaboration.\n\nI am actively seeking internships to apply my knowledge in real-world settings and further develop my skills in finance and law. Let’s connect if you’re looking for a driven and detail-oriented candidate.",
+    "educations": [
+      {
+        "school": "Georgia Institute of Technology",
+        "degree": "Bachelor of Science in Business Administration",
+        "major": "Finance",
+        "start_date": "Aug 2022",
+        "end_date": null,
+        "description": "Activities and societies: GT Undergraduate Law Review, GT ST&PC, Finance Society, Economics Club, UHR Transfer Student Representative- Student Government Association, ATS, GTHY"
+      },
+      {
+        "school": "Lambert High School",
+        "degree": "High School Diploma",
+        "major": null,
+        "start_date": "Aug 2018",
+        "end_date": "May 2022",
+        "description": "Activities and societies: National Honor Society, National Technical Honor Society, FBLA, DECA, HOSA, Academic Bowl, Science Olympiad"
+      }
+    ],
+    "experiences": [
+      {
+        "title": "Teaching Assistant- Finance",
+        "company": "Georgia Tech Scheller College of Business",
+        "work_type": "Internship",
+        "start_date": "Jan 2025",
+        "end_date": null,
+        "location": null,
+        "description": "• Provided personalized academic support to 75 students, strengthening their understanding of foundational financial concepts like derivatives, portfolio risk, and financial institutions. Led Excel office hours and weekly support sessions, enhancing problem-solving skills in financial modeling and risk assessment. Collaborated with faculty and peers to address learning barriers."
+      },
+      {
+        "title": "Teaching Assistant- Management Statistics",
+        "company": "Georgia Tech Scheller College of Business",
+        "work_type": "Internship",
+        "start_date": "Aug 2024",
+        "end_date": "Dec 2024",
+        "location": null,
+        "description": "• Selected as a Teaching Assistant for Management Statistics, providing academic support to over 75 students through weekly tutoring sessions focused on enhancing Excel proficiency and applying statistical concepts to real-world business scenarios. Facilitated active learning and engagement, promoting a hands-on approach to mastering course material."
+      },
+      {
+        "title": "Finance Intern",
+        "company": "Sriya.AI",
+        "work_type": "Internship",
+        "start_date": "Sep 2024",
+        "end_date": null,
+        "location": "Remote",
+        "description": "• Optimized loan risk models by leveraging financial ratios and payment history, reducing default rates by 15% and decreasing late payment occurrences by 10%. Conducted in-depth analysis of repayment trends across diverse customer segments, refining loan terms to lower late payments by 20% and increase acceptance rates by 12%. Evaluated the return on investment of machine learning models such as Random Forest and XGBoost, enhancing loan processing efficiency by 15% and driving a 20% increase in sales conversions."
+      },
+      {
+        "title": "Finance Intern",
+        "company": "Sriya.AI",
+        "work_type": "Internship",
+        "start_date": "May 2024",
+        "end_date": "Aug 2024",
+        "location": "Hybrid",
+        "description": "• Optimized claims processing by analyzing historical data and financial trends, enhancing claim status outcomes by 10%. Improved risk management by leveraging predictive analytics to identify high-risk claims, mitigating financial losses. Developed financial models to project claim payouts and adjust reserves, strengthening financial forecasting and liquidity management."
+      },
+      {
+        "title": "Treasurer, Editor",
+        "company": "Undergraduate Law Review at Georgia Tech",
+        "work_type": null,
+        "start_date": "Jan 2025",
+        "end_date": null,
+        "location": "Atlanta, Georgia, United States",
+        "description": "• Conducted rigorous legal analysis and fact-checking of scholarly articles, ensuring accuracy, compliance with legal frameworks, and adherence to regulatory standards. Enforced Chicago and Bluebook citation guidelines to maintain editorial integrity and legal precision. Developed financial budgeting policies, increasing budget efficiency by 10%."
+      },
+      {
+        "title": "Policy Lead",
+        "company": "Science & Technology Policy Connections",
+        "work_type": null,
+        "start_date": "Jan 2025",
+        "end_date": null,
+        "location": "Atlanta, Georgia, United States",
+        "description": "• Led a team of 10 students in researching and drafting a policy memo on Sustainable Rural Electrification for publication in the Journal of Science, Technology, and Governance. Coordinated policy analysis, stakeholder engagement, and legislative research to develop actionable recommendations."
+      },
+      {
+        "title": "Student Representative",
+        "company": "Georgia Tech Student Government Association",
+        "work_type": null,
+        "start_date": "Mar 2024",
+        "end_date": null,
+        "location": null,
+        "description": "• Elected by the student body to represent transfer students in the Undergraduate House of Representatives. Managed and advocated for a $2M+ budget, ensuring optimal fund allocation for student initiatives. Facilitated discussions to raise $2,500 for transfer student events and supported recruitment efforts, boosting transfer student participation by 15%."
+      },
+      {
+        "title": "Finance Director",
+        "company": "A-Town Showdown",
+        "work_type": "Part-time",
+        "start_date": "May 2024",
+        "end_date": null,
+        "location": "Atlanta, Georgia, United States · On-site",
+        "description": "• Strategically distributed a $75,000 budget across committees, maximizing resource utilization and enhancing budgeting practices. Improved fund allocation efficiency and the annual transition process by 35%, ensuring better financial oversight and planning."
+      },
+      {
+        "title": "Finance Intern",
+        "company": "Keydabra",
+        "work_type": "Full-time",
+        "start_date": "May 2023",
+        "end_date": "Aug 2023",
+        "location": "Atlanta, Georgia, United States · Remote",
+        "description": "• Leveraged customer behavior data to identify trends, improving conversion rates by 20% and boosting profitability by 15%. Assessed the financial impact of DXI technology, increasing revenue streams by 18% and enhancing cost efficiency through targeted marketing. Optimized cash flow management, driving a 25% increase in conversions and strengthening financial stability through data-driven decisions."
+      },
+      {
+        "title": "Finance and Marketing Associate",
+        "company": "Dream Entertainment",
+        "work_type": null,
+        "start_date": "Sep 2022",
+        "end_date": "May 2023",
+        "location": "Atlanta, Georgia, United States",
+        "description": "Skills: Management · Financial Transactions"
+      },
+      {
+        "title": "Peer Facilitator",
+        "company": "Forsyth County Schools (Georgia)",
+        "work_type": null,
+        "start_date": "Aug 2021",
+        "end_date": "May 2022",
+        "location": "Suwanee, Georgia, United States",
+        "description": "Skills: Mentoring · Community Outreach · Volunteering · Interpersonal Skills"
+      },
+      {
+        "title": "Kumon Instructor",
+        "company": "Kumon North America, Inc.",
+        "work_type": null,
+        "start_date": "May 2021",
+        "end_date": "Aug 2021",
+        "location": "Johns Creek, Georgia, United States",
+        "description": "Skills: Problem Solving · Team Leadership · Communication"
+      }
+    ],
+    "headline": "Finance Student at Georgia Tech Scheller College of Business",
+    "id": "https://www.linkedin.com/in/shreya-kilambi/",
+    "location": "Atlanta Metropolitan Area",
+    "name": "Shreya (Shriya) Kilambi",
+    "profile_pic": "https://media.licdn.com/dms/image/v2/D4E03AQHiz6RFG3KZQQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1707009671674?e=1749081600&v=beta&t=vpjdf_NgPdXcyp1K0LMXOW62j4rb7Z9Swyu-_euAEx4"
+  },
+  {
+    "about": null,
+    "educations": [
+      {
+        "school": "Georgia Institute of Technology",
+        "degree": "Bachelor's degree",
+        "major": "Business Administration and Management",
+        "start_date": "2023",
+        "end_date": "2027",
+        "description": ""
+      }
+    ],
+    "experiences": [
+      {
+        "title": "Creative Director",
+        "company": "Georgia Tech Society Of Black Engineers",
+        "work_type": null,
+        "start_date": "Mar 2025",
+        "end_date": null,
+        "location": null,
+        "description": "Skills: Teamwork · Team Leadership · Team Building · Organization Skills · Project Management · Event Planning · Problem Solving · Social Media Creative Director"
+      },
+      {
+        "title": "Social Media Ambassador",
+        "company": "Georgia Tech Society Of Black Engineers",
+        "work_type": null,
+        "start_date": "Feb 2025",
+        "end_date": null,
+        "location": null,
+        "description": ""
+      },
+      {
+        "title": "GT NSBE Public Committee",
+        "company": "Georgia Tech Society Of Black Engineers",
+        "work_type": null,
+        "start_date": "Jan 2025",
+        "end_date": null,
+        "location": null,
+        "description": "• Participate in networking, leadership, and career development workshops.\r\n• Working with peers to assist in promoting NSBE events through social media campaigns and designing end of the year magazine GT NSBE Public Committee"
+      },
+      {
+        "title": "YoPro Member",
+        "company": "Women in Technology (WIT)",
+        "work_type": null,
+        "start_date": "Mar 2025",
+        "end_date": null,
+        "location": null,
+        "description": "Skills: Networking · Communication · Adaptability · Leadership"
+      },
+      {
+        "title": "Member",
+        "company": "Black Women Talk Tech",
+        "work_type": null,
+        "start_date": "Feb 2025",
+        "end_date": null,
+        "location": null,
+        "description": ""
+      },
+      {
+        "title": "Z’sCloset | Founder",
+        "company": "Depop",
+        "work_type": "Self-employed",
+        "start_date": "Jan 2025",
+        "end_date": null,
+        "location": null,
+        "description": "Launched and managed an online resale business, handling product listings, marketing, and customer service.\n• Used Depop, Instagram, and TikTok to promote and sell products, leading to the first 100 sales success.\n• Gained expertise in e-commerce, business operations, and pricing strategies.\n• Developed skills in customer service, negotiation, branding, and inventory management."
+      },
+      {
+        "title": "RTC Undergrad scholar",
+        "company": "Rewriting the Code",
+        "work_type": null,
+        "start_date": "Jan 2024",
+        "end_date": null,
+        "location": null,
+        "description": ""
+      },
+      {
+        "title": "Graphic Designer",
+        "company": "VSWStudio",
+        "work_type": null,
+        "start_date": "Mar 2020",
+        "end_date": null,
+        "location": null,
+        "description": "Skills: HTML · Social Media · Information Graphics · Graphic Arts · Graphics · Web Design · 3D Graphics · Computer Graphics · Motion Graphics · Business Understanding"
+      },
+      {
+        "title": "Entrepreneurship",
+        "company": "VSWStudio",
+        "work_type": null,
+        "start_date": "Mar 2019",
+        "end_date": null,
+        "location": "Remote",
+        "description": "As an entrepreneur in graphic design, I run my own business specializing in creating visual content for clients. I handle everything from designing logos and branding materials to developing marketing collateral and web graphics. My role involves not just designing but also managing client relationships, overseeing projects, and ensuring that the final products align with clients' needs and goals. I stay updated with design trends and software advancements to offer innovative solutions and maintain a competitive edge in the industry."
+      },
+      {
+        "title": "Content Creator",
+        "company": "TikTok",
+        "work_type": "Part-time",
+        "start_date": "Mar 2023",
+        "end_date": "Jul 2024",
+        "location": "Atlanta, Georgia, United States",
+        "description": "As a content creator, I produce and share a range of content, including videos, blog posts, and social media updates. My main goal is to engage and grow my audience by providing valuable, educational , or informative material. I focus on specific topics or niches, using my unique style and expertise to connect with people. I often track my performance through analytics to refine my approach and improve my content."
+      }
+    ],
+    "headline": "Information Technology Management Business major @ Scheller Georgia Tech | Multi-Entrepreneur | RTC Scholar | CICT Scholar",
+    "id": "https://www.linkedin.com/in/zawadi-pilipili-077215283/",
+    "location": "Atlanta Metropolitan Area",
+    "name": "Zawadi Pilipili",
+    "profile_pic": "https://media.licdn.com/dms/image/v2/D4E03AQGb125pm0mUJQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718214081944?e=1749081600&v=beta&t=ORu0ukVCVbvW-pnwH71Lfo4NIeEZjouscz03s28FT_w"
+  },
+  {
+    "about": "Founder, researcher, and lifelong student.\n\nReach out at pviswanath3[at]gatech[dot]edu!",
+    "educations": [
+      {
+        "school": "Georgia Institute of Technology",
+        "degree": "Bachelor of Science - BS",
+        "major": "Computer Science",
+        "start_date": "Aug 2022",
+        "end_date": "May 2026",
+        "description": "Grade: 4.0"
+      },
+      {
+        "school": "Georgia Institute of Technology",
+        "degree": "Minor",
+        "major": "Computing and Business",
+        "start_date": "Aug 2022",
+        "end_date": "May 2026",
+        "description": ""
+      },
+      {
+        "school": "Westmont High School",
+        "degree": "High School Diploma",
+        "major": null,
+        "start_date": "2018",
+        "end_date": "2022",
+        "description": ""
+      }
+    ],
+    "experiences": [
+      {
+        "title": "Incoming Data Science Intern",
+        "company": "Meta",
+        "work_type": "",
+        "start_date": "Mar 2025",
+        "end_date": null,
+        "location": "",
+        "description": "Reality Labs Summer 2025"
+      },
+      {
+        "title": "Campus Strategist",
+        "company": "Perplexity",
+        "work_type": "",
+        "start_date": "Aug 2024",
+        "end_date": null,
+        "location": "",
+        "description": "Scaling Perplexity Al, the leading Al-driven search platform that transforms how we discover and interact with information."
+      },
+      {
+        "title": "Founder",
+        "company": "GreenAI",
+        "work_type": "",
+        "start_date": "May 2024",
+        "end_date": null,
+        "location": "",
+        "description": "Reducing the environmental impact of AI development through GPU scheduling optimization.\n\n$1M valuation, backed by Chris Klaus and Create-X @ GT, supported by Microsoft for Startups, NVIDIA Inception, Google for Startups."
+      },
+      {
+        "title": "Data Science Intern",
+        "company": "Delta Air Lines",
+        "work_type": "Internship",
+        "start_date": "Jan 2024",
+        "end_date": "May 2024",
+        "location": "",
+        "description": "Built XML to SQL ETL data extraction pipelines in AWS S3/Glue for air traffic management, all pushed to prod."
+      },
+      {
+        "title": "Machine Learning Research Intern",
+        "company": "Georgia Institute of Technology",
+        "work_type": "",
+        "start_date": "May 2023",
+        "end_date": "Jan 2024",
+        "location": "",
+        "description": "Developed a working model of human vision based on deep convolutional neural networks."
+      },
+      {
+        "title": "Head Facilitator - Grand Challenges LLC",
+        "company": "Georgia Institute of Technology",
+        "work_type": "",
+        "start_date": "Aug 2023",
+        "end_date": "Dec 2023",
+        "location": "On-site",
+        "description": "Taught curriculum for startup incubation centered on UN SDGs."
+      },
+      {
+        "title": "Founder",
+        "company": "Westmont STEM Program",
+        "work_type": "Self-employed",
+        "start_date": "Jan 2022",
+        "end_date": "May 2022",
+        "location": "Westmont, Illinois, United States",
+        "description": "Built advanced STEM mentorship workshops for hometown school district, raised $10K+ in Title 1 funding."
+      },
+      {
+        "title": "Data Science Intern",
+        "company": "University of Illinois Chicago",
+        "work_type": "Internship",
+        "start_date": "Jun 2021",
+        "end_date": "Aug 2021",
+        "location": "Lemont, Illinois, United States",
+        "description": "Utilizing sales data to predict daily food demand, dramatically reducing food wastage for non-profit kitchen."
+      },
+      {
+        "title": "Editor",
+        "company": "Quantum Untangled",
+        "work_type": "Self-employed",
+        "start_date": "Aug 2020",
+        "end_date": "Aug 2021",
+        "location": "Global",
+        "description": "Medium Publication on Quantum Mechanics and Quantum Computing with over 100+ writers around the world from IBM Quantum Summer School, currently with over 500 subscribers."
+      },
+      {
+        "title": "Code Sensei",
+        "company": "Code Ninjas",
+        "work_type": "Part-time",
+        "start_date": "Aug 2020",
+        "end_date": "Aug 2021",
+        "location": "Westmont, Illinois, United States · On-site",
+        "description": "Taught C++, JavaScript, and Lua to local kids through game development."
+      },
+      {
+        "title": "Web Developer",
+        "company": "Westmont Special Events Corporation",
+        "work_type": "Freelance",
+        "start_date": "Oct 2020",
+        "end_date": "Dec 2020",
+        "location": "Westmont, Illinois, United States",
+        "description": "Redeveloped website advertising community's largest special events for village nonprofit."
+      }
+    ],
+    "headline": "Computer Science & Business @ Georgia Tech | Incoming at Meta | prev Delta Air Lines & GT Research Institute | Building GreenAI",
+    "id": "https://www.linkedin.com/in/pranav-viswanath/",
+    "location": "United States",
+    "name": "Pranav Viswanath",
+    "profile_pic": "https://media.licdn.com/dms/image/v2/D5603AQFwM5Q3iVb4iQ/profile-displayphoto-shrink_800_800/B56ZUqAOGGHQAs-/0/1740166456727?e=1749081600&v=beta&t=s3VYMYUaGXptD23-4-N3rHbP9B-TxSgZeFACcTgA7Ec"
+  },
+  {
+      "name": "Aakrishtaa Kumar",
+      "id": "https://www.linkedin.com/in/aakrishtaa/",
+      "profile_pic": "https://media.licdn.com/dms/image/v2/D4D03AQFTQY33r_lUQQ/profile-displayphoto-shrink_800_800/B4DZVNauBLHIAc-/0/1740760605081?e=1749081600&v=beta&t=DopPX3mXWgl4_mHYh_269YTTaTsx3ks_5FvV-0xUBJc",
+      "headline": "Incoming @ Meta | CS at Georgia Tech",
+      "location": "Atlanta, Georgia, United States",
+      "about": "Hi! My name is Aakrishtaa Kumar and I am studying computer science at Georgia Institute of Technology with concentrations in Artificial Intelligence and Human Interaction. Feel free to reach out at akumar851@gatech.edu!",
+      "educations": [
+          {
+              "school": "Georgia Institute of Technology",
+              "degree": "Bachelor of Science - BS",
+              "major": "Computer Science",
+              "start_date": "Aug 2022",
+              "end_date": "Dec 2025",
+              "description": "Activities and societies: ATL Tanishq Dance Team, Women at the College of Computing."
+          }
+      ],
+      "experiences": [
+          {
+              "title": "Millennium Fellowship",
+              "company": "Millennium Campus Network (MCN)",
+              "work_type": "Part-time",
+              "start_date": "Aug 2024",
+              "end_date": "Present",
+              "location": "United States · Remote",
+              "description": ""
+          },
+          {
+              "title": "Design Manager",
+              "company": "Develop for Good",
+              "work_type": "Contract",
+              "start_date": "May 2024",
+              "end_date": "Aug 2024",
+              "location": "United States · Remote",
+              "description": ""
+          },
+          {
+              "title": "User Experience Designer",
+              "company": "Rothian",
+              "work_type": "Internship",
+              "start_date": "May 2024",
+              "end_date": "Aug 2024",
+              "location": "United Arab Emirates · Hybrid",
+              "description": ""
+          },
+          {
+              "title": "Web Development Intern",
+              "company": "Inter Smart",
+              "work_type": "Full-time",
+              "start_date": "Jul 2023",
+              "end_date": "Aug 2023",
+              "location": "United Arab Emirates · On-site",
+              "description": "- Assisted in creating a custom webpage utilizing client proposals and implementing responsive design techniques with HTML + CSS, resulting in a 30% increase in website traffic ensuring the continuation of enhanced services.\n- Reduced administration costs by negotiations with customers on service fees, while enhancing the negotiation process."
+          },
+          {
+              "title": "Photographer and Videographer",
+              "company": "Theia Films",
+              "work_type": "Full-time",
+              "start_date": "Sep 2021",
+              "end_date": "Oct 2021",
+              "location": "United Arab Emirates · On-site",
+              "description": "- Conceptualized storyboard using Canva and iMovie, resulting in enhanced client engagement.\n- Collaborated with lead photographer to design & film a destination shoot, creating increased brand visibility & receiving positive feedback from the audience. Listed on https://theiafilms.com."
+          }
+      ]
+  },
+  {
+      "id": "https://www.linkedin.com/in/cairamcclairen/",
+      "name": "Caira McClairen",
+      "profile_pic": "https://media.licdn.com/dms/image/v2/D4E03AQHOd_5Ub0u1Pw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1720571417870?e=1749081600&v=beta&t=kGj4AUjkbADaJGm73gkFYQrGkC0kaW-1e2NFUVRvVCc",
+      "headline": "Third-year Chemical & Biomolecular Engineering Student at Georgia Tech",
+      "location": "Woodstock, Georgia, United States",
+      "about": null,
+      "experiences": [
+          {
+              "title": "Undergraduate Research Assistant",
+              "company": "The University of Alabama",
+              "work_type": "Full-time",
+              "start_date": "May 2024",
+              "end_date": "Jul 2024",
+              "location": "Tuscaloosa, Alabama, United States · On-site",
+              "description": "UA REU for Chemical Engineering/Polymers"
+          },
+          {
+              "title": "Undergraduate Research Assistant",
+              "company": "Georgia Institute of Technology",
+              "work_type": "Apprenticeship",
+              "start_date": "Jan 2024",
+              "end_date": "May 2024",
+              "location": "Atlanta, Georgia, United States · On-site",
+              "description": "•Working on thin film fabrication via melt compression, mechanical, and adhesion testing\n•Recycling multilayer plastic materials using mechanical methods, specifically high intensity, focused ultrasound"
+          },
+          {
+              "title": "Frontline Ambassador",
+              "company": "BJ's Wholesale Club",
+              "work_type": null,
+              "start_date": "May 2021",
+              "end_date": "Aug 2023",
+              "location": "",
+              "description": "• Managed cashiers, self-checkout attendants, and customer service\n• Sold BJ’s credit card and rewards membership"
+          }
+      ],
+      "educations": [
+          {
+              "school": "Georgia Institute of Technology",
+              "degree": "Chemical and Biomolecular Engineering",
+              "major": null,
+              "start_date": "Jun 2022",
+              "end_date": "May 2026",
+              "description": "Grade: Second-Year"
+          },
+          {
+              "school": "River Ridge High School",
+              "degree": "High School Diploma",
+              "major": "…",
+              "start_date": "Aug 2018",
+              "end_date": "May 2022",
+              "description": ""
+          }
+      ]
+  },
+  {
+      "id": "https://www.linkedin.com/in/yuqing-fan/",
+      "name": "Yuqing Fan",
+      "profile_pic": "https://media.licdn.com/dms/image/v2/D5603AQFt7NZZvKUOkA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723959775468?e=1749081600&v=beta&t=xge4uWhJgfe0fjL9aHUZsVI0_0MUXd6X3qEGmVHBkmQ",
+      "headline": "Georgia Tech Psychology + Economics",
+      "location": "Atlanta, Georgia, United States",
+      "about": "A motivated student from the Georgia Institute of Technology, dual majoring in Psychology and Economics with hands-on experience in employee evaluation, recruitment and onboarding, gained during internships at top hiring firms in China. Profound understanding of Industrial and Organizational Psychology, already applied in team building, conflict resolution, and recruitment processes during the internship. Poised to make impactful contributions in HR roles, with a focus on talent development, employee retention, and fostering an inclusive workplace environment.",
+      "experiences": [
+          {
+              "title": "Research Assistant",
+              "company": "Georgia Institute of Technology",
+              "work_type": "Full-time",
+              "start_date": "Jan 2022",
+              "end_date": "Present",
+              "location": "",
+              "description": "Sonification Lab @Gatech Research Assistant"
+          },
+          {
+              "title": "Teaching Assistant",
+              "company": "Georgia Institute of Technology",
+              "work_type": "Full-time",
+              "start_date": "Aug 2023",
+              "end_date": "Dec 2023",
+              "location": "",
+              "description": "Social Psychology Teaching Assistant"
+          },
+          {
+              "title": "Research Assistant",
+              "company": "Georgia Institute of Technology",
+              "work_type": "Full-time",
+              "start_date": "May 2022",
+              "end_date": "Aug 2022",
+              "location": "",
+              "description": "Autonomous Aerial Vehicles Research Assistant"
+          },
+          {
+              "title": "Product Management Intern",
+              "company": "Kuaishou Technology",
+              "work_type": "Full-time",
+              "start_date": "Aug 2024",
+              "end_date": "Dec 2024",
+              "location": "Beijing, China · On-site",
+              "description": ""
+          },
+          {
+              "title": "Assistant",
+              "company": "Ignite Entertainment Group",
+              "work_type": "Part-time",
+              "start_date": "Jul 2024",
+              "end_date": "Dec 2024",
+              "location": "New York, New York, United States · Hybrid",
+              "description": "Skills: Project Management · Sponsorship Management"
+          },
+          {
+              "title": "Risk Management Intern",
+              "company": "China Construction Bank",
+              "work_type": "Full-time",
+              "start_date": "May 2024",
+              "end_date": "Aug 2024",
+              "location": "New York, New York, United States · On-site",
+              "description": "Skills: Risk Management · Model Risk · Risk Analysis"
+          },
+          {
+              "title": "Team Member",
+              "company": "Chick-fil-A Restaurants",
+              "work_type": "Part-time",
+              "start_date": "Feb 2023",
+              "end_date": "Dec 2023",
+              "location": "Atlanta, Georgia, United States",
+              "description": "Skills: Emergency Management · Communication · Teamwork · Leadership"
+          },
+          {
+              "title": "Human Resources Intern",
+              "company": "China Southern Power Grid Company Limited",
+              "work_type": "Full-time",
+              "start_date": "Aug 2023",
+              "end_date": "Aug 2023",
+              "location": "Guangzhou, Guangdong, China",
+              "description": "Skills: HR Solutions · Human Resources (HR)"
+          },
+          {
+              "title": "Talent Development Intern",
+              "company": "Zhaopin.com",
+              "work_type": "Full-time",
+              "start_date": "May 2023",
+              "end_date": "Jul 2023",
+              "location": "Guangzhou, Guangdong, China",
+              "description": "Skills: Performance Improvement · Project Management · Onboarding"
+          },
+          {
+              "title": "Intern",
+              "company": "Bank of China",
+              "work_type": "Full-time",
+              "start_date": "Jun 2021",
+              "end_date": "Jul 2021",
+              "location": "Guangzhou, Guangdong, China",
+              "description": ""
+          }
+      ],
+      "educations": [
+          {
+              "school": "Georgia Institute of Technology",
+              "degree": "Bachelor's degree",
+              "major": "Psychology",
+              "start_date": "Aug 2020",
+              "end_date": "May 2025",
+              "description": ""
+          },
+          {
+              "school": "Georgia Institute of Technology",
+              "degree": "Bachelor's degree",
+              "major": "Economics",
+              "start_date": "Aug 2020",
+              "end_date": "May 2025",
+              "description": ""
+          },
+          {
+              "school": "Lancaster Country Day School",
+              "degree": "High School Diploma",
+              "major": "",
+              "start_date": "Aug 2016",
+              "end_date": "May 2020",
+              "description": ""
+          }
+      ]
+  },
+  {
+    "name": "Zaid Mohammed",
+    "id": "https://www.linkedin.com/in/zaid-moham/",
+    "profile_pic": "https://media.licdn.com/dms/image/v2/D4E03AQH9VLxoJ3e_eQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1708919027558?e=1749081600&v=beta&t=rZURCOQJAZQHM9dtJfubHiBjooqr1XAXQkXtqxFwHkM",
+    "headline": "CS @ Georgia Tech | AWS Certified Cloud Practitioner",
+    "location": "Alpharetta, Georgia, United States",
+    "about": null,
+    "educations": [
+        {
+            "school": "Georgia Institute of Technology",
+            "degree": "Bachelor's degree",
+            "major": "Computer Science",
+            "start_date": "May 2023",
+            "end_date": "Dec 2025",
+            "description": ""
+        },
+        {
+            "school": "Georgia State University",
+            "degree": "Bachelor of Science - BS",
+            "major": "Computer Science",
+            "start_date": "Jun 2022",
+            "end_date": "May 2023",
+            "description": ""
+        }
+    ],
+    "experiences": [
+        {
+            "title": "Undergraduate Researcher",
+            "company": "Georgia Tech VIP Program",
+            "work_type": "",
+            "start_date": "Jan 2024",
+            "end_date": "Present",
+            "location": "",
+            "description": "• Utilized PyTorch Geometric, MatDeepLearn, PACE ICE, and TensorFlow to accelerate the process of finding new materials to enhance future generations’ batteries, solar cells, catalysts, superconductors, and electronic devices\n• Leverage ML models to speed up material design by reducing train error by 415%\n• Optimized test error to 0.122 and validation error to 0.147 by employing denoising and fine-tuning on TorchMD dataset"
+        },
+        {
+            "title": "Artificial Intelligence Engineer Intern",
+            "company": "Radical AI",
+            "work_type": "Internship",
+            "start_date": "May 2024",
+            "end_date": "Aug 2024",
+            "location": "Remote",
+            "description": "As an Artificial Intelligence Engineer Intern at Radical AI, I am leveraging technologies such as Google Gemini to develop ReX, an AI Coach who serves as a steadfast career companion for learners, offering personalized coaching, mentorship, and support throughout the various phases of their career lifecycle."
+        },
+        {
+            "title": "Intern",
+            "company": "CirrusLabs",
+            "work_type": "Internship",
+            "start_date": "Jul 2022",
+            "end_date": "Aug 2022",
+            "location": "Alpharetta, Georgia, United States · On-site",
+            "description": "• Designed database and stood-up infrastructure resulting in an automated tutoring process and enabling future enhancements to operations\n• Created the groundwork for an app so the administration can oversee and control volunteer and student progress"
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Kohl's",
+            "work_type": "Part-time",
+            "start_date": "Jun 2022",
+            "end_date": "Aug 2022",
+            "location": "Milton, Georgia, United States · On-site",
+            "description": "● Handled the cash register, bagged items, checked prices, rewarded coupons, engaged with customers\n● Scanned Amazon returns, added to inventory, boxed and labeled returns, loaded items for delivery"
+        }
+    ]
+  },
+  {
+    "id": "https://www.linkedin.com/in/shivamp626/",
+    "name": "Shivam Patel",
+    "profile_pic": "https://media.licdn.com/dms/image/v2/D4E03AQEIJqluPbqbhQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723666049893?e=1749081600&v=beta&t=bT6VskWdOQf6z377BwxXrm3PHIe3sC4MWZuFO_XJ5lY",
+    "headline": "Computer Engineering @ Georgia Institute of Technology",
+    "location": "Lilburn, Georgia, United States",
+    "about": "I am a Computer Engineering student at Georgia Tech, specializing in Cybersecurity and Distributed Systems, with experience in Java, C, MIPS Assembly, and Python. I have successfully deployed e-commerce platforms and developed innovative chatbot systems using Raspberry Pi, blending software and hardware seamlessly. Beyond technical skills, I thrive in leadership roles—coordinating large-scale events and driving community service initiatives. Fueled by a passion for problem-solving and real-world impact, I’m eager to apply my expertise to cutting-edge projects and deliver meaningful solutions that push boundaries.",
+    "educations": [
+        {
+            "school": "Georgia Institute of Technology",
+            "degree": "Bachelor's degree",
+            "major": "Computer Engineering",
+            "start_date": "Jun 2023",
+            "end_date": "May 2026",
+            "description": "Grade: Sophomore"
+        }
+    ],
+    "experiences": [
+        {
+            "title": "Intern",
+            "company": "AXP Services",
+            "work_type": null,
+            "start_date": "Jun 2022",
+            "end_date": "Aug 2022",
+            "location": "Lilburn, Georgia, United States",
+            "description": "During my job shadowing experience at AXP Services, I gained firsthand insight into deploying custom layouts for an online baby products store, utilizing HTML and CSS to create a seamless user interface. I actively assisted in adding new products through the Shopify web service, observing the integration of e-commerce tools to enhance online shopping. Additionally, I learned how to implement JavaScript to build custom text fields for product personalization, deepening my understanding of dynamic web development and user-focused customization. This experience sharpened my technical skills while exposing me to the practical demands of professional web development."
+        }
+    ]
+},
+{
+    "id": "https://www.linkedin.com/in/will-eickman-2649b3252/",
+    "name": "Will Eickman",
+    "profile_pic": "https://media.licdn.com/dms/image/v2/D5603AQFKhqNHIhLs7w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1665000071614?e=1749081600&v=beta&t=Wen3_b3h6rFD7TYxBfDyIaucUC6RHINgTcgUSe3TdYw",
+    "headline": "CS @ Georgia Institute of Technology",
+    "location": "Atlanta, Georgia, United States",
+    "about": null,
+    "educations": [
+        {
+            "school": "Georgia Institute of Technology",
+            "degree": "Computer Science",
+            "major": null,
+            "start_date": "2022",
+            "end_date": "2025",
+            "description": "Activities and societies: WREK Radio, GT Motorsports"
+        }
+    ],
+    "experiences": [
+        {
+            "title": "Undergraduate Research Assistant",
+            "company": "CATLab at Georgia Tech",
+            "work_type": "Part-time",
+            "start_date": "Aug 2023",
+            "end_date": "Present",
+            "location": "Atlanta, Georgia, United States · On-site",
+            "description": "Skills: JavaScript · Research Skills · Research Writing"
+        },
+        {
+            "title": "SDE Intern",
+            "company": "Amazon",
+            "work_type": "Internship",
+            "start_date": "Jun 2024",
+            "end_date": "Aug 2024",
+            "location": "Seattle, Washington, United States · On-site",
+            "description": ""
+        },
+        {
+            "title": "Retail Sales Associate",
+            "company": "Levi Strauss & Co.",
+            "work_type": "Part-time",
+            "start_date": "Oct 2021",
+            "end_date": "Aug 2022",
+            "location": "Calhoun, Georgia, United States",
+            "description": "Skills: Communication · Customer Service"
+        },
+        {
+            "title": "Assistant Swim Coach",
+            "company": "Calhoun County Recreation Dept",
+            "work_type": "Part-time",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "location": "Calhoun, Georgia, United States",
+            "description": "Skills: Management · Coaching · Event Planning"
+        },
+        {
+            "title": "Intern/Lab Assistant",
+            "company": "AdventHealth",
+            "work_type": "Internship",
+            "start_date": "Aug 2021",
+            "end_date": "Dec 2021",
+            "location": "Calhoun, Georgia, United States · On-site",
+            "description": "Assist and observe in the histology, pathology, and hematology labs"
+        },
+        {
+            "title": "Retail Sales Associate",
+            "company": "AMERICAN EAGLE OUTFITTERS INC.",
+            "work_type": "Part-time",
+            "start_date": "Jul 2020",
+            "end_date": "Aug 2021",
+            "location": "Calhoun, Georgia, United States",
+            "description": "Skills: Sales · Customer Service"
+        }
+    ]
+},
+{
+    "name": "Nakul Kuttua",
+    "id": "https://www.linkedin.com/in/nakul-kuttua-nakul/",
+    "profile_pic": "https://media.licdn.com/dms/image/v2/D5603AQFrnujroy6MGQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1682963120418?e=1749081600&v=beta&t=MjHQdoA9-QTQ2MVMWPdcm3Q-KUANlTWusECCPJzxJYA",
+    "headline": "Software Engineer @ Zywie Healthcare | OMSCS @ Georgia Tech",
+    "location": "Alpharetta, Georgia, United States",
+    "about": "As a computer scientist, I am passionate about exploring the applications of information technology, artificial intelligence, and media technology in various domains and industries.\n\nI have gained valuable hands-on experience in IT through my internships at Newell Brands. At Newell Brands, I worked with the IT architecture and info delivery teams to support the design, development, and deployment of various IT solutions and projects. With this experiences, I have accomplished many feats using my problem-solving, free-thinking, and programming skills. I enjoy working with diverse and collaborative teams to contribute to the sustainability and innovation of our communities and environment.\n\nCurrently, I’m pursuing further education at Georgia Tech with a deeper focus on Artificial Intelligence while also interning at Zywie Healthcare as an IT Developer Intern where I build solutions to improve the quality-of-life for their main web application.",
+    "educations": [
+        {
+            "school": "Georgia Institute of Technology",
+            "degree": "Master of Science - MS",
+            "major": "Computer Science",
+            "start_date": "Aug 2024",
+            "end_date": "Dec 2026",
+            "description": ""
+        },
+        {
+            "school": "Georgia Institute of Technology",
+            "degree": "Bachelor of Science - BS",
+            "major": "Computer Science",
+            "start_date": "Jan 2021",
+            "end_date": "Dec 2023",
+            "description": ""
+        },
+        {
+            "school": "Kennesaw State University",
+            "degree": "Bachelor of Science - BS",
+            "major": "Computer Science",
+            "start_date": "Aug 2019",
+            "end_date": "Dec 2020",
+            "description": "Grade: Freshman"
+        }
+    ],
+    "experiences": [
+        {
+            "title": "Software Engineer",
+            "company": "Zywie, Inc.",
+            "work_type": null,
+            "start_date": "Aug 2024",
+            "end_date": "Present",
+            "location": null,
+            "description": ""
+        },
+        {
+            "title": "Software Engineer Intern",
+            "company": "Zywie, Inc.",
+            "work_type": "Internship",
+            "start_date": "May 2024",
+            "end_date": "Aug 2024",
+            "location": null,
+            "description": "At Zywie, I developed solutions to ongoing issues within the company's web server and database.\nThe solutions that I had developed added many quality-of-life adjustments for both the supervisor side and client side."
+        },
+        {
+            "title": "IT Info Delivery Intern",
+            "company": "Newell Brands",
+            "work_type": "Internship",
+            "start_date": "May 2022",
+            "end_date": "Aug 2022",
+            "location": "Sandy Springs, Georgia, United States",
+            "description": "I worked with the Newell Brands IT Info Delivery Team to build a Data Catalog Using Microsoft Azure Purview. The project required all the data assets such as reports, spreadsheets, as well as miscellaneous files to be unified under one platform. Additionally, I was tasked to include a glossary bank of all the key terms that come from all the files into the Data Catalog so that users would be able to navigate easily and hassle-free from one file to the next."
+        },
+        {
+            "title": "IT Architecture Intern",
+            "company": "Newell Brands",
+            "work_type": "Internship",
+            "start_date": "May 2021",
+            "end_date": "Aug 2021",
+            "location": "Sandy Springs, Georgia, United States · Remote",
+            "description": "I worked with the Newell Brands IT Architecture Team to devise a solution for account license management. When employees leave or join the company, their account is tied to a specific license which needs to be deactivated or reactivated, respectively."
+        }
+    ]
+},
+{
+    "name": "Yihao Mai",
+    "id": "https://www.linkedin.com/in/yihaomai/",
+    "profile_pic": "https://media.licdn.com/dms/image/v2/D4E03AQHaMti75QWKWw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1726084969563?e=1749081600&v=beta&t=GYU8iD5-FVlYm0xiP0j2AqQUstcFHr27RbykSdlwuu8",
+    "headline": "Incoming SDE intern @ Tyler Technologies  | BSMS CS @ Georgia Tech",
+    "location": "Lawrenceville, Georgia, United States",
+    "about": "I'm a fourth-year BSMS CS student at Georgia Tech with a strong passion for full-stack development, data management, and AI. Through various internships, projects, and research experiences, I have honed my skills in Java, Python, JavaScript, and frameworks such as React and Spring Boot. I also thrive in collaborative environments and am dedicated to continuous learning, staying up-to-date with the latest technologies to drive innovation and solve complex problems. I am actively seeking a Software Engineer internship opportunity to apply my skills and contribute to impactful projects.",
+    "educations": [
+        {
+            "school": "Georgia Institute of Technology",
+            "degree": "Master's degree",
+            "major": "Computer Science",
+            "start_date": "Jan 2025",
+            "end_date": "May 2026",
+            "description": ""
+        },
+        {
+            "school": "Georgia Institute of Technology",
+            "degree": "Bachelor's degree",
+            "major": "Computer Science",
+            "start_date": "Aug 2022",
+            "end_date": "May 2025",
+            "description": "Grade: Senior"
+        },
+        {
+            "school": "CodePath",
+            "degree": "Certificate in Advanced Technical Interview Prep",
+            "major": "",
+            "start_date": "Sep 2024",
+            "end_date": "",
+            "description": ""
+        }
+    ],
+    "experiences": [
+        {
+            "title": "Software Development Intern",
+            "company": "Tyler Technologies",
+            "work_type": "Internship",
+            "start_date": "Mar 2025",
+            "end_date": "Present",
+            "location": "Lawrenceville, Georgia, United States · On-site",
+            "description": "Incoming summer 2025 SDE intern"
+        },
+        {
+            "title": "Undergraduate Research Assistant",
+            "company": "Georgia Institute of Technology",
+            "work_type": "Part-time",
+            "start_date": "Aug 2024",
+            "end_date": "Present",
+            "location": "Atlanta, Georgia, United States · On-site",
+            "description": "• Undergraduate Research Assistant at the Data to Insights (D2I) lab\n\n• Designed database schemas and structured millions of OpenAlex research records in Azure PostgreSQL, enabling self-controlled data management and serving as the primary data source for the funded CollabNext project\n\n• Leveraged EXPLAIN ANALYZE to refine queries and created materialized views to cache complex query results, reducing runtime from seconds to milliseconds, a 90% speedup\n\n•  Defined ontology mapping schemas and utilized Ontop to convert billions of relational data into RDF format, significantly enhancing the product's scalability and enabling advanced semantic queries"
+        },
+        {
+            "title": "Full Stack Developer Intern",
+            "company": "JobOclock",
+            "work_type": "Internship",
+            "start_date": "Aug 2024",
+            "end_date": "Present",
+            "location": "",
+            "description": "• Designed, implemented, and deployed a Spring Boot email server on AWS EC2 to manage virtual email addresses for users and enabled internal staff to query and forward key information—such as verification codes and links—from application emails, streamlining the application process and reducing manual effort for users applying to hundreds of jobs\n\n• Developed an automated email processing pipeline using AWS SES, S3, and Lambda to extract and store critical information (e.g., sender company, verification links/codes) in DynamoDB for efficient data access and application follow-up communication"
+        },
+        {
+            "title": "Backend Developer",
+            "company": "uniBuzzy",
+            "work_type": "Part-time",
+            "start_date": "Mar 2024",
+            "end_date": "Oct 2024",
+            "location": "Atlanta, Georgia, United States · On-site",
+            "description": "• Created a social media server with Spring Boot by setting entity models, API routes, and service methods, as well as user authentication with Firebase\n\n• Generated database schemas and applying them to the cloud-hosting CockroachDB through Hibernate ORM\n\n• Used stored procedures, batch deletes, and updates in the native query to support larger traffic\n\n• Wrote unit and integration tests with JUnit and Mockito"
+        },
+        {
+            "title": "Research Software Engineer Intern",
+            "company": "IBM",
+            "work_type": "Internship",
+            "start_date": "May 2024",
+            "end_date": "Jul 2024",
+            "location": "",
+            "description": "• Collaborated with an IBM research team to achieve compliance-as-code automation in the Compliance Trestle open-source project, resulting in 1000+ LOCs, 10+ closed issues, 15k monthly downloads\n\n• Identified and resolved bugs with Python to improve the project’s stability\n\n• Refactored the project’s webpage and CLI documentation\n\n• Updated existing demos to the latest Trestle version and added new demos to address additional use cases\n\n• Independently implemented Tekton pipelines to replace existing GitHub Action pipelines for a sub-project, addressing internal restrictions and ensuring the project's pipeline remained operational"
+        }
+    ]
+}
+]
