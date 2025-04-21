@@ -86,7 +86,7 @@ const ChatInterface: React.FC = () => {
               ) : (
                 <div className="space-y-3 animate-message-fade-in opacity-0">
                   {message.text && (
-                    <div className="bg-white border border-gray-200 p-3 rounded-lg shadow-sm">
+                    <div>
                       {message.text}
                     </div>
                   )}
@@ -97,6 +97,11 @@ const ChatInterface: React.FC = () => {
               )}
             </div>
           ))}
+          {isLoading && (
+            <div className="animate-pulse text-center text-gtgrey italic">
+              Searching...
+            </div>
+          )}
           <div ref={messagesEndRef} />
         </div>
       </div>

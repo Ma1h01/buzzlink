@@ -1,4 +1,4 @@
-import { ProfileData } from '@/components/ProfileCard';
+import defaultPic from '@/default-pic.png';
 
 interface Profile {
   id: string;
@@ -10,7 +10,7 @@ interface Profile {
 }
 
 interface ChatbotResponse {
-  result: Array<{
+  alumni: Array<{
     id: string;
     name: string;
     pic?: string;
@@ -51,11 +51,11 @@ export async function sendChatMessage(message: string): Promise<{ text: string; 
     ].join('\n');
 
     // Convert the result array into Profile objects
-    const profiles = chatbotResponse.result.map(profile => ({
-      id: profile.id,
-      name: profile.name,
-      pic: profile.pic || '',  // Add fallback for missing profile pics
-      summary: profile.summary || ''  // Add fallback for missing summaries
+    const profiles = chatbotResponse.alumni.map(item => ({
+      id:      item.id,
+      name:    item.name,
+      pic:     item.pic && item.pic !== 'Unknown' ? item.pic : defaultPic,
+      summary: item.summary || '',
     }));
 
     return {
