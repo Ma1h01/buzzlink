@@ -57,7 +57,7 @@ const ChatInterface: React.FC = () => {
         id: Date.now().toString(),
         type: 'response',
         text: response.text,
-        profiles: response.profiles
+        profiles: response.profiles as ProfileData[]
       };
       
       setMessages(prev => [...prev, responseMessage]);

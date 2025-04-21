@@ -10,11 +10,11 @@ interface Profile {
 }
 
 interface ChatbotResponse {
-  summary: string;
-  highlights: string[];
-  recommendations: Array<{
+  result: Array<{
+    id: string;
     name: string;
-    relevance: string;
+    pic?: string;
+    summary?: string;
   }>;
 }
 
@@ -40,22 +40,27 @@ export async function sendChatMessage(message: string): Promise<{ text: string; 
     }
 
     const data: ApiResponse = await response.json();
+    console.log('Raw API Response:', data);
     const chatbotResponse: ChatbotResponse = JSON.parse(data.response);
+    console.log('Parsed Chatbot Response:', chatbotResponse);
 
-    // Format the response text
+    // Format the response text with just a simple header
     const formattedText = [
-      chatbotResponse.summary,
-      '',
-      'Key Highlights:',
-      ...chatbotResponse.highlights.map(highlight => `• ${highlight}`),
-      '',
-      'Recommended Profiles:',
-      ...chatbotResponse.recommendations.map(rec => `• ${rec.name}: ${rec.relevance}`)
+      `Here are the results:`,
+      ''
     ].join('\n');
+
+    // Convert the result array into Profile objects
+    const profiles = chatbotResponse.result.map(profile => ({
+      id: profile.id,
+      name: profile.name,
+      pic: profile.pic || '',  // Add fallback for missing profile pics
+      summary: profile.summary || ''  // Add fallback for missing summaries
+    }));
 
     return {
       text: formattedText,
-      profiles: data.profiles,
+      profiles: profiles,
     };
   } catch (error) {
     console.error('Error:', error);
