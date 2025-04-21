@@ -4,81 +4,8 @@ import { Input } from "@/components/ui/input";
 import ResponseList from './ResponseList';
 import { ProfileData } from './ProfileCard';
 import { Send } from 'lucide-react';
-
-// Sample data for demo purposes - now matches the new data structure
-const mockProfiles: ProfileData[] = [
-  {
-    id: '1',
-    name: 'Sarah Johnson',
-    image: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330',
-    summary: 'Software Engineer with experience in full-stack development and cloud computing. Currently working on AI/ML projects.',
-    linkedIn: 'https://linkedin.com/'
-  },
-  {
-    id: '2',
-    name: 'David Chen',
-    image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d',
-    summary: 'Product Manager specializing in tech products. Experienced in agile methodologies and cross-functional team leadership.',
-    linkedIn: 'https://linkedin.com/'
-  },
-  {
-    id: '3',
-    name: 'Maria Rodriguez',
-    image: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80',
-    summary: 'Research Scientist focusing on aerospace engineering. Leading innovative projects in spacecraft propulsion systems.',
-    linkedIn: 'https://linkedin.com/'
-  }
-];
-
-// Mock software engineering profiles
-const softwareProfiles: ProfileData[] = [
-  {
-    id: '4',
-    name: 'James Wilson',
-    image: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80',
-    summary: 'Senior Software Engineer at Amazon.',
-    linkedIn: 'https://linkedin.com/'
-  },
-  {
-    id: '5',
-    name: 'Emily Taylor',
-    image: 'https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80',
-    summary: 'Frontend Developer at Twitter.',
-    linkedIn: 'https://linkedin.com/'
-  },
-  {
-    id: '6',
-    name: 'Michael Chang',
-    image: 'https://images.unsplash.com/photo-1552058544-f2b08422138a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80',
-    summary: 'Full Stack Engineer at Facebook.',
-    linkedIn: 'https://linkedin.com/'
-  }
-];
-
-// Mock finance profiles
-const financeProfiles: ProfileData[] = [
-  {
-    id: '7',
-    name: 'Sophia Patel',
-    image: 'https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80',
-    summary: 'Investment Banking Analyst at Goldman Sachs.',
-    linkedIn: 'https://linkedin.com/'
-  },
-  {
-    id: '8',
-    name: 'Robert Johnson',
-    image: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80',
-    summary: 'Financial Analyst at JP Morgan Chase.',
-    linkedIn: 'https://linkedin.com/'
-  },
-  {
-    id: '9',
-    name: 'Jennifer Lee',
-    image: 'https://images.unsplash.com/photo-1491349174775-aaafddd81942?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80',
-    summary: 'Wealth Management Associate at Morgan Stanley.',
-    linkedIn: 'https://linkedin.com/'
-  }
-];
+import { sendChatMessage } from '@/api/chat';
+import { useToast } from "@/components/ui/use-toast";
 
 interface Message {
   id: string;
@@ -94,10 +21,11 @@ const ChatInterface: React.FC = () => {
       id: '0',
       type: 'response',
       text: 'Welcome to BuzzLink! Ask me to help you find Georgia Tech alumni by field, location, or company. Try something like "Find alumni in software engineering" or "Show me GT graduates at Google".',
-      profiles: mockProfiles
+      profiles: []
     }
   ]);
   const [isLoading, setIsLoading] = useState(false);
+  const { toast } = useToast();
   
   const messagesEndRef = useRef<HTMLDivElement>(null);
   
@@ -109,7 +37,7 @@ const ChatInterface: React.FC = () => {
     scrollToBottom();
   }, [messages]);
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     if (!input.trim() || isLoading) return;
     
@@ -122,30 +50,27 @@ const ChatInterface: React.FC = () => {
     setMessages(prev => [...prev, newMessage]);
     setIsLoading(true);
     
-    // Mock response based on user query
-    setTimeout(() => {
-      let responseProfiles: ProfileData[] = [];
-      const query = input.toLowerCase();
-      
-      if (query.includes('software') || query.includes('engineer') || query.includes('developer') || query.includes('programming')) {
-        responseProfiles = softwareProfiles;
-      } else if (query.includes('finance') || query.includes('banking') || query.includes('investment')) {
-        responseProfiles = financeProfiles;
-      } else {
-        responseProfiles = mockProfiles;
-      }
+    try {
+      const response = await sendChatMessage(input);
       
       const responseMessage: Message = {
         id: Date.now().toString(),
         type: 'response',
-        text: `Here are some alumni matching your query: "${input}"`,
-        profiles: responseProfiles
+        text: response.text,
+        profiles: response.profiles
       };
       
       setMessages(prev => [...prev, responseMessage]);
+    } catch (error) {
+      toast({
+        title: "Error",
+        description: "Failed to get response from the chatbot. Please try again.",
+        variant: "destructive",
+      });
+    } finally {
       setInput('');
       setIsLoading(false);
-    }, 1500);
+    }
   };
 
   return (

@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
@@ -13,38 +12,34 @@ export interface ProfileData {
 }
 
 interface ProfileCardProps {
-  profile: ProfileData;
+  name: string;
+  image: string;
+  summary: string;
+  linkedIn: string;
 }
 
-const ProfileCard: React.FC<ProfileCardProps> = ({ profile }) => {
+export default function ProfileCard({ name, image, summary, linkedIn }: ProfileCardProps) {
   return (
-    <Card className="overflow-hidden border border-gray-200 animate-message-fade-in opacity-0" style={{ animationDelay: '0.1s' }}>
-      <CardContent className="p-0">
-        <div className="flex flex-col sm:flex-row">
-          <div className="w-full sm:w-32 h-32 bg-gtlightgrey">
-            <img 
-              src={profile.image} 
-              alt={profile.name} 
-              className="w-full h-full object-cover"
-            />
-          </div>
-          <div className="p-4 flex-1">
-            <div className="flex justify-between items-start">
-              <div>
-                <h3 className="font-bold text-lg text-gtnavy">{profile.name}</h3>
-                <p className="text-sm text-gtgrey mt-2">{profile.summary}</p>
-              </div>
-              {profile.linkedIn && (
-                <Button variant="outline" size="sm" className="bg-blue-500 hover:bg-blue-600 text-white border-0">
-                  <Linkedin className="h-4 w-4 mr-1" /> Connect
-                </Button>
-              )}
-            </div>
-          </div>
+    <div className="bg-white rounded-lg shadow-md p-4 flex flex-col">
+      <div className="flex items-center mb-4">
+        <img
+          src={image}
+          alt={`${name}'s profile`}
+          className="w-16 h-16 rounded-full object-cover mr-4"
+        />
+        <div>
+          <h3 className="font-semibold text-lg">{name}</h3>
+          <a
+            href={linkedIn}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-blue-500 hover:text-blue-600 text-sm"
+          >
+            View LinkedIn Profile
+          </a>
         </div>
-      </CardContent>
-    </Card>
+      </div>
+      <p className="text-gray-600 text-sm line-clamp-4">{summary}</p>
+    </div>
   );
-};
-
-export default ProfileCard;
+}
