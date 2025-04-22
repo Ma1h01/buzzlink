@@ -1,5 +1,5 @@
 import defaultPic from '@/default-pic.png';
-
+import { validateImageUrl } from '@/lib/utils';
 interface Profile {
   id: string;
   name: string;
@@ -51,12 +51,12 @@ export async function sendChatMessage(message: string): Promise<{ text: string; 
     ].join('\n');
 
     // Convert the result array into Profile objects
-    const profiles = chatbotResponse.alumni.map(item => ({
+    const profiles = await Promise.all(chatbotResponse.alumni.map(async (item) => ({
       id:      item.id,
       name:    item.name,
-      pic:     item.pic && item.pic !== 'Unknown' ? item.pic : defaultPic,
+      pic:     item.pic ? await validateImageUrl(item.pic) : defaultPic,
       summary: item.summary || '',
-    }));
+    })));
 
     return {
       text: formattedText,

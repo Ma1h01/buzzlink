@@ -367,15 +367,21 @@ def generate(state: MessagesState):
         • Do not include any information not present in the DOCUMENT.
         • You MUST scan through the entire DOCUMENT list and use all documents that can be helpful to answer the QUESTION.
         • If the DOCUMENT does not contain the facts needed to answer the question, return an empty list [].
-        • You MUST return your answer in a list of JSON objects, and each object contains: 
+        • Treat any duration whose end date is the literal word "Present"/"Unknown" as ongoing on TODAY.
+        • If a question asks about current / present / now, USE ONLY documents whose end date is "Present" or "Unknown".
+        • If a question asks "as of <year>" or "after <month year>", include only docs active on that date:
+            A document duration (<start> to <end>) is active on DATE if <start> ≤ DATE ≤ <end> (or <end> == "Present" or "Unknown").
+        • You MUST return your answer in a JSON object, containing a 'alumni' key, which is a list of JSON objects, and each object contains: 
             1. name: the alumnus's name, 
             2. id: the alumnus's id, 
             3. pic: the alumnus's profile picture URL
             4. summary: summary of alumnus experience using the information from the DOCUMENT.
-        • Treat any duration whose end date is the literal word "Present"/"Unknown" as ongoing on TODAY.
-        • If a question asks about current / present / now, USE ONLY documents whose end‑date == "Present" or "Unknown".
-        • If a question asks "as of <year>" or "after <month year>", include only docs active on that date:
-            A document {{start, end}} is active on DATE if start ≤ DATE ≤ end (or end == "Present" or "Unknown").
+            Example:
+            {{
+                "alumni": [
+                    {{"name": "John Doe", "id": "1234567890", "pic": "https://example.com/pic.jpg", "summary": "John Doe is a software engineer at Google."}}
+                ]
+            }}
         
         DOCUMENT:
         {docs_content}
@@ -429,7 +435,7 @@ async def chat(request: ChatRequest):
         # 4) Initialize profiles list (avoids UnboundLocalError):
         profiles: List[Profile] = []
 
-        # 5) Extract any tool messages (your retrieve calls) to build Profile objects:
+        # 5) Extract any tool messages (your retrieve calls) to build Profile objects:        
         for msg in final_messages:
             if msg.type == "tool" and isinstance(msg.content, tuple):
                 # msg.content is (serialized_string, docs_list)
@@ -445,7 +451,8 @@ async def chat(request: ChatRequest):
                         # assume linkedin_url is the id if it looks like a URL
                         linkedin_url=md.get("id") if md.get("id", "").startswith("http") else None
                     ))
-
+        print(f"response_content: {response_content}")
+        print(f"profiles: {profiles}")
         # 6) Return safely even if no tool messages were found:
         return ChatResponse(response=response_content, profiles=profiles)
 
