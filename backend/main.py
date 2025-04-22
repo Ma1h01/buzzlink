@@ -45,7 +45,7 @@ app.add_middleware(
         "http://localhost:8080",  # Local development
         "http://127.0.0.1:8080",  # Local development
         "https://buzzlink-849d.onrender.com",  # Production backend
-        "https://buzzlink-caq6q88na-yihao-mais-projects.vercel.app/", 
+        "https://buzzlink-omega.vercel.app", 
     ],
     allow_credentials=True,
     allow_methods=["*"],
