@@ -25,7 +25,7 @@ interface ApiResponse {
 
 export async function sendChatMessage(message: string): Promise<{ text: string; profiles: Profile[] }> {
   try {
-    const response = await fetch('http://localhost:8000/chat', {
+    const response = await fetch(import.meta.env.VITE_BACKEND_API_URL + '/chat', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
