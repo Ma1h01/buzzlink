@@ -18,6 +18,7 @@ logger = logging.getLogger(__name__)
 from langchain.text_splitter import CharacterTextSplitter, RecursiveCharacterTextSplitter
 from langchain.docstore.document import Document
 from langchain_ollama import ChatOllama, OllamaEmbeddings
+from langchain_nomic import NomicEmbeddings
 from langchain_qdrant import QdrantVectorStore
 from langchain_core.tools import tool
 from langchain_core.messages import SystemMessage, HumanMessage
@@ -39,7 +40,13 @@ app = FastAPI()
 # Configure CORS
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173", "http://localhost:8080", "http://127.0.0.1:8080"],
+    allow_origins=[
+        "http://localhost:5173",  # Local development
+        "http://localhost:8080",  # Local development
+        "http://127.0.0.1:8080",  # Local development
+        "https://buzzlink-849d.onrender.com",  # Production backend
+        "https://buzzlink-caq6q88na-yihao-mais-projects.vercel.app/", 
+    ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -71,14 +78,15 @@ os.environ["LANGSMITH_API_KEY"] = os.getenv("LANGSMITH_API_KEY")
 if "OPENAI_API_KEY" not in os.environ:
     os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
 
+# Nomic Embeddings API Key
+os.environ["NOMIC_API_KEY"] = os.getenv("NOMIC_API_KEY")
 
 # OpenAI model, requires API key
 llm = ChatOpenAI(model="gpt-4o-mini-2024-07-18", temperature=0)
 # Ensure the response is in JSON format
 llm = llm.bind(response_format={"type": "json_object"}) 
 
-embeddings = OllamaEmbeddings(model="nomic-embed-text")
-
+embeddings = NomicEmbeddings(model="nomic-embed-text-v1.5")
 
 REUSE_COLLECTION = True
 
@@ -429,7 +437,7 @@ async def chat(request: ChatRequest):
         invocation = graph.invoke({"messages": user_msgs})
         final_messages = invocation["messages"]
 
-        # 3) Pull out the assistant’s reply:
+        # 3) Pull out the assistant's reply:
         response_content = final_messages[-1].content
 
         # 4) Initialize profiles list (avoids UnboundLocalError):
