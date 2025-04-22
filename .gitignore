@@ -5,3 +5,6 @@ profile_urls_3rd+.csv
 merged_urls.csv
 config.txt
 .DS_Store
+node_modules/
+.env
+/venv
