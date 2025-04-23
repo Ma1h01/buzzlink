@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+langchain
+langchain-ollama
+langchain-qdrant
+langchain-core
+langchain-openai
+langchain-nomic
+langgraph
+qdrant-client
+ipython
+python-multipart

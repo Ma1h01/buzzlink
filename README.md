@@ -7,19 +7,27 @@ BuzzLink is a conversational search application designed to help Georgia Tech st
 - **Extensible Architecture**: Easily adapt to other datasets or vector stores.
 
 ## Environment Variables
-Create a `.env` file in `src/server/` with the following:
+Create a `.env` file in `backend/` with the following:
 
 ```env
 OPENAI_API_KEY
 LANGSMITH_API_KEY
 QDRANT_URL
 QDRANT_API_KEY
+NOMIC_API_KEY
+```  
+
+Create a `.env` file in `frontend/` with the following:
+
+```env
+VITE_BACKEND_API_URL
+VITE_LOCAL_BACKEND_API_URL
 ```
 
 ## Backend Setup and Run
 1. Navigate to the server directory:
    ```sh
-   cd src/server
+   cd backend
    ```
 2. Install Python dependencies:
    ```sh
@@ -31,14 +39,19 @@ QDRANT_API_KEY
    ```
 
 ## Frontend Setup and Run
-1. From the project root (or client directory), install JavaScript dependencies:
+1. Navigate to the frontend directory:
+   ```sh
+   cd frontend
+   ```
+2. Install JavaScript dependencies:
    ```sh
    npm install
    ```
-2. Launch the development server:
+3. Launch the development server:
    ```sh
    npm run dev
    ```
+* If you want to access the deployed backend, change line `28` in `src/api/chat.ts` to the deployed backend URL: `VITE_BACKEND_API_URL`.
 
 ## Usage
 - Open your browser to the frontend URL.
