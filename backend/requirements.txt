@@ -12,3 +12,5 @@ langgraph
 qdrant-client
 ipython
 python-multipart
+ragas
+unstructured
