@@ -42,8 +42,8 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost:5173",  # Local development
-        "http://localhost:8080",  # Local development
-        "http://127.0.0.1:8080",  # Local development
+        "http://localhost:8081",  # Local development
+        "http://127.0.0.1:8081",  # Local development
         "https://buzzlink-849d.onrender.com",  # Production backend
         "https://buzzlink-omega.vercel.app", 
     ],
